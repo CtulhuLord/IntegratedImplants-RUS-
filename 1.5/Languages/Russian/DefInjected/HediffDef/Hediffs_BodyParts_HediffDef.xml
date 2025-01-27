@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <HackingPortImplant.label>Порт взлома</HackingPortImplant.label>
+    <HackingPortImplant.labelNoun>Имплант порта взлома</HackingPortImplant.labelNoun>
+    <HackingPortImplant.description>Имплантированный порт взлома, позволяющий осуществлять прямой доступ к электронным системам и устройствам для взлома и управления.</HackingPortImplant.description>
+
+    <StrengthEnhancer.label>Усилитель силы</StrengthEnhancer.label>
+    <StrengthEnhancer.labelNoun>Усилитель силы</StrengthEnhancer.labelNoun>
+    <StrengthEnhancer.description>Имплантированный усилитель силы, значительно увеличивающий физическую силу и грузоподъемность.</StrengthEnhancer.description>
+
+    <Synthmarrow.label>Синтетическая кость</Synthmarrow.label>
+    <Synthmarrow.labelNoun>Синтетическая кость</Synthmarrow.labelNoun>
+    <Synthmarrow.description>Имплантированная синтетическая кость, повышающая прочность скелета и устойчивость к повреждениям.</Synthmarrow.description>
+
+    <Synthwomb.label>Бионическая матка</Synthwomb.label>
+    <Synthwomb.labelNoun>Бионическая матка</Synthwomb.labelNoun>
+    <Synthwomb.description>Имплантированная бионическая матка, позволяющая вынашивать потомство вне естественного тела.</Synthwomb.description>
+
+    <GourmandTongue.label>Гурманский язык</GourmandTongue.label>
+    <GourmandTongue.labelNoun>Гурманский язык</GourmandTongue.labelNoun>
+    <GourmandTongue.description>Имплантированный гурманский язык, значительно улучшающий восприятие вкуса и позволяющий получать больше удовольствия от еды.</GourmandTongue.description>
+
+    <LTS_SubdermalArmour.label>Подкожная броня</LTS_SubdermalArmour.label>
+    <LTS_SubdermalArmour.labelNoun>Комплект подкожной брони</LTS_SubdermalArmour.labelNoun>
+    <LTS_SubdermalArmour.description>Имплантированный комплект подкожной брони, обеспечивающий дополнительную защиту от физических повреждений.</LTS_SubdermalArmour.description>
+
+    <BiotunerImplant.label>Биотюнер</BiotunerImplant.label>
+    <BiotunerImplant.labelNoun>Имплант биотюнера</BiotunerImplant.labelNoun>
+    <BiotunerImplant.description>Имплантированный биотюнер, тонко настраивающий физиологические процессы для оптимизации состояния организма.</BiotunerImplant.description>
+
+    <CranialInsulation.label>Черепная изоляция</CranialInsulation.label>
+    <CranialInsulation.labelNoun>Черепная изоляция</CranialInsulation.labelNoun>
+    <CranialInsulation.description>Имплантированная черепная изоляция, защищающая мозг от экстремальных температур и психических воздействий.</CranialInsulation.description>
+
+    <BiochameleonDevice.label>Биохамелеон</BiochameleonDevice.label>
+    <BiochameleonDevice.labelNoun>Устройство «Биохамелеон»</BiochameleonDevice.labelNoun>
+    <BiochameleonDevice.description>Имплантированное устройство «Биохамелеон», позволяющее изменять цвет кожи для маскировки.</BiochameleonDevice.description>
+
+    <LTS_MemoryDatabank.label>Банк памяти</LTS_MemoryDatabank.label>
+    <LTS_MemoryDatabank.labelNoun>Банк памяти</LTS_MemoryDatabank.labelNoun>
+    <LTS_MemoryDatabank.description>Имплантированный банк памяти, значительно улучшающий когнитивные способности и скорость обучения.</LTS_MemoryDatabank.description>
+
+    <LTS_FireSupressionSystem.label>Система пожаротушения</LTS_FireSupressionSystem.label>
+    <LTS_FireSupressionSystem.labelNoun>Система пожаротушения</LTS_FireSupressionSystem.labelNoun>
+    <LTS_FireSupressionSystem.description>Имплантированная система пожаротушения, автоматически тушащая огонь в непосредственной близости от носителя.</LTS_FireSupressionSystem.description>
+
+    <PsychicLevitator.label>Психический левитатор</PsychicLevitator.label>
+    <PsychicLevitator.labelNoun>Имплант психического левитатора</PsychicLevitator.labelNoun>
+    <PsychicLevitator.description>Имплантированный психический левитатор, позволяющий владельцу парить в воздухе.</PsychicLevitator.description>
+
+    <Archowomb.label>Архотек-матка</Archowomb.label>
+    <Archowomb.labelNoun>Архотек-матка</Archowomb.labelNoun>
+    <Archowomb.description>Имплантированная архотек-матка, позволяющая создавать генетически модифицированное потомство.</Archowomb.description>
+
+    <Archoborn.label>Архорожденный</Archoborn.label>
+    <Archoborn.description>Этот человек был выращен в архотек-матке. Хотя это не оставило видимых физических следов, он обладает необычными способностями, выделяющими его среди обычных людей.</Archoborn.description>
+
+    <PsychicNullifier.label>Психический нейтрализатор</PsychicNullifier.label>
+    <PsychicNullifier.labelNoun>Имплант психического нейтрализатора</PsychicNullifier.labelNoun>
+    <PsychicNullifier.description>Имплантированный психический нейтрализатор, блокирующий или ослабляющий воздействие враждебных психических сил.</PsychicNullifier.description>
+
+    <ArchotechVoicebox.label>Архотек-голосовой аппарат</ArchotechVoicebox.label>
+    <ArchotechVoicebox.labelNoun>Архотек-голосовой аппарат</ArchotechVoicebox.labelNoun>
+    <ArchotechVoicebox.description>Имплантированный архотек-голосовой аппарат, позволяющий модулировать голос и передавать сообщения на большие расстояния.</ArchotechVoicebox.description>
+
+    <InternalClimateControlImplant.label>Внутренний климат-контроль</InternalClimateControlImplant.label>
+    <InternalClimateControlImplant.labelNoun>Имплант внутреннего климат-контроля</InternalClimateControlImplant.labelNoun>
+    <InternalClimateControlImplant.description>Имплантированный внутренний климат-контроль, поддерживающий комфортную температуру тела в любых условиях.</InternalClimateControlImplant.description>
+
+    <CryptoWakeImplant.label>Криопробуждающий имплант</CryptoWakeImplant.label>
+    <CryptoWakeImplant.labelNoun>Криопробуждающий имплант</CryptoWakeImplant.labelNoun>
+    <CryptoWakeImplant.description>Имплантированный криопробуждающий имплант, обеспечивающий быстрое и безопасное пробуждение из криогенного сна.</CryptoWakeImplant.description>
+
+    <SkeletalBracing.label>Скелетный каркас</SkeletalBracing.label>
+    <SkeletalBracing.labelNoun>Скелетный каркас</SkeletalBracing.labelNoun>
+    <SkeletalBracing.description>Имплантированный скелетный каркас, значительно увеличивающий прочность и устойчивость к травмам.</SkeletalBracing.description>
+
+    <LactoStimulator.label>Лакто-стимулятор</LactoStimulator.label>
+    <LactoStimulator.labelNoun>Лакто-стимулятор</LactoStimulator.labelNoun>
+    <LactoStimulator.description>Имплантированный лакто-стимулятор, стимулирующий выработку молока у женщин.</LactoStimulator.description>
+</LanguageData>

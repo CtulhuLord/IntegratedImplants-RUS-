@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <InstallPsychokeneticShield.label>Установить психокинетический щит</InstallPsychokeneticShield.label>
+    <InstallPsychokeneticShield.description>Установить психокинетический щит.</InstallPsychokeneticShield.description>
+    <InstallPsychokeneticShield.jobString>Установка психокинетического щита.</InstallPsychokeneticShield.jobString>
+
+    <RemovePsychokeneticShield.label>Удалить психокинетический щит</RemovePsychokeneticShield.label>
+    <RemovePsychokeneticShield.description>Удалить психокинетический щит.</RemovePsychokeneticShield.description>
+    <RemovePsychokeneticShield.jobString>Удаление психокинетического щита.</RemovePsychokeneticShield.jobString>
+
+    <LTS_InstallEmergencyShield.label>Установить экстренный щит</LTS_InstallEmergencyShield.label>
+    <LTS_InstallEmergencyShield.description>Установить экстренный щит.</LTS_InstallEmergencyShield.description>
+    <LTS_InstallEmergencyShield.jobString>Установка экстренного щита.</LTS_InstallEmergencyShield.jobString>
+
+    <LTS_RemoveEmergencyShield.label>Удалить экстренный щит</LTS_RemoveEmergencyShield.label>
+    <LTS_RemoveEmergencyShield.description>Удалить экстренный щит.</LTS_RemoveEmergencyShield.description>
+    <LTS_RemoveEmergencyShield.jobString>Удаление экстренного щита.</LTS_RemoveEmergencyShield.jobString>
+</LanguageData>

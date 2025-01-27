@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <InstallLeftExtraAdvancedBionicArm.label>Установить левую улучшенную бионическую руку</InstallLeftExtraAdvancedBionicArm.label>
+    <InstallLeftExtraAdvancedBionicArm.description>Установить левую улучшенную бионическую руку.</InstallLeftExtraAdvancedBionicArm.description>
+    <InstallLeftExtraAdvancedBionicArm.jobString>Устанавливает левую улучшенную бионическую руку.</InstallLeftExtraAdvancedBionicArm.jobString>
+
+    <RemoveLeftExtraAdvancedBionicArm.label>Удалить левую улучшенную бионическую руку</RemoveLeftExtraAdvancedBionicArm.label>
+    <RemoveLeftExtraAdvancedBionicArm.description>Удалить левую улучшенную бионическую руку.</RemoveLeftExtraAdvancedBionicArm.description>
+    <RemoveLeftExtraAdvancedBionicArm.jobString>Удаляет левую улучшенную бионическую руку.</RemoveLeftExtraAdvancedBionicArm.jobString>
+
+    <InstallRightExtraAdvancedBionicArm.label>Установить правую улучшенную бионическую руку</InstallRightExtraAdvancedBionicArm.label>
+    <InstallRightExtraAdvancedBionicArm.description>Установить правую улучшенную бионическую руку.</InstallRightExtraAdvancedBionicArm.description>
+    <InstallRightExtraAdvancedBionicArm.jobString>Устанавливает правую улучшенную бионическую руку.</InstallRightExtraAdvancedBionicArm.jobString>
+
+    <RemoveRightExtraAdvancedBionicArm.label>Удалить правую улучшенную бионическую руку</RemoveRightExtraAdvancedBionicArm.label>
+    <RemoveRightExtraAdvancedBionicArm.description>Удалить правую улучшенную бионическую руку.</RemoveRightExtraAdvancedBionicArm.description>
+    <RemoveRightExtraAdvancedBionicArm.jobString>Удаляет правую улучшенную бионическую руку.</RemoveRightExtraAdvancedBionicArm.jobString>
+
+    <InstallLeftExtraPowerArm.label>Установить левую силовую руку</InstallLeftExtraPowerArm.label>
+    <InstallLeftExtraPowerArm.description>Установить левую силовую руку.</InstallLeftExtraPowerArm.description>
+    <InstallLeftExtraPowerArm.jobString>Устанавливает левую силовую руку.</InstallLeftExtraPowerArm.jobString>
+
+    <RemoveLeftExtraPowerArm.label>Удалить левую силовую руку</RemoveLeftExtraPowerArm.label>
+    <RemoveLeftExtraPowerArm.description>Удалить левую силовую руку.</RemoveLeftExtraPowerArm.description>
+    <RemoveLeftExtraPowerArm.jobString>Удаляет левую силовую руку.</RemoveLeftExtraPowerArm.jobString>
+
+    <InstallRightExtraPowerArm.label>Установить правую силовую руку</InstallRightExtraPowerArm.label>
+    <InstallRightExtraPowerArm.description>Установить правую силовую руку.</InstallRightExtraPowerArm.description>
+    <InstallRightExtraPowerArm.jobString>Устанавливает правую силовую руку.</InstallRightExtraPowerArm.jobString>
+
+    <RemoveRightExtraPowerArm.label>Удалить правую силовую руку</RemoveRightExtraPowerArm.label>
+    <RemoveRightExtraPowerArm.description>Удалить правую силовую руку.</RemoveRightExtraPowerArm.description>
+    <RemoveRightExtraPowerArm.jobString>Удаляет правую силовую руку.</RemoveRightExtraPowerArm.jobString>
+
+    <InstallLeftExtraAdvancedPowerArm.label>Установить левую улучшенную силовую руку</InstallLeftExtraAdvancedPowerArm.label>
+    <InstallLeftExtraAdvancedPowerArm.description>Установить левую улучшенную силовую руку.</InstallLeftExtraAdvancedPowerArm.description>
+    <InstallLeftExtraAdvancedPowerArm.jobString>Устанавливает левую улучшенную силовую руку.</InstallLeftExtraAdvancedPowerArm.jobString>
+
+    <RemoveLeftExtraAdvancedPowerArm.label>Удалить левую улучшенную силовую руку</RemoveLeftExtraAdvancedPowerArm.label>
+    <RemoveLeftExtraAdvancedPowerArm.description>Удалить левую улучшенную силовую руку.</RemoveLeftExtraAdvancedPowerArm.description>
+    <RemoveLeftExtraAdvancedPowerArm.jobString>Удаляет левую улучшенную силовую руку.</RemoveLeftExtraAdvancedPowerArm.jobString>
+
+    <InstallRightExtraAdvancedPowerArm.label>Установить правую улучшенную силовую руку</InstallRightExtraAdvancedPowerArm.label>
+    <InstallRightExtraAdvancedPowerArm.description>Установить правую улучшенную силовую руку.</InstallRightExtraAdvancedPowerArm.description>
+    <InstallRightExtraAdvancedPowerArm.jobString>Устанавливает правую улучшенную силовую руку.</InstallRightExtraAdvancedPowerArm.jobString>
+
+    <RemoveRightExtraAdvancedPowerArm.label>Удалить правую улучшенную силовую руку</RemoveRightExtraAdvancedPowerArm.label>
+    <RemoveRightExtraAdvancedPowerArm.description>Удалить правую улучшенную силовую руку.</RemoveRightExtraAdvancedPowerArm.description>
+    <RemoveRightExtraAdvancedPowerArm.jobString>Удаляет правую улучшенную силовую руку.</RemoveRightExtraAdvancedPowerArm.jobString>
+
+    <InstallLeftAdvancedExtraDrillArm.label>Установить левую улучшенную руку шахтёра</InstallLeftAdvancedExtraDrillArm.label>
+    <InstallLeftAdvancedExtraDrillArm.description>Установить левую улучшенную руку шахтёра.</InstallLeftAdvancedExtraDrillArm.description>
+    <InstallLeftAdvancedExtraDrillArm.jobString>Устанавливает левую улучшенную руку шахтёра.</InstallLeftAdvancedExtraDrillArm.jobString>
+
+    <RemoveLeftAdvancedExtraDrillArm.label>Удалить левую улучшенную руку шахтёра</RemoveLeftAdvancedExtraDrillArm.label>
+    <RemoveLeftAdvancedExtraDrillArm.description>Удалить левую улучшенную руку шахтёра.</RemoveLeftAdvancedExtraDrillArm.description>
+    <RemoveLeftAdvancedExtraDrillArm.jobString>Удаляет левую улучшенную руку шахтёра.</RemoveLeftAdvancedExtraDrillArm.jobString>
+
+    <InstallRightAdvancedExtraDrillArm.label>Установить правую улучшенную руку шахтёра</InstallRightAdvancedExtraDrillArm.label>
+    <InstallRightAdvancedExtraDrillArm.description>Установить правую улучшенную руку шахтёра.</InstallRightAdvancedExtraDrillArm.description>
+    <InstallRightAdvancedExtraDrillArm.jobString>Устанавливает правую улучшенную руку шахтёра.</InstallRightAdvancedExtraDrillArm.jobString>
+
+    <RemoveRightAdvancedExtraDrillArm.label>Удалить правую улучшенную руку шахтёра</RemoveRightAdvancedExtraDrillArm.label>
+    <RemoveRightAdvancedExtraDrillArm.description>Удалить правую улучшенную руку шахтёра.</RemoveRightAdvancedExtraDrillArm.description>
+    <RemoveRightAdvancedExtraDrillArm.jobString>Удаляет правую улучшенную руку шахтёра.</RemoveRightAdvancedExtraDrillArm.jobString>
+
+    <InstallLeftExtraAdvancedFieldHand.label>Установить левую улучшенную аграрную руку</InstallLeftExtraAdvancedFieldHand.label>
+    <InstallLeftExtraAdvancedFieldHand.description>Установить левую улучшенную аграрную руку.</InstallLeftExtraAdvancedFieldHand.description>
+    <InstallLeftExtraAdvancedFieldHand.jobString>Устанавливает левую улучшенную аграрную руку.</InstallLeftExtraAdvancedFieldHand.jobString>
+
+    <RemoveLeftExtraAdvancedFieldHand.label>Удалить левую улучшенную аграрную руку</RemoveLeftExtraAdvancedFieldHand.label>
+    <RemoveLeftExtraAdvancedFieldHand.description>Удалить левую улучшенную аграрную руку.</RemoveLeftExtraAdvancedFieldHand.description>
+    <RemoveLeftExtraAdvancedFieldHand.jobString>Удаляет левую улучшенную аграрную руку.</RemoveLeftExtraAdvancedFieldHand.jobString>
+
+    <InstallRightExtraAdvancedFieldHand.label>Установить правую улучшенную аграрную руку</InstallRightExtraAdvancedFieldHand.label>
+    <InstallRightExtraAdvancedFieldHand.description>Установить правую улучшенную аграрную руку.</InstallRightExtraAdvancedFieldHand.description>
+    <InstallRightExtraAdvancedFieldHand.jobString>Устанавливает правую улучшенную аграрную руку.</InstallRightExtraAdvancedFieldHand.jobString>
+
+    <RemoveRightExtraAdvancedFieldHand.label>Удалить правую улучшенную аграрную руку</RemoveRightExtraAdvancedFieldHand.label>
+    <RemoveRightExtraAdvancedFieldHand.description>Удалить правую улучшенную аграрную руку.</RemoveRightExtraAdvancedFieldHand.description>
+    <RemoveRightExtraAdvancedFieldHand.jobString>Удаляет правую улучшенную аграрную руку.</RemoveRightExtraAdvancedFieldHand.jobString>
+</LanguageData>

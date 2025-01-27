@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_ScorpionTail.label>Ядовитый хвост</LTS_ScorpionTail.label>
+    <LTS_ScorpionTail.labelNoun>Ядовитый хвост</LTS_ScorpionTail.labelNoun>
+    <LTS_ScorpionTail.description>Имплантированный ядовитый хвост, содержащий железу с сильным нейротоксином. Используется для нанесения болезненных и парализующих уколов.</LTS_ScorpionTail.description>
+    <LTS_ScorpionTail.comps.0.tools.0.label>Укол ядом</LTS_ScorpionTail.comps.0.tools.0.label>
+
+    <LTS_BionicTail.label>Бионический хвост</LTS_BionicTail.label>
+    <LTS_BionicTail.labelNoun>Бионический хвост</LTS_BionicTail.labelNoun>
+    <LTS_BionicTail.description>Имплантированный бионический хвост, значительно улучшающий баланс и ловкость. Может использоваться для нанесения ударов в ближнем бою.</LTS_BionicTail.description>
+    <LTS_BionicTail.comps.0.tools.0.label>Удар хвостом</LTS_BionicTail.comps.0.tools.0.label>
+
+    <LTS_ManipulationTail.label>Хвост с манипулятором</LTS_ManipulationTail.label>
+    <LTS_ManipulationTail.labelNoun>Хвост с манипулятором</LTS_ManipulationTail.labelNoun>
+    <LTS_ManipulationTail.description>Имплантированный хвост с манипулятором, оснащенный тонкими и цепкими пальцами, позволяющими выполнять сложные манипуляции и удерживать предметы.</LTS_ManipulationTail.description>
+</LanguageData>

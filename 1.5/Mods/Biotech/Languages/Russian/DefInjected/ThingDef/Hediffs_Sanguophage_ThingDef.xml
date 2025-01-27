@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <HemoFangs.label>Гемо-клыки</HemoFangs.label>
+    <HemoFangs.description>Пара выдвижных, подпружиненных пласталевых клыков, соединенных с вакуумным насосом. Пользователь может укусить врага, выдвинуть клыки и высосать кровь из цели, преобразуя ее непосредственно в умеренное количество гемогена.\n\nМогут быть установлены только поселенцам с гемогенным геном.</HemoFangs.description>
+
+    <HemogenicMicrocompressor.label>Гемогенный микрокомпрессор</HemogenicMicrocompressor.label>
+    <HemogenicMicrocompressor.description>Усовершенствованный биореактор, который складывает и сжимает гемоген в более плотное состояние, позволяя гемофагу хранить больше внутри своего тела.\n\nМожет быть установлен только поселенцам с гемогенным геном.</HemogenicMicrocompressor.description>
+
+    <HemogenicActivator.label>Гемогенный активатор</HemogenicActivator.label>
+    <HemogenicActivator.description>Улучшенный набор искусственных гемогенных желез, которые позволяют гемофагу более эффективно преобразовывать кровь в гемоген.\n\nМожет быть установлен только поселенцам с гемогенным геном.</HemogenicActivator.description>
+
+    <DeathrestCapacitor.label>Конденсатор смертосна</DeathrestCapacitor.label>
+    <DeathrestCapacitor.description>Выделяет постоянный запас сангвинических химических веществ и специализированных механитов, которые замедляют деградацию во время смертосна.\n\nМожет быть установлен только поселенцам с геном смертосна.</DeathrestCapacitor.description>
+
+    <DeathrestApparatus.label>Аппарат смертосна</DeathrestApparatus.label>
+    <DeathrestApparatus.description>Искусственная вторичная сосудистая система, которая раскрывается во время смертосна, значительно улучшая скорость циркуляции гемогена и регенерации во время смертосна.\n\nМожет быть установлен только поселенцам с геном смертосна.</DeathrestApparatus.description>
+</LanguageData>

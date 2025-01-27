@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_InstallImplantedHighExplosive.label>Имплантировать фугасную бомбу</LTS_InstallImplantedHighExplosive.label>
+    <LTS_InstallImplantedHighExplosive.description>Имплантированная фугасная бомба.</LTS_InstallImplantedHighExplosive.description>
+    <LTS_InstallImplantedHighExplosive.jobString>Имплантирует фугасную бомбу.</LTS_InstallImplantedHighExplosive.jobString>
+
+    <LTS_RemoveImplantedHighExplosive.label>Извлечь фугасную бомбу</LTS_RemoveImplantedHighExplosive.label>
+    <LTS_RemoveImplantedHighExplosive.description>Извлечь фугасную бомбу.</LTS_RemoveImplantedHighExplosive.description>
+    <LTS_RemoveImplantedHighExplosive.jobString>Извлекает фугасную бомбу.</LTS_RemoveImplantedHighExplosive.jobString>
+
+    <LTS_InstallImplantedAntigrainWarhead.label>Имплантировать гранульную бомбу</LTS_InstallImplantedAntigrainWarhead.label>
+    <LTS_InstallImplantedAntigrainWarhead.description>Имплантированная гранульную бомба.</LTS_InstallImplantedAntigrainWarhead.description>
+    <LTS_InstallImplantedAntigrainWarhead.jobString>Имплантирует гранульную бомбу.</LTS_InstallImplantedAntigrainWarhead.jobString>
+
+    <LTS_RemoveImplantedAntigrainWarhead.label>Извлечь гранульную бомбу</LTS_RemoveImplantedAntigrainWarhead.label>
+    <LTS_RemoveImplantedAntigrainWarhead.description>Извлечь гранульную бомбу.</LTS_RemoveImplantedAntigrainWarhead.description>
+    <LTS_RemoveImplantedAntigrainWarhead.jobString>Извлекает гранульную бомбу.</LTS_RemoveImplantedAntigrainWarhead.jobString>
+
+    <LTS_InstallImplantedIncendiary.label>Имплантировать зажигательную бомбу</LTS_InstallImplantedIncendiary.label>
+    <LTS_InstallImplantedIncendiary.description>Имплантированная зажигательная бомба.</LTS_InstallImplantedIncendiary.description>
+    <LTS_InstallImplantedIncendiary.jobString>Имплантирует зажигательную бомбу.</LTS_InstallImplantedIncendiary.jobString>
+
+    <LTS_RemoveImplantedIncendiary.label>Извлечь зажигательную бомбу</LTS_RemoveImplantedIncendiary.label>
+    <LTS_RemoveImplantedIncendiary.description>Извлечь зажигательную бомбу.</LTS_RemoveImplantedIncendiary.description>
+    <LTS_RemoveImplantedIncendiary.jobString>Извлекает зажигательную бомбу.</LTS_RemoveImplantedIncendiary.jobString>
+
+    <LTS_InstallImplantedSmoke.label>Имплантировать дымовую бомбу</LTS_InstallImplantedSmoke.label>
+    <LTS_InstallImplantedSmoke.description>Имплантированная дымовая бомба.</LTS_InstallImplantedSmoke.description>
+    <LTS_InstallImplantedSmoke.jobString>Имплантирует дымовую бомбу.</LTS_InstallImplantedSmoke.jobString>
+
+    <LTS_RemoveImplantedSmoke.label>Извлечь дымовую бомбу</LTS_RemoveImplantedSmoke.label>
+    <LTS_RemoveImplantedSmoke.description>Извлечь дымовую бомбу.</LTS_RemoveImplantedSmoke.description>
+    <LTS_RemoveImplantedSmoke.jobString>Извлекает дымовую бомбу.</LTS_RemoveImplantedSmoke.jobString>
+
+    <LTS_InstallImplantedFirefoam.label>Имплантировать пенную бомбу</LTS_InstallImplantedFirefoam.label>
+    <LTS_InstallImplantedFirefoam.description>Имплантированная пенная бомба.</LTS_InstallImplantedFirefoam.description>
+    <LTS_InstallImplantedFirefoam.jobString>Имплантирует пенную бомбу.</LTS_InstallImplantedFirefoam.jobString>
+
+    <LTS_RemoveImplantedFirefoam.label>Извлечь пенную бомбу</LTS_RemoveImplantedFirefoam.label>
+    <LTS_RemoveImplantedFirefoam.description>Извлечь пенную бомбу.</LTS_RemoveImplantedFirefoam.description>
+    <LTS_RemoveImplantedFirefoam.jobString>Извлекает пенную бомбу.</LTS_RemoveImplantedFirefoam.jobString>
+
+    <LTS_InstallImplantedEMP.label>Имплантировать ЭМИ-бомбу</LTS_InstallImplantedEMP.label>
+    <LTS_InstallImplantedEMP.description>Имплантированная ЭМИ-бомба.</LTS_InstallImplantedEMP.description>
+    <LTS_InstallImplantedEMP.jobString>Имплантирует ЭМИ-бомбу.</LTS_InstallImplantedEMP.jobString>
+
+    <LTS_RemoveImplantedEMP.label>Извлечь ЭМИ-бомбу</LTS_RemoveImplantedEMP.label>
+    <LTS_RemoveImplantedEMP.description>Извлечь ЭМИ-бомбу.</LTS_RemoveImplantedEMP.description>
+    <LTS_RemoveImplantedEMP.jobString>Извлекает ЭМИ-бомбу.</LTS_RemoveImplantedEMP.jobString>
+
+    <LTS_InstallImplantedToxic.label>Имплантировать токсичную бомбу</LTS_InstallImplantedToxic.label>
+    <LTS_InstallImplantedToxic.description>Имплантированная токсичная бомба.</LTS_InstallImplantedToxic.description>
+    <LTS_InstallImplantedToxic.jobString>Имплантирует токсичную бомбу.</LTS_InstallImplantedToxic.jobString>
+
+    <LTS_RemoveImplantedToxic.label>Извлечь токсичную бомбу</LTS_RemoveImplantedToxic.label>
+    <LTS_RemoveImplantedToxic.description>Извлечь токсичную бомбу.</LTS_RemoveImplantedToxic.description>
+    <LTS_RemoveImplantedToxic.jobString>Извлекает токсичную бомбу.</LTS_RemoveImplantedToxic.jobString>
+
+    <LTS_InstallImplantedDeadlife.label>Имплантировать бомбу мертвой жизни</LTS_InstallImplantedDeadlife.label>
+    <LTS_InstallImplantedDeadlife.description>Имплантированная бомба мертвой жизни.</LTS_InstallImplantedDeadlife.description>
+    <LTS_InstallImplantedDeadlife.jobString>Имплантирует бомбу мертвой жизни.</LTS_InstallImplantedDeadlife.jobString>
+
+    <LTS_RemoveImplantedDeadlife.label>Извлечь бомбу мертвой жизни</LTS_RemoveImplantedDeadlife.label>
+    <LTS_RemoveImplantedDeadlife.description>Извлечь бомбу мертвой жизни.</LTS_RemoveImplantedDeadlife.description>
+    <LTS_RemoveImplantedDeadlife.jobString>Извлекает бомбу мертвой жизни.</LTS_RemoveImplantedDeadlife.jobString>
+
+    <LTS_InstallImplantedShrapnel.label>Имплантировать шрапнельную бомбу</LTS_InstallImplantedShrapnel.label>
+    <LTS_InstallImplantedShrapnel.description>Имплантированная шрапнельная бомба.</LTS_InstallImplantedShrapnel.description>
+    <LTS_InstallImplantedShrapnel.jobString>Имплантирует шрапнельную бомбу.</LTS_InstallImplantedShrapnel.jobString>
+
+    <LTS_RemoveImplantedShrapnel.label>Извлечь шрапнельную бомбу</LTS_RemoveImplantedShrapnel.label>
+    <LTS_RemoveImplantedShrapnel.description>Извлечь шрапнельную бомбу.</LTS_RemoveImplantedShrapnel.description>
+    <LTS_RemoveImplantedShrapnel.jobString>Извлекает шрапнельную бомбу.</LTS_RemoveImplantedShrapnel.jobString>
+
+    <LTS_InstallImplantedArmorPiercing.label>Имплантировать бронебойную бомбу</LTS_InstallImplantedArmorPiercing.label>
+    <LTS_InstallImplantedArmorPiercing.description>Имплантированная бронебойная бомба.</LTS_InstallImplantedArmorPiercing.description>
+    <LTS_InstallImplantedArmorPiercing.jobString>Имплантирует бронебойную бомбу.</LTS_InstallImplantedArmorPiercing.jobString>
+
+    <LTS_RemoveImplantedArmorPiercing.label>Извлечь бронебойную бомбу</LTS_RemoveImplantedArmorPiercing.label>
+    <LTS_RemoveImplantedArmorPiercing.description>Извлечь бронебойную бомбу.</LTS_RemoveImplantedArmorPiercing.description>
+    <LTS_RemoveImplantedArmorPiercing.jobString>Извлекает бронебойную бомбу.</LTS_RemoveImplantedArmorPiercing.jobString>
+
+    <LTS_InstallImplantedCluster.label>Имплантировать кассетную бомбу</LTS_InstallImplantedCluster.label>
+    <LTS_InstallImplantedCluster.description>Имплантированная кассетная бомба.</LTS_InstallImplantedCluster.description>
+    <LTS_InstallImplantedCluster.jobString>Имплантирует кассетную бомбу.</LTS_InstallImplantedCluster.jobString>
+
+    <LTS_RemoveImplantedCluster.label>Извлечь кассетную бомбу</LTS_RemoveImplantedCluster.label>
+    <LTS_RemoveImplantedCluster.description>Извлечь кассетную бомбу.</LTS_RemoveImplantedCluster.description>
+    <LTS_RemoveImplantedCluster.jobString>Извлекает кассетную бомбу.</LTS_RemoveImplantedCluster.jobString>
+</LanguageData>

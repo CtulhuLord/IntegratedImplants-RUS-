@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <InstallHackingPortImplant.label>Установить порт взлома</InstallHackingPortImplant.label>
+    <InstallHackingPortImplant.description>Установить порт взлома.</InstallHackingPortImplant.description>
+    <InstallHackingPortImplant.jobString>Устанавливает порт взлома.</InstallHackingPortImplant.jobString>
+
+    <RemoveHackingPortImplant.label>Удалить порт взлома</RemoveHackingPortImplant.label>
+    <RemoveHackingPortImplant.description>Удалить порт взлома.</RemoveHackingPortImplant.description>
+    <RemoveHackingPortImplant.jobString>Удаляет порт взлома.</RemoveHackingPortImplant.jobString>
+
+    <InstallStrengthEnhancer.label>Установить усилитель силы</InstallStrengthEnhancer.label>
+    <InstallStrengthEnhancer.description>Установить усилитель силы.</InstallStrengthEnhancer.description>
+    <InstallStrengthEnhancer.jobString>Устанавливает усилитель силы.</InstallStrengthEnhancer.jobString>
+
+    <RemoveStrengthEnhancer.label>Удалить усилитель силы</RemoveStrengthEnhancer.label>
+    <RemoveStrengthEnhancer.description>Удалить усилитель силы.</RemoveStrengthEnhancer.description>
+    <RemoveStrengthEnhancer.jobString>Удаляет усилитель силы.</RemoveStrengthEnhancer.jobString>
+
+    <InstallSynthmarrow.label>Установить синтетический костный мозг</InstallSynthmarrow.label>
+    <InstallSynthmarrow.description>Установить синтетический костный мозг.</InstallSynthmarrow.description>
+    <InstallSynthmarrow.jobString>Устанавливает синтетический костный мозг.</InstallSynthmarrow.jobString>
+
+    <RemoveSynthmarrow.label>Удалить синтетический костный мозг</RemoveSynthmarrow.label>
+    <RemoveSynthmarrow.description>Удалить синтетический костный мозг.</RemoveSynthmarrow.description>
+    <RemoveSynthmarrow.jobString>Удаляет синтетический костный мозг.</RemoveSynthmarrow.jobString>
+
+    <InstallSynthwomb.label>Установить синтетическую матку</InstallSynthwomb.label>
+    <InstallSynthwomb.description>Установить синтетическую матку.</InstallSynthwomb.description>
+    <InstallSynthwomb.jobString>Устанавливает синтетическую матку.</InstallSynthwomb.jobString>
+
+    <RemoveSynthwomb.label>Удалить синтетическую матку</RemoveSynthwomb.label>
+    <RemoveSynthwomb.description>Удалить синтетическую матку.</RemoveSynthwomb.description>
+    <RemoveSynthwomb.jobString>Удаляет синтетическую матку.</RemoveSynthwomb.jobString>
+
+    <InstallGourmandTongue.label>Установить язык гурмана</InstallGourmandTongue.label>
+    <InstallGourmandTongue.description>Установить язык гурмана.</InstallGourmandTongue.description>
+    <InstallGourmandTongue.jobString>Устанавливает язык гурмана.</InstallGourmandTongue.jobString>
+
+    <RemoveGourmandTongue.label>Удалить язык гурмана</RemoveGourmandTongue.label>
+    <RemoveGourmandTongue.description>Удалить язык гурмана.</RemoveGourmandTongue.description>
+    <RemoveGourmandTongue.jobString>Удаляет язык гурмана.</RemoveGourmandTongue.jobString>
+
+    <LTS_InstallSubdermalArmour.label>Установить подкожную броню</LTS_InstallSubdermalArmour.label>
+    <LTS_InstallSubdermalArmour.description>Установить подкожную броню.</LTS_InstallSubdermalArmour.description>
+    <LTS_InstallSubdermalArmour.jobString>Устанавливает подкожную броню.</LTS_InstallSubdermalArmour.jobString>
+
+    <LTS_RemoveSubdermalArmour.label>Удалить подкожную броню</LTS_RemoveSubdermalArmour.label>
+    <LTS_RemoveSubdermalArmour.description>Удалить подкожную броню.</LTS_RemoveSubdermalArmour.description>
+    <LTS_RemoveSubdermalArmour.jobString>Удаляет подкожную броню.</LTS_RemoveSubdermalArmour.jobString>
+
+    <InstallBiotunerImplant.label>Установить биотюнер</InstallBiotunerImplant.label>
+    <InstallBiotunerImplant.description>Установить биотюнер.</InstallBiotunerImplant.description>
+    <InstallBiotunerImplant.jobString>Устанавливает биотюнер.</InstallBiotunerImplant.jobString>
+
+    <RemoveBiotunerImplant.label>Удалить биотюнер</RemoveBiotunerImplant.label>
+    <RemoveBiotunerImplant.description>Удалить биотюнер.</RemoveBiotunerImplant.description>
+    <RemoveBiotunerImplant.jobString>Удаляет биотюнер.</RemoveBiotunerImplant.jobString>
+
+    <InstallCranialInsulation.label>Установить черепную изоляцию</InstallCranialInsulation.label>
+    <InstallCranialInsulation.description>Установить черепную изоляцию.</InstallCranialInsulation.description>
+    <InstallCranialInsulation.jobString>Устанавливает черепную изоляцию.</InstallCranialInsulation.jobString>
+
+    <RemoveCranialInsulation.label>Удалить черепную изоляцию</RemoveCranialInsulation.label>
+    <RemoveCranialInsulation.description>Удалить черепную изоляцию.</RemoveCranialInsulation.description>
+    <RemoveCranialInsulation.jobString>Удаляет черепную изоляцию.</RemoveCranialInsulation.jobString>
+
+    <InstallBiochameleonDevice.label>Установить биохамелеон</InstallBiochameleonDevice.label>
+    <InstallBiochameleonDevice.description>Установить биохамелеон.</InstallBiochameleonDevice.description>
+    <InstallBiochameleonDevice.jobString>Устанавливает биохамелеон.</InstallBiochameleonDevice.jobString>
+
+    <RemoveBiochameleonDevice.label>Удалить биохамелеон</RemoveBiochameleonDevice.label>
+    <RemoveBiochameleonDevice.description>Удалить биохамелеон.</RemoveBiochameleonDevice.description>
+    <RemoveBiochameleonDevice.jobString>Удаляет биохамелеон.</RemoveBiochameleonDevice.jobString>
+
+    <LTS_InstallMemoryDatabank.label>Установить банк памяти</LTS_InstallMemoryDatabank.label>
+    <LTS_InstallMemoryDatabank.description>Установить банк памяти.</LTS_InstallMemoryDatabank.description>
+    <LTS_InstallMemoryDatabank.jobString>Устанавливает банк памяти.</LTS_InstallMemoryDatabank.jobString>
+
+    <LTS_RemoveMemoryDatabank.label>Удалить банк памяти</LTS_RemoveMemoryDatabank.label>
+    <LTS_RemoveMemoryDatabank.description>Удалить банк памяти.</LTS_RemoveMemoryDatabank.description>
+    <LTS_RemoveMemoryDatabank.jobString>Удаляет банк памяти.</LTS_RemoveMemoryDatabank.jobString>
+
+    <LTS_InstallFireSupressionSystem.label>Установить систему пожаротушения</LTS_InstallFireSupressionSystem.label>
+    <LTS_InstallFireSupressionSystem.description>Установить систему пожаротушения.</LTS_InstallFireSupressionSystem.description>
+    <LTS_InstallFireSupressionSystem.jobString>Устанавливает систему пожаротушения.</LTS_InstallFireSupressionSystem.jobString>
+
+    <LTS_RemoveFireSupressionSystem.label>Удалить систему пожаротушения</LTS_RemoveFireSupressionSystem.label>
+    <LTS_RemoveFireSupressionSystem.description>Удалить систему пожаротушения.</LTS_RemoveFireSupressionSystem.description>
+    <LTS_RemoveFireSupressionSystem.jobString>Удаляет систему пожаротушения.</LTS_RemoveFireSupressionSystem.jobString>
+
+    <InstallPsychicLevitator.label>Установить психический левитатор</InstallPsychicLevitator.label>
+    <InstallPsychicLevitator.description>Установить психический левитатор.</InstallPsychicLevitator.description>
+    <InstallPsychicLevitator.jobString>Устанавливает психический левитатор.</InstallPsychicLevitator.jobString>
+
+    <RemovePsychicLevitator.label>Удалить психический левитатор</RemovePsychicLevitator.label>
+    <RemovePsychicLevitator.description>Удалить психический левитатор.</RemovePsychicLevitator.description>
+    <RemovePsychicLevitator.jobString>Удаляет психический левитатор.</RemovePsychicLevitator.jobString>
+
+    <InstallArchowomb.label>Установить архотек-матку</InstallArchowomb.label>
+    <InstallArchowomb.description>Установить архотек-матку.</InstallArchowomb.description>
+    <InstallArchowomb.jobString>Устанавливает архотек-матку.</InstallArchowomb.jobString>
+
+    <RemoveArchowomb.label>Удалить архотек-матку</RemoveArchowomb.label>
+    <RemoveArchowomb.description>Удалить архотек-матку.</RemoveArchowomb.description>
+    <RemoveArchowomb.jobString>Удаляет архотек-матку.</RemoveArchowomb.jobString>
+
+    <InstallPsychicNullifier.label>Установить психический нейтрализатор</InstallPsychicNullifier.label>
+    <InstallPsychicNullifier.description>Установить психический нейтрализатор.</InstallPsychicNullifier.description>
+    <InstallPsychicNullifier.jobString>Устанавливает психический нейтрализатор.</InstallPsychicNullifier.jobString>
+
+    <RemovePsychicNullifier.label>Удалить психический нейтрализатор</RemovePsychicNullifier.label>
+    <RemovePsychicNullifier.description>Удалить психический нейтрализатор.</RemovePsychicNullifier.description>
+    <RemovePsychicNullifier.jobString>Удаляет психический нейтрализатор.</RemovePsychicNullifier.jobString>
+
+    <InstallArchotechVoicebox.label>Установить архотек-голосовой аппарат</InstallArchotechVoicebox.label>
+    <InstallArchotechVoicebox.description>Установить архотек-голосовой аппарат.</InstallArchotechVoicebox.description>
+    <InstallArchotechVoicebox.jobString>Устанавливает архотек-голосовой аппарат.</InstallArchotechVoicebox.jobString>
+
+    <RemoveArchotechVoicebox.label>Удалить архотек-голосовой аппарат</RemoveArchotechVoicebox.label>
+    <RemoveArchotechVoicebox.description>Удалить архотек-голосовой аппарат.</RemoveArchotechVoicebox.description>
+    <RemoveArchotechVoicebox.jobString>Удаляет архотек-голосовой аппарат.</RemoveArchotechVoicebox.jobString>
+
+    <InstallInternalClimateControlImplant.label>Установить имплант внутреннего климат-контроля</InstallInternalClimateControlImplant.label>
+    <InstallInternalClimateControlImplant.description>Установить имплант внутреннего климат-контроля.</InstallInternalClimateControlImplant.description>
+    <InstallInternalClimateControlImplant.jobString>Устанавливает имплант внутреннего климат-контроля.</InstallInternalClimateControlImplant.jobString>
+
+    <RemoveInternalClimateControlImplant.label>Удалить имплант внутреннего климат-контроля</RemoveInternalClimateControlImplant.label>
+    <RemoveInternalClimateControlImplant.description>Удалить имплант внутреннего климат-контроля.</RemoveInternalClimateControlImplant.description>
+    <RemoveInternalClimateControlImplant.jobString>Удаляет имплант внутреннего климат-контроля.</RemoveInternalClimateControlImplant.jobString>
+
+    <InstallCryptoWakeImplant.label>Установить криптосонный имплант</InstallCryptoWakeImplant.label>
+    <InstallCryptoWakeImplant.description>Установить криптосонный имплант.</InstallCryptoWakeImplant.description>
+    <InstallCryptoWakeImplant.jobString>Устанавливает криптосонный имплант.</InstallCryptoWakeImplant.jobString>
+
+    <RemoveCryptoWakeImplant.label>Удалить криптосонный имплант</RemoveCryptoWakeImplant.label>
+    <RemoveCryptoWakeImplant.description>Удалить криптосонный имплант.</RemoveCryptoWakeImplant.description>
+    <RemoveCryptoWakeImplant.jobString>Удаляет криптосонный имплант.</RemoveCryptoWakeImplant.jobString>
+
+    <InstallSkeletalBracing.label>Установить скелетный каркас</InstallSkeletalBracing.label>
+    <InstallSkeletalBracing.description>Установить скелетный каркас.</InstallSkeletalBracing.description>
+    <InstallSkeletalBracing.jobString>Устанавливает скелетный каркас.</InstallSkeletalBracing.jobString>
+
+    <RemoveSkeletalBracing.label>Удалить скелетный каркас</RemoveSkeletalBracing.label>
+    <RemoveSkeletalBracing.description>Удалить скелетный каркас.</RemoveSkeletalBracing.description>
+    <RemoveSkeletalBracing.jobString>Удаляет скелетный каркас.</RemoveSkeletalBracing.jobString>
+
+    <InstallLactoStimulator.label>Установить лактостимулятор</InstallLactoStimulator.label>
+    <InstallLactoStimulator.description>Установить лактостимулятор.</InstallLactoStimulator.description>
+    <InstallLactoStimulator.jobString>Устанавливает лактостимулятор.</InstallLactoStimulator.jobString>
+
+    <RemoveLactoStimulator.label>Удалить лактостимулятор</RemoveLactoStimulator.label>
+    <RemoveLactoStimulator.description>Удалить лактостимулятор.</RemoveLactoStimulator.description>
+    <RemoveLactoStimulator.jobString>Удаляет лактостимулятор.</RemoveLactoStimulator.jobString>
+</LanguageData>

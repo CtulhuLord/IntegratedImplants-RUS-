@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <InstallLeftExtraAraMantisBlade.label>Установить левый клинок богомола Арасака</InstallLeftExtraAraMantisBlade.label>
+    <InstallLeftExtraAraMantisBlade.description>Установить левый клинок богомола Арасака.</InstallLeftExtraAraMantisBlade.description>
+    <InstallLeftExtraAraMantisBlade.jobString>Устанавливает левый клинок богомола Арасака.</InstallLeftExtraAraMantisBlade.jobString>
+
+    <RemoveLeftExtraAraMantisBlade.label>Удалить левый клинок богомола Арасака</RemoveLeftExtraAraMantisBlade.label>
+    <RemoveLeftExtraAraMantisBlade.description>Удалить левый клинок богомола Арасака.</RemoveLeftExtraAraMantisBlade.description>
+    <RemoveLeftExtraAraMantisBlade.jobString>Удаляет левый клинок богомола Арасака.</RemoveLeftExtraAraMantisBlade.jobString>
+
+    <InstallRightExtraAraMantisBlade.label>Установить правый клинок богомола Арасака</InstallRightExtraAraMantisBlade.label>
+    <InstallRightExtraAraMantisBlade.description>Установить правый клинок богомола Арасака.</InstallRightExtraAraMantisBlade.description>
+    <InstallRightExtraAraMantisBlade.jobString>Устанавливает правый клинок богомола Арасака.</InstallRightExtraAraMantisBlade.jobString>
+
+    <RemoveRightExtraAraMantisBlade.label>Удалить правый клинок богомола Арасака</RemoveRightExtraAraMantisBlade.label>
+    <RemoveRightExtraAraMantisBlade.description>Удалить правый клинок богомола Арасака.</RemoveRightExtraAraMantisBlade.description>
+    <RemoveRightExtraAraMantisBlade.jobString>Удаляет правый клинок богомола Арасака.</RemoveRightExtraAraMantisBlade.jobString>
+
+    <InstallLeftExtraAraArm.label>Установить левую кибер-руку Арасака</InstallLeftExtraAraArm.label>
+    <InstallLeftExtraAraArm.description>Установить левую кибер-руку Арасака.</InstallLeftExtraAraArm.description>
+    <InstallLeftExtraAraArm.jobString>Устанавливает левую кибер-руку Арасака.</InstallLeftExtraAraArm.jobString>
+
+    <RemoveLeftExtraAraArm.label>Удалить левую кибер-руку Арасака</RemoveLeftExtraAraArm.label>
+    <RemoveLeftExtraAraArm.description>Удалить левую кибер-руку Арасака.</RemoveLeftExtraAraArm.description>
+    <RemoveLeftExtraAraArm.jobString>Удаляет левую кибер-руку Арасака.</RemoveLeftExtraAraArm.jobString>
+
+    <InstallRightExtraAraArm.label>Установить правую кибер-руку Арасака</InstallRightExtraAraArm.label>
+    <InstallRightExtraAraArm.description>Установить правую кибер-руку Арасака.</InstallRightExtraAraArm.description>
+    <InstallRightExtraAraArm.jobString>Устанавливает правую кибер-руку Арасака.</InstallRightExtraAraArm.jobString>
+
+    <RemoveRightExtraAraArm.label>Удалить правую кибер-руку Арасака</RemoveRightExtraAraArm.label>
+    <RemoveRightExtraAraArm.description>Удалить правую кибер-руку Арасака.</RemoveRightExtraAraArm.description>
+    <RemoveRightExtraAraArm.jobString>Удаляет правую кибер-руку Арасака.</RemoveRightExtraAraArm.jobString>
+</LanguageData>

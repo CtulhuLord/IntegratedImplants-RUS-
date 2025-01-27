@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LeftExtraAraMantisBlade.label>Левый дополнительный клинок богомола Арасака</LeftExtraAraMantisBlade.label>
+  <LeftExtraAraMantisBlade.labelNoun>Левый дополнительный клинок богомола Арасака</LeftExtraAraMantisBlade.labelNoun>
+  <LeftExtraAraMantisBlade.description>Имплантированный левый дополнительный клинок богомола Арасака. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraAraMantisBlade.description>
+  <LeftExtraAraMantisBlade.comps.1.tools.0.label>клинок богомола</LeftExtraAraMantisBlade.comps.1.tools.0.label>
+  <LeftExtraAraMantisBlade.stages.0.label>Неуклюжий</LeftExtraAraMantisBlade.stages.0.label>
+  <LeftExtraAraMantisBlade.stages.1.label>Неудобный</LeftExtraAraMantisBlade.stages.1.label>
+  <LeftExtraAraMantisBlade.stages.2.label>Привычный</LeftExtraAraMantisBlade.stages.2.label>
+  <LeftExtraAraMantisBlade.stages.3.label>Как родной</LeftExtraAraMantisBlade.stages.3.label>
+
+  <RightExtraAraMantisBlade.label>Правый дополнительный клинок богомола Арасака</RightExtraAraMantisBlade.label>
+  <RightExtraAraMantisBlade.labelNoun>Правый дополнительный клинок богомола Арасака</RightExtraAraMantisBlade.labelNoun>
+  <RightExtraAraMantisBlade.description>Имплантированный правый дополнительный клинок богомола Арасака. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraAraMantisBlade.description>
+  <RightExtraAraMantisBlade.comps.1.tools.0.label>клинок богомола</RightExtraAraMantisBlade.comps.1.tools.0.label>
+  <RightExtraAraMantisBlade.stages.0.label>Неуклюжий</RightExtraAraMantisBlade.stages.0.label>
+  <RightExtraAraMantisBlade.stages.1.label>Неудобный</RightExtraAraMantisBlade.stages.1.label>
+  <RightExtraAraMantisBlade.stages.2.label>Привычный</RightExtraAraMantisBlade.stages.2.label>
+  <RightExtraAraMantisBlade.stages.3.label>Как родной</RightExtraAraMantisBlade.stages.3.label>
+
+  <LeftExtraAraArm.label>Левая дополнительная кибер-рука Арасака</LeftExtraAraArm.label>
+  <LeftExtraAraArm.labelNoun>Левая дополнительная кибер-рука Арасака</LeftExtraAraArm.labelNoun>
+  <LeftExtraAraArm.description>Имплантированная левая дополнительная кибер-рука Арасака. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraAraArm.description>
+  <LeftExtraAraArm.comps.1.tools.0.label>Кулак</LeftExtraAraArm.comps.1.tools.0.label>
+  <LeftExtraAraArm.stages.0.label>Неуклюжая</LeftExtraAraArm.stages.0.label>
+  <LeftExtraAraArm.stages.1.label>Неудобная</LeftExtraAraArm.stages.1.label>
+  <LeftExtraAraArm.stages.2.label>Привычная</LeftExtraAraArm.stages.2.label>
+  <LeftExtraAraArm.stages.3.label>Как родная</LeftExtraAraArm.stages.3.label>
+
+  <RightExtraAraArm.label>Правая дополнительная кибер-рука Арасака</RightExtraAraArm.label>
+  <RightExtraAraArm.labelNoun>Правая дополнительная кибер-рука Арасака</RightExtraAraArm.labelNoun>
+  <RightExtraAraArm.description>Имплантированная правая дополнительная кибер-рука Арасака. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraAraArm.description>
+  <RightExtraAraArm.comps.1.tools.0.label>Кулак</RightExtraAraArm.comps.1.tools.0.label>
+  <RightExtraAraArm.stages.0.label>Неуклюжая</RightExtraAraArm.stages.0.label>
+  <RightExtraAraArm.stages.1.label>Неудобная</RightExtraAraArm.stages.1.label>
+  <RightExtraAraArm.stages.2.label>Привычная</RightExtraAraArm.stages.2.label>
+  <RightExtraAraArm.stages.3.label>Как родная</RightExtraAraArm.stages.3.label>
+</LanguageData>

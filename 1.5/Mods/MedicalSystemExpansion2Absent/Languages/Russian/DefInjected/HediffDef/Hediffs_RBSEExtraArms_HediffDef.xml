@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RBSE_LeftExtraPowerArm.label>Левый дополнительный силовой протез</RBSE_LeftExtraPowerArm.label>
+  <RBSE_LeftExtraPowerArm.labelNoun>Левый дополнительный силовой протез</RBSE_LeftExtraPowerArm.labelNoun>
+  <RBSE_LeftExtraPowerArm.description>Имплантированный левый дополнительный силовой протез. \n\nПоскольку людям обычно не хватает опыта использования более чем 2 рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RBSE_LeftExtraPowerArm.description>
+  <RBSE_LeftExtraPowerArm.comps.1.tools.0.label>Кулак</RBSE_LeftExtraPowerArm.comps.1.tools.0.label>
+  <RBSE_LeftExtraPowerArm.stages.0.label>Неуклюжий</RBSE_LeftExtraPowerArm.stages.0.label>
+  <RBSE_LeftExtraPowerArm.stages.1.label>Неудобный</RBSE_LeftExtraPowerArm.stages.1.label>
+  <RBSE_LeftExtraPowerArm.stages.2.label>Привычный</RBSE_LeftExtraPowerArm.stages.2.label>
+  <RBSE_LeftExtraPowerArm.stages.3.label>Как родной</RBSE_LeftExtraPowerArm.stages.3.label>
+
+  <RBSE_RightExtraPowerArm.label>Правый дополнительный силовой протез</RBSE_RightExtraPowerArm.label>
+  <RBSE_RightExtraPowerArm.labelNoun>Правый дополнительный силовой протез</RBSE_RightExtraPowerArm.labelNoun>
+  <RBSE_RightExtraPowerArm.description>Имплантированный правый дополнительный силовой протез. \n\nПоскольку людям обычно не хватает опыта использования более чем 2 рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RBSE_RightExtraPowerArm.description>
+  <RBSE_RightExtraPowerArm.comps.1.tools.0.label>Кулак</RBSE_RightExtraPowerArm.comps.1.tools.0.label>
+  <RBSE_RightExtraPowerArm.stages.0.label>Неуклюжий</RBSE_RightExtraPowerArm.stages.0.label>
+  <RBSE_RightExtraPowerArm.stages.1.label>Неудобный</RBSE_RightExtraPowerArm.stages.1.label>
+  <RBSE_RightExtraPowerArm.stages.2.label>Привычный</RBSE_RightExtraPowerArm.stages.2.label>
+  <RBSE_RightExtraPowerArm.stages.3.label>Как родной</RBSE_RightExtraPowerArm.stages.3.label>
+
+  <RBSE_LeftExtraAdvancedPowerArm.label>Левый дополнительный улучшенный силовой протез</RBSE_LeftExtraAdvancedPowerArm.label>
+  <RBSE_LeftExtraAdvancedPowerArm.labelNoun>Левый дополнительный улучшенный силовой протез</RBSE_LeftExtraAdvancedPowerArm.labelNoun>
+  <RBSE_LeftExtraAdvancedPowerArm.description>Имплантированный левый дополнительный улучшенный силовой протез. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RBSE_LeftExtraAdvancedPowerArm.description>
+  <RBSE_LeftExtraAdvancedPowerArm.comps.1.tools.0.label>Кулак</RBSE_LeftExtraAdvancedPowerArm.comps.1.tools.0.label>
+  <RBSE_LeftExtraAdvancedPowerArm.stages.0.label>Неуклюжий</RBSE_LeftExtraAdvancedPowerArm.stages.0.label>
+  <RBSE_LeftExtraAdvancedPowerArm.stages.1.label>Неудобный</RBSE_LeftExtraAdvancedPowerArm.stages.1.label>
+  <RBSE_LeftExtraAdvancedPowerArm.stages.2.label>Привычный</RBSE_LeftExtraAdvancedPowerArm.stages.2.label>
+  <RBSE_LeftExtraAdvancedPowerArm.stages.3.label>Как родной</RBSE_LeftExtraAdvancedPowerArm.stages.3.label>
+
+  <RBSE_RightExtraAdvancedPowerArm.label>Правый дополнительный улучшенный силовой протез</RBSE_RightExtraAdvancedPowerArm.label>
+  <RBSE_RightExtraAdvancedPowerArm.labelNoun>Правый дополнительный улучшенный силовой протез</RBSE_RightExtraAdvancedPowerArm.labelNoun>
+  <RBSE_RightExtraAdvancedPowerArm.description>Имплантированный правый дополнительный улучшенный силовой протез. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RBSE_RightExtraAdvancedPowerArm.description>
+  <RBSE_RightExtraAdvancedPowerArm.comps.1.tools.0.label>Кулак</RBSE_RightExtraAdvancedPowerArm.comps.1.tools.0.label>
+  <RBSE_RightExtraAdvancedPowerArm.stages.0.label>Неуклюжий</RBSE_RightExtraAdvancedPowerArm.stages.0.label>
+  <RBSE_RightExtraAdvancedPowerArm.stages.1.label>Неудобный</RBSE_RightExtraAdvancedPowerArm.stages.1.label>
+  <RBSE_RightExtraAdvancedPowerArm.stages.2.label>Привычный</RBSE_RightExtraAdvancedPowerArm.stages.2.label>
+  <RBSE_RightExtraAdvancedPowerArm.stages.3.label>Как родной</RBSE_RightExtraAdvancedPowerArm.stages.3.label>
+
+  <RBSE_LeftExtraAdvancedBionicArm.label>Левая дополнительная улучшенная бионическая рука</RBSE_LeftExtraAdvancedBionicArm.label>
+  <RBSE_LeftExtraAdvancedBionicArm.labelNoun>Левая дополнительная улучшенная бионическая рука</RBSE_LeftExtraAdvancedBionicArm.labelNoun>
+  <RBSE_LeftExtraAdvancedBionicArm.description>Имплантированная левая дополнительная улучшенная бионическая рука. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RBSE_LeftExtraAdvancedBionicArm.description>
+  <RBSE_LeftExtraAdvancedBionicArm.comps.1.tools.0.label>Кулак</RBSE_LeftExtraAdvancedBionicArm.comps.1.tools.0.label>
+  <RBSE_LeftExtraAdvancedBionicArm.stages.0.label>Неуклюжая</RBSE_LeftExtraAdvancedBionicArm.stages.0.label>
+  <RBSE_LeftExtraAdvancedBionicArm.stages.1.label>Неудобная</RBSE_LeftExtraAdvancedBionicArm.stages.1.label>
+  <RBSE_LeftExtraAdvancedBionicArm.stages.2.label>Привычная</RBSE_LeftExtraAdvancedBionicArm.stages.2.label>
+  <RBSE_LeftExtraAdvancedBionicArm.stages.3.label>Как родная</RBSE_LeftExtraAdvancedBionicArm.stages.3.label>
+
+  <RBSE_RightExtraAdvancedBionicArm.label>Правая дополнительная улучшенная бионическая рука</RBSE_RightExtraAdvancedBionicArm.label>
+  <RBSE_RightExtraAdvancedBionicArm.labelNoun>Правая дополнительная улучшенная бионическая рука</RBSE_RightExtraAdvancedBionicArm.labelNoun>
+  <RBSE_RightExtraAdvancedBionicArm.description>Имплантированная правая дополнительная улучшенная бионическая рука. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RBSE_RightExtraAdvancedBionicArm.description>
+  <RBSE_RightExtraAdvancedBionicArm.comps.1.tools.0.label>Кулак</RBSE_RightExtraAdvancedBionicArm.comps.1.tools.0.label>
+  <RBSE_RightExtraAdvancedBionicArm.stages.0.label>Неуклюжая</RBSE_RightExtraAdvancedBionicArm.stages.0.label>
+  <RBSE_RightExtraAdvancedBionicArm.stages.1.label>Неудобная</RBSE_RightExtraAdvancedBionicArm.stages.1.label>
+  <RBSE_RightExtraAdvancedBionicArm.stages.2.label>Привычная</RBSE_RightExtraAdvancedBionicArm.stages.2.label>
+  <RBSE_RightExtraAdvancedBionicArm.stages.3.label>Как родная</RBSE_RightExtraAdvancedBionicArm.stages.3.label>
+</LanguageData>

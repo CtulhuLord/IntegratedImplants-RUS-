@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_ModuleArm_Shotgun.label>Рука-дробовик</LTS_ModuleArm_Shotgun.label>
+    <LTS_ModuleArm_Shotgun.description>Выдвинуть и выстрелить из внутреннего оружия.</LTS_ModuleArm_Shotgun.description>
+
+    <LTS_ModuleArm_SMG.label>Рука-пистолет-пулемёт</LTS_ModuleArm_SMG.label>
+    <LTS_ModuleArm_SMG.description>Выдвинуть и выстрелить из внутреннего оружия.</LTS_ModuleArm_SMG.description>
+
+    <LTS_ModuleArm_Gauss.label>Рука-гаусс-винтовка</LTS_ModuleArm_Gauss.label>
+    <LTS_ModuleArm_Gauss.description>Выдвинуть и выстрелить из внутреннего оружия.</LTS_ModuleArm_Gauss.description>
+
+    <LTS_ModuleArm_Incinerator.label>Рука-инсинератор</LTS_ModuleArm_Incinerator.label>
+    <LTS_ModuleArm_Incinerator.description>Выдвинуть и выстрелить из внутреннего оружия.</LTS_ModuleArm_Incinerator.description>
+
+    <LTS_ModuleArm_DartGun.label>Рука-дротикомёт</LTS_ModuleArm_DartGun.label>
+    <LTS_ModuleArm_DartGun.description>Выдвинуть и выстрелить из внутреннего оружия.</LTS_ModuleArm_DartGun.description>
+
+    <LTS_ModuleLeg_Sprint.label>Бионический спринт</LTS_ModuleLeg_Sprint.label>
+    <LTS_ModuleLeg_Sprint.description>Значительно увеличить скорость передвижения на короткое время, используя установленный модуль спринта.</LTS_ModuleLeg_Sprint.description>
+
+    <LTS_ModuleLeg_Leap.label>Бионический прыжок</LTS_ModuleLeg_Leap.label>
+    <LTS_ModuleLeg_Leap.description>Прыгнуть в отдалённое место, используя установленный модуль прыжка.</LTS_ModuleLeg_Leap.description>
+    <LTS_ModuleLeg_Leap.verbProperties.label>Прыжок</LTS_ModuleLeg_Leap.verbProperties.label>
+</LanguageData>

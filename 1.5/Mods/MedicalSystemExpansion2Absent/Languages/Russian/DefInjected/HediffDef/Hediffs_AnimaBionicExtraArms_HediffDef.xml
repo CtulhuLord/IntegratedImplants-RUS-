@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LeftExtraAnimaGauranlenArm.label>Левая дополнительная анималистическая рука гауранлен</LeftExtraAnimaGauranlenArm.label>
+  <LeftExtraAnimaGauranlenArm.labelNoun>Левая дополнительная анималистическая рука гауранлен</LeftExtraAnimaGauranlenArm.labelNoun>
+  <LeftExtraAnimaGauranlenArm.description>Имплантированная дополнительная анималистическая рука гауранлен. Подражает связи с гауранлен, улучшая психическую связь пользователя с флорой планеты. Усиливает медитацию.
+
+Поскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraAnimaGauranlenArm.description>
+  <LeftExtraAnimaGauranlenArm.stages.0.label>Неуклюжая</LeftExtraAnimaGauranlenArm.stages.0.label>
+  <LeftExtraAnimaGauranlenArm.stages.1.label>Неудобная</LeftExtraAnimaGauranlenArm.stages.1.label>
+  <LeftExtraAnimaGauranlenArm.stages.2.label>Привычная</LeftExtraAnimaGauranlenArm.stages.2.label>
+  <LeftExtraAnimaGauranlenArm.stages.3.label>Как родная</LeftExtraAnimaGauranlenArm.stages.3.label>
+
+  <RightExtraAnimaGauranlenArm.label>Правая дополнительная анималистическая рука гауранлен</RightExtraAnimaGauranlenArm.label>
+  <RightExtraAnimaGauranlenArm.labelNoun>Правая дополнительная анималистическая рука гауранлен</RightExtraAnimaGauranlenArm.labelNoun>
+  <RightExtraAnimaGauranlenArm.description>Имплантированная дополнительная анималистическая рука гауранлен. Подражает связи с гауранлен, улучшая психическую связь пользователя с флорой планеты. Усиливает медитацию.
+
+Поскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraAnimaGauranlenArm.description>
+  <RightExtraAnimaGauranlenArm.stages.0.label>Неуклюжая</RightExtraAnimaGauranlenArm.stages.0.label>
+  <RightExtraAnimaGauranlenArm.stages.1.label>Неудобная</RightExtraAnimaGauranlenArm.stages.1.label>
+  <RightExtraAnimaGauranlenArm.stages.2.label>Привычная</RightExtraAnimaGauranlenArm.stages.2.label>
+  <RightExtraAnimaGauranlenArm.stages.3.label>Как родная</RightExtraAnimaGauranlenArm.stages.3.label>
+
+  <LeftExtraAnimaClawerArm.label>Левый дополнительный анималистический коготь</LeftExtraAnimaClawerArm.label>
+  <LeftExtraAnimaClawerArm.labelNoun>Левый дополнительный анималистический коготь</LeftExtraAnimaClawerArm.labelNoun>
+  <LeftExtraAnimaClawerArm.description>Имплантированный дополнительный анималистический коготь. Коготь состоит из множества очень острых шипов, имитирующих боевые когти древесников.
+
+Острые концы покрыты крошечными иглами, наполненными мощным токсином, способным парализовать врагов от боли.
+Усиливает медитацию.
+
+Поскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraAnimaClawerArm.description>
+  <LeftExtraAnimaClawerArm.comps.1.tools.0.label>Коготь</LeftExtraAnimaClawerArm.comps.1.tools.0.label>
+  <LeftExtraAnimaClawerArm.stages.0.label>Неуклюжий</LeftExtraAnimaClawerArm.stages.0.label>
+  <LeftExtraAnimaClawerArm.stages.1.label>Неудобный</LeftExtraAnimaClawerArm.stages.1.label>
+  <LeftExtraAnimaClawerArm.stages.2.label>Привычный</LeftExtraAnimaClawerArm.stages.2.label>
+  <LeftExtraAnimaClawerArm.stages.3.label>Как родной</LeftExtraAnimaClawerArm.stages.3.label>
+
+  <RightExtraAnimaClawerArm.label>Правый дополнительный анималистический коготь</RightExtraAnimaClawerArm.label>
+  <RightExtraAnimaClawerArm.labelNoun>Правый дополнительный анималистический коготь</RightExtraAnimaClawerArm.labelNoun>
+  <RightExtraAnimaClawerArm.description>Имплантированный дополнительный анималистический коготь. Коготь состоит из множества очень острых шипов, имитирующих боевые когти древесников.
+
+Острые концы покрыты крошечными иглами, наполненными мощным токсином, способным парализовать врагов от боли.
+Усиливает медитацию.
+
+Поскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraAnimaClawerArm.description>
+  <RightExtraAnimaClawerArm.comps.1.tools.0.label>Коготь</RightExtraAnimaClawerArm.comps.1.tools.0.label>
+  <RightExtraAnimaClawerArm.stages.0.label>Неуклюжий</RightExtraAnimaClawerArm.stages.0.label>
+  <RightExtraAnimaClawerArm.stages.1.label>Неудобный</RightExtraAnimaClawerArm.stages.1.label>
+  <RightExtraAnimaClawerArm.stages.2.label>Привычный</RightExtraAnimaClawerArm.stages.2.label>
+  <RightExtraAnimaClawerArm.stages.3.label>Как родной</RightExtraAnimaClawerArm.stages.3.label>
+</LanguageData>

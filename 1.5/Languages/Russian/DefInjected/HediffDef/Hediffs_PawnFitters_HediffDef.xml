@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_FaceplateArachnid.label>Бионическая лицевая пластина «Арахнид»</LTS_FaceplateArachnid.label>
+    <LTS_FaceplateArachnid.labelNoun>Бионическая лицевая пластина «Арахнид»</LTS_FaceplateArachnid.labelNoun>
+    <LTS_FaceplateArachnid.description>Имплантированная бионическая лицевая пластина «Арахнид», улучшающая зрение и предоставляющая дополнительную защиту лица.</LTS_FaceplateArachnid.description>
+    <LTS_FaceplateArachnid.renderNodeProperties.0.debugLabel>Глаза бионической лицевой пластины</LTS_FaceplateArachnid.renderNodeProperties.0.debugLabel>
+    <LTS_FaceplateArachnid.renderNodeProperties.1.debugLabel>Бионическая лицевая пластина</LTS_FaceplateArachnid.renderNodeProperties.1.debugLabel>
+    <LTS_FaceplateArachnid.renderNodeProperties.2.debugLabel>Контур бионической лицевой пластины</LTS_FaceplateArachnid.renderNodeProperties.2.debugLabel>
+
+    <LTS_Vanguard.label>Ускоритель «Авангард»</LTS_Vanguard.label>
+    <LTS_Vanguard.labelNoun>Ускоритель «Авангард»</LTS_Vanguard.labelNoun>
+    <LTS_Vanguard.description>Имплантированный ускоритель «Авангард», кратковременно повышающий скорость передвижения и реакцию.</LTS_Vanguard.description>
+    <LTS_Vanguard.renderNodeProperties.0.debugLabel>Ускоритель «Авангард»</LTS_Vanguard.renderNodeProperties.0.debugLabel>
+
+    <LTS_VanguardRush.label>Ускорение «Авангард»</LTS_VanguardRush.label>
+    <LTS_VanguardRush.description>Нервная система этого человека сверхстимулирована, что позволяет ему действовать с нечеловеческой ловкостью и воспринимать время как замедленное.</LTS_VanguardRush.description>
+
+    <LTS_VanguardBurnout.label>Психоз «Авангард»</LTS_VanguardBurnout.label>
+    <LTS_VanguardBurnout.description>Чрезмерное использование ускорителя «Авангард» вызвало сильное перенапряжение нервной системы пользователя.</LTS_VanguardBurnout.description>
+    <LTS_VanguardBurnout.stages.0.label>Начальная</LTS_VanguardBurnout.stages.0.label>
+    <LTS_VanguardBurnout.stages.1.label>Умеренная</LTS_VanguardBurnout.stages.1.label>
+    <LTS_VanguardBurnout.stages.2.label>Тяжёлая</LTS_VanguardBurnout.stages.2.label>
+    <LTS_VanguardBurnout.stages.3.label>Критическая</LTS_VanguardBurnout.stages.3.label>
+</LanguageData>

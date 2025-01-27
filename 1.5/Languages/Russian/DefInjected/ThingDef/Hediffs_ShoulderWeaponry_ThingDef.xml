@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_ShoulderTurret.label>Наплечная турель</LTS_ShoulderTurret.label>
+    <LTS_ShoulderTurret.description>Миниатюрная выдвижная турель, имплантированная в плечо. Ее ИИ позволяет ей вести автономный огонь даже на ходу, хотя ее размер ограничивает ее эффективность.</LTS_ShoulderTurret.description>
+
+    <LTS_Bullet_ShoulderTurret.label>Пуля наплечной турели</LTS_Bullet_ShoulderTurret.label>
+
+    <LTS_ShoulderChargeTurret.label>Наплечная импульсная турель</LTS_ShoulderChargeTurret.label>
+    <LTS_ShoulderChargeTurret.description>Миниатюрная выдвижная импульсная турель, имплантированная в плечо. Ее ИИ позволяет ей вести автономный огонь даже на ходу, хотя ее размер ограничивает ее эффективность.</LTS_ShoulderChargeTurret.description>
+
+    <LTS_Bullet_ShoulderChargeTurret.label>Импульсный выстрел наплечной турели</LTS_Bullet_ShoulderChargeTurret.label>
+
+    <LTS_ShoulderRocketPod.label>Наплечный ракетный блок</LTS_ShoulderRocketPod.label>
+    <LTS_ShoulderRocketPod.description>Миниатюрный ракетный блок, имплантированный в плечо. Он может вмещать только ограниченное количество боеприпасов и должен быть перезаряжен после использования.</LTS_ShoulderRocketPod.description>
+
+    <LTS_Projectile_ShoulderRocket.label>Ракета</LTS_Projectile_ShoulderRocket.label>
+
+    <LTS_ShoulderMortar.label>Наплечный миномет</LTS_ShoulderMortar.label>
+    <LTS_ShoulderMortar.description>Миниатюрный миномет, имплантированный в плечо. Он может вмещать только ограниченное количество боеприпасов и должен быть перезаряжен после использования.</LTS_ShoulderMortar.description>
+
+    <LTS_Projectile_ShoulderMortar.label>Фугасный снаряд</LTS_Projectile_ShoulderMortar.label>
+</LanguageData>

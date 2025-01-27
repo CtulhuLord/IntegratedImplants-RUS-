@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <PsychokeneticShield.label>Психокинетический щит</PsychokeneticShield.label>
+    <PsychokeneticShield.labelNoun>Психокинетический щит</PsychokeneticShield.labelNoun>
+    <PsychokeneticShield.description>Установленный имплант психокинетического щита.</PsychokeneticShield.description>
+    <PsychokeneticShield.comps.0.gizmoTitle>Психокинетический щит</PsychokeneticShield.comps.0.gizmoTitle>
+    <PsychokeneticShield.comps.0.gizmoTip>Количество урона, которое может поглотить психокинетический щит этого человека.</PsychokeneticShield.comps.0.gizmoTip>
+
+    <LTS_EmergencyShield.label>Экстренный щит</LTS_EmergencyShield.label>
+    <LTS_EmergencyShield.labelNoun>Экстренный щит</LTS_EmergencyShield.labelNoun>
+    <LTS_EmergencyShield.description>Установленный экстренный щит.</LTS_EmergencyShield.description>
+
+    <LTS_EmergencyShieldActive.label>Активный экстренный щит</LTS_EmergencyShieldActive.label>
+    <LTS_EmergencyShieldActive.description>Этот человек защищен экстренным щитом.</LTS_EmergencyShieldActive.description>
+    <LTS_EmergencyShieldActive.comps.1.gizmoTitle>Экстренный щит</LTS_EmergencyShieldActive.comps.1.gizmoTitle>
+    <LTS_EmergencyShieldActive.comps.1.gizmoTip>Количество урона, которое может поглотить экстренный щит этого человека.</LTS_EmergencyShieldActive.comps.1.gizmoTip>
+</LanguageData>

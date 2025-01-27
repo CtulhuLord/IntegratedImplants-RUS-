@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SignalBoosterImplant.label>Усилитель сигнала</SignalBoosterImplant.label>
+    <SignalBoosterImplant.description>Имплант, который увеличивает пропускную способность и радиус сигнала механитора.\n\nЭтот имплант можно установить до 9 раз для усиления эффекта.</SignalBoosterImplant.description>
+
+    <WarprogrammerInterfaceImplant.label>Интерфейс военного программиста</WarprogrammerInterfaceImplant.label>
+    <WarprogrammerInterfaceImplant.description>Имплант, который усиливает способности ближнего и дальнего боя механоидов механитора, дополнительно масштабируясь в зависимости от интеллекта механитора и навыков ближнего/дальнего боя.\n\nЭтот имплант можно установить до 3 раз для усиления эффекта.</WarprogrammerInterfaceImplant.description>
+
+    <MechhiveSatelliteUplinkImplant.label>Имплант спутниковой связи с ульем механоидов</MechhiveSatelliteUplinkImplant.label>
+    <MechhiveSatelliteUplinkImplant.description>Нейронный имплант, позволяющий механитору вызвать враждебное скопление механоидов. Пользователь психически захватывает находящуюся над головой орбитальную платформу, перегружая свои психические центры и впадая в 24-часовую кому.\n\nЭтот имплант можно установить до 3 раз для уменьшения времени восстановления.</MechhiveSatelliteUplinkImplant.description>
+    <MechhiveSatelliteUplinkImplant.descriptionShort>Имплант, позволяющий пользователю вызвать враждебное скопление механоидов. Его можно установить до 3 раз.</MechhiveSatelliteUplinkImplant.descriptionShort>
+
+    <RemoteResurrectorImplant.label>Имплант удалённого воскрешения</RemoteResurrectorImplant.label>
+    <RemoteResurrectorImplant.description>Имплант, позволяющий механитору удаленно перезаряжать процессы самовосстановления недавно убитого союзного механоида, при условии, что у него достаточно пропускной способности, чтобы взять этого механоида под свой контроль.\n\nЭтот имплант можно установить самостоятельно без операции.\n\nЭтот имплант можно установить до 3 раз для увеличения дальности действия.</RemoteResurrectorImplant.description>
+
+    <RemoteDominatorImplant.label>Имплант удалённого подчинения</RemoteDominatorImplant.label>
+    <RemoteDominatorImplant.description>Имплант, позволяющий механитору психически атаковать и переопределять протокол "свой-чужой" механоида, беря его под свой контроль, при условии, что механоид легче сверхтяжелого класса и у механитора достаточно пропускной способности.\n\nЭтот имплант можно установить самостоятельно без операции.\n\nЭтот имплант можно установить до 3 раз для увеличения дальности действия.</RemoteDominatorImplant.description>
+
+    <MechwombImplant.label>Имплант "мехоматка"</MechwombImplant.label>
+    <MechwombImplant.description>Миниатюрный имплантированный завод механоидов, позволяющий механитору производить подкрепления в полевых условиях, без инфраструктуры или сложных компонентов.\n\nЭтот имплант можно установить самостоятельно без операции.\n\nЭтот имплант можно установить до 6 раз для увеличения вместимости.</MechwombImplant.description>
+</LanguageData>

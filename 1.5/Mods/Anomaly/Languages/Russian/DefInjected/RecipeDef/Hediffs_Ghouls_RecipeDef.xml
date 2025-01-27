@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <InstallNerveShredderClaw.label>Установить нерво-дробящий коготь</InstallNerveShredderClaw.label>
+    <InstallNerveShredderClaw.description>Установить нерво-дробящий коготь.</InstallNerveShredderClaw.description>
+    <InstallNerveShredderClaw.jobString>Установка нерво-дробящего когтя.</InstallNerveShredderClaw.jobString>
+
+    <InstallDeadlifeVenomClaw.label>Установить коготь с ядом мёртвой жизни</InstallDeadlifeVenomClaw.label>
+    <InstallDeadlifeVenomClaw.description>Установить коготь с ядом мёртвой жизни.</InstallDeadlifeVenomClaw.description>
+    <InstallDeadlifeVenomClaw.jobString>Установка когтя с ядом мёртвой жизни.</InstallDeadlifeVenomClaw.jobString>
+
+    <InstallGhoulMetabolicEngine.label>Установить метаболический двигатель</InstallGhoulMetabolicEngine.label>
+    <InstallGhoulMetabolicEngine.description>Установить метаболический двигатель.</InstallGhoulMetabolicEngine.description>
+    <InstallGhoulMetabolicEngine.jobString>Установка метаболического двигателя.</InstallGhoulMetabolicEngine.jobString>
+
+    <InstallStalkerSkull.label>Установить череп сталкера</InstallStalkerSkull.label>
+    <InstallStalkerSkull.description>Установить череп сталкера.</InstallStalkerSkull.description>
+    <InstallStalkerSkull.jobString>Установка черепа сталкера.</InstallStalkerSkull.jobString>
+
+    <InstallGhoulBioferriteExtractor.label>Установить биоферритовый экстрактор</InstallGhoulBioferriteExtractor.label>
+    <InstallGhoulBioferriteExtractor.description>Установить биоферритовый экстрактор.</InstallGhoulBioferriteExtractor.description>
+    <InstallGhoulBioferriteExtractor.jobString>Установка биоферритового экстрактора.</InstallGhoulBioferriteExtractor.jobString>
+
+    <InstallGhoulPowerPlating.label>Установить бионический панцирь гуля</InstallGhoulPowerPlating.label>
+    <InstallGhoulPowerPlating.description>Установить бионический панцирь гуля.</InstallGhoulPowerPlating.description>
+    <InstallGhoulPowerPlating.jobString>Установка бионического панциря гуля.</InstallGhoulPowerPlating.jobString>
+
+    <ScrapGhoulPlating.label>Разборка бионического панциря гуля</ScrapGhoulPlating.label>
+    <ScrapGhoulPlating.description>Разобрать бионический панцирь гуля.</ScrapGhoulPlating.description>
+    <ScrapGhoulPlating.jobString>Разборка бионического панциря гуля.</ScrapGhoulPlating.jobString>
+
+    <ScrapGhoulBarbs.label>Разборка колючек гуля</ScrapGhoulBarbs.label>
+    <ScrapGhoulBarbs.description>Разобрать колючки гуля.</ScrapGhoulBarbs.description>
+    <ScrapGhoulBarbs.jobString>Разборка колючек гуля.</ScrapGhoulBarbs.jobString>
+
+    <ScrapAdrenalHeart.label>Разборка адреналинового сердца</ScrapAdrenalHeart.label>
+    <ScrapAdrenalHeart.description>Разобрать адреналиновое сердце.</ScrapAdrenalHeart.description>
+    <ScrapAdrenalHeart.jobString>Разборка адреналинового сердца.</ScrapAdrenalHeart.jobString>
+
+    <ScrapCorrosiveHeart.label>Разборка коррозийного сердца</ScrapCorrosiveHeart.label>
+    <ScrapCorrosiveHeart.description>Разобрать коррозийное сердце.</ScrapCorrosiveHeart.description>
+    <ScrapCorrosiveHeart.jobString>Разборка коррозийного сердца.</ScrapCorrosiveHeart.jobString>
+
+    <ScrapMetalbloodHeart.label>Разборка сердца металлической крови</ScrapMetalbloodHeart.label>
+    <ScrapMetalbloodHeart.description>Разобрать сердце металлической крови.</ScrapMetalbloodHeart.description>
+    <ScrapMetalbloodHeart.jobString>Разборка сердца металлической крови.</ScrapMetalbloodHeart.jobString>
+
+    <ScrapNerveShredderClaw.label>Разборка нерво-дробящего когтя</ScrapNerveShredderClaw.label>
+    <ScrapNerveShredderClaw.description>Разобрать нерво-дробящий коготь.</ScrapNerveShredderClaw.description>
+    <ScrapNerveShredderClaw.jobString>Разборка нерво-дробящего когтя.</ScrapNerveShredderClaw.jobString>
+
+    <ScrapDeadlifeVenomClaw.label>Разборка когтя с ядом мёртвой жизни</ScrapDeadlifeVenomClaw.label>
+    <ScrapDeadlifeVenomClaw.description>Разобрать коготь с ядом мёртвой жизни.</ScrapDeadlifeVenomClaw.description>
+    <ScrapDeadlifeVenomClaw.jobString>Разборка когтя с ядом мёртвой жизни.</ScrapDeadlifeVenomClaw.jobString>
+
+    <ScrapGhoulMetabolicEngine.label>Разборка метаболического двигателя</ScrapGhoulMetabolicEngine.label>
+    <ScrapGhoulMetabolicEngine.description>Разобрать метаболический двигатель.</ScrapGhoulMetabolicEngine.description>
+    <ScrapGhoulMetabolicEngine.jobString>Разборка метаболического двигателя.</ScrapGhoulMetabolicEngine.jobString>
+
+    <ScrapStalkerSkull.label>Разборка черепа сталкера</ScrapStalkerSkull.label>
+    <ScrapStalkerSkull.description>Разобрать череп сталкера.</ScrapStalkerSkull.description>
+    <ScrapStalkerSkull.jobString>Разборка черепа сталкера.</ScrapStalkerSkull.jobString>
+
+    <ScrapGhoulPowerPlating.label>Разборка бионического панциря гуля</ScrapGhoulPowerPlating.label>
+    <ScrapGhoulPowerPlating.description>Разобрать бионический панцирь гуля.</ScrapGhoulPowerPlating.description>
+    <ScrapGhoulPowerPlating.jobString>Разборка бионического панциря гуля.</ScrapGhoulPowerPlating.jobString>
+
+    <ScrapGhoulPowerPlatingFemale.label>Разборка бионического панциря гуля</ScrapGhoulPowerPlatingFemale.label>
+    <ScrapGhoulPowerPlatingFemale.description>Разобрать бионический панцирь гуля.</ScrapGhoulPowerPlatingFemale.description>
+    <ScrapGhoulPowerPlatingFemale.jobString>Разборка бионического панциря гуля.</ScrapGhoulPowerPlatingFemale.jobString>
+
+    <ScrapGhoulPowerPlatingThin.label>Разборка бионического панциря гуля</ScrapGhoulPowerPlatingThin.label>
+    <ScrapGhoulPowerPlatingThin.description>Разобрать бионический панцирь гуля.</ScrapGhoulPowerPlatingThin.description>
+    <ScrapGhoulPowerPlatingThin.jobString>Разборка бионического панциря гуля.</ScrapGhoulPowerPlatingThin.jobString>
+
+    <ScrapGhoulPowerPlatingHulk.label>Разборка бионического панциря гуля</ScrapGhoulPowerPlatingHulk.label>
+    <ScrapGhoulPowerPlatingHulk.description>Разобрать бионический панцирь гуля.</ScrapGhoulPowerPlatingHulk.description>
+    <ScrapGhoulPowerPlatingHulk.jobString>Разборка бионического панциря гуля.</ScrapGhoulPowerPlatingHulk.jobString>
+
+    <ScrapGhoulPowerPlatingFat.label>Разборка бионического панциря гуля</ScrapGhoulPowerPlatingFat.label>
+    <ScrapGhoulPowerPlatingFat.description>Разобрать бионический панцирь гуля.</ScrapGhoulPowerPlatingFat.description>
+    <ScrapGhoulPowerPlatingFat.jobString>Разборка бионического панциря гуля.</ScrapGhoulPowerPlatingFat.jobString>
+
+    <ScrapGhoulBioferriteExtractor.label>Разборка биоферритового экстрактора</ScrapGhoulBioferriteExtractor.label>
+    <ScrapGhoulBioferriteExtractor.description>Разобрать биоферритовый экстрактор.</ScrapGhoulBioferriteExtractor.description>
+    <ScrapGhoulBioferriteExtractor.jobString>Разборка биоферритового экстрактора.</ScrapGhoulBioferriteExtractor.jobString>
+</LanguageData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SignalBooster.label>Усилитель сигнала (стандартный)</SignalBooster.label>
+    <SignalBooster.description>Нейронный имплант, который дает механитору 3 единицы дополнительной пропускной способности. Кроме того, усилитель сигнала увеличивает радиус сигнала механитора на 3 клетки.\n\nЭтот стандартный усилитель сигнала может увеличить пропускную способность только до 9. Для большего увеличения необходимо использовать имплант-усилитель более высокого уровня.\n\nМожет быть установлен самостоятельно без операции.\n\nЭтот имплант можно установить до 3 раз для усиления эффекта.</SignalBooster.description>
+    <SignalBooster.comps.CompUsableImplant.useLabel>Имплантировать усилитель</SignalBooster.comps.CompUsableImplant.useLabel>
+
+    <SignalBoosterHigh.label>Усилитель сигнала (высокий)</SignalBoosterHigh.label>
+    <SignalBoosterHigh.description>Нейронный имплант, который дает механитору 3 единицы дополнительной пропускной способности. Кроме того, усилитель сигнала увеличивает радиус сигнала механитора на 3 клетки.\n\nЭтот усилитель сигнала высокого уровня может увеличить пропускную способность только до 18. Для большего увеличения необходимо использовать имплант-усилитель более высокого уровня.\n\nМожет быть установлен самостоятельно без операции.\n\nЭтот имплант можно установить до 3 раз для усиления эффекта.</SignalBoosterHigh.description>
+    <SignalBoosterHigh.comps.CompUsableImplant.useLabel>Имплантировать улучшенный усилитель</SignalBoosterHigh.comps.CompUsableImplant.useLabel>
+
+    <SignalBoosterUltra.label>Усилитель сигнала (ультра)</SignalBoosterUltra.label>
+    <SignalBoosterUltra.description>Нейронный имплант, который дает механитору 3 единицы дополнительной пропускной способности. Кроме того, усилитель сигнала увеличивает радиус сигнала механитора на 3 клетки.\n\nЭтот ультра-усилитель сигнала может увеличить пропускную способность до 27.\n\nМожет быть установлен самостоятельно без операции.\n\nЭтот имплант можно установить до 3 раз для усиления эффекта.</SignalBoosterUltra.description>
+    <SignalBoosterUltra.comps.CompUsableImplant.useLabel>Имплантировать ультра-усилитель</SignalBoosterUltra.comps.CompUsableImplant.useLabel>
+
+    <WarprogrammerInterface.label>Интерфейс военного программиста</WarprogrammerInterface.label>
+    <WarprogrammerInterface.description>Нейронный имплант, который позволяет загружать специализированные тактические протоколы для любых механоидов, контролируемых механитором. Бонусы, предоставляемые способностям механоидов в ближнем и дальнем бою, дополнительно масштабируются в зависимости от интеллекта механитора и навыков ближнего/дальнего боя.\n\nМожет быть установлен самостоятельно без операции.\n\nЭтот имплант можно установить до 3 раз для усиления эффекта.</WarprogrammerInterface.description>
+    <WarprogrammerInterface.comps.CompUsableImplant.useLabel>Имплантировать интерфейс военного программиста</WarprogrammerInterface.comps.CompUsableImplant.useLabel>
+
+    <MechhiveSatelliteUplink.label>Спутниковая связь с ульем механоидов</MechhiveSatelliteUplink.label>
+    <MechhiveSatelliteUplink.description>Нейронный имплант, который позволяет механитору психически захватить находящуюся над головой орбитальную платформу, заставив ее сбросить боевое скопление механоидов в указанную точку. Скопление может включать любую комбинацию механоидов и оборонительных сооружений механоидов. Механоиды будут беспорядочно атаковать любого человека, которого увидят, включая того, кто их вызвал. Из-за огромного количества энергии, которое это требует, психические центры мозга механитора будут перегружены, что приведет к 24-часовой психической коме.\n\nМожет быть установлен самостоятельно без операции.\n\nЭтот имплант можно установить до 3 раз для уменьшения времени восстановления.</MechhiveSatelliteUplink.description>
+    <MechhiveSatelliteUplink.comps.CompUsableImplant.useLabel>Имплантировать {0_label}</MechhiveSatelliteUplink.comps.CompUsableImplant.useLabel>
+
+    <RemoteResurrector.label>Удалённый воскрешатель</RemoteResurrector.label>
+    <RemoteResurrector.description>Имплант, который позволяет механитору удаленно перезаряжать процессы самовосстановления недавно убитого союзного механоида, при условии, что у него достаточно пропускной способности, чтобы взять этого механоида под свой контроль. Механитор вернется с некоторыми, но не всеми, залеченными ранами.\n\nМожет быть установлен самостоятельно без операции.\n\nЭтот имплант можно установить до 3 раз для увеличения дальности действия.</RemoteResurrector.description>
+    <RemoteResurrector.comps.CompUsableImplant.useLabel>Имплантировать {0_label}</RemoteResurrector.comps.CompUsableImplant.useLabel>
+
+    <RemoteDominator.label>Удалённый подчинитель</RemoteDominator.label>
+    <RemoteDominator.description>Имплант, который позволяет механитору психически атаковать и переопределять протокол "свой-чужой" механоида, беря его под свой контроль, при условии, что механоид легче сверхтяжелого класса и у механитора достаточно пропускной способности.\n\nМожет быть установлен самостоятельно без операции.\n\nЭтот имплант можно установить до 3 раз для увеличения дальности действия.</RemoteDominator.description>
+    <RemoteDominator.comps.CompUsableImplant.useLabel>Имплантировать {0_label}</RemoteDominator.comps.CompUsableImplant.useLabel>
+
+    <Mechwomb.label>Мехоматка</Mechwomb.label>
+    <Mechwomb.description>Миниатюрный имплантированный завод механоидов, позволяющий механоиду производить подкрепления в полевых условиях, без инфраструктуры или сложных компонентов.\n\nМожет быть установлен самостоятельно без операции.\n\nЭтот имплант можно установить до 6 раз для увеличения вместимости.</Mechwomb.description>
+    <Mechwomb.comps.CompUsableImplant.useLabel>Имплантировать {0_label}</Mechwomb.comps.CompUsableImplant.useLabel>
+</LanguageData>

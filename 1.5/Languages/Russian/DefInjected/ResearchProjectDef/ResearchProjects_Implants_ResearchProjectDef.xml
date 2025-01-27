@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <I_BasicImplants.label>Базовые механические импланты</I_BasicImplants.label>
+    <I_BasicImplants.description>Создание специализированных имплантов, улучшающих тело механическим путем.</I_BasicImplants.description>
+    <I_BasicImplants.generalRules.rulesStrings>
+        <li>subject->механические импланты</li>
+        <li>subject_story->выжил в жестокую ядерную зиму только благодаря имплантированному внутреннему климат-контролю</li>
+        <li>subject_story->сражался бок о бок с киборгом-повстанцем, который поднял целый ховер-истребитель</li>
+        <li>subject_gerund->создание имплантов</li>
+    </I_BasicImplants.generalRules.rulesStrings>
+
+    <I_BasicHormonalImplants.label>Базовые гормональные импланты</I_BasicHormonalImplants.label>
+    <I_BasicHormonalImplants.description>Создание специализированных имплантов, улучшающих тело гормональным путем.</I_BasicHormonalImplants.description>
+    <I_BasicHormonalImplants.generalRules.rulesStrings>
+        <li>subject->базовые импланты</li>
+        <li>subject_story->был прогнан отрядом древних солдат, которые проснулись гораздо быстрее, чем ожидалось, из-за своих криптосонных имплантов</li>
+        <li>subject_gerund->создание имплантов</li>
+    </I_BasicHormonalImplants.generalRules.rulesStrings>
+
+    <I_SanguophageImplants.label>Импланты гемофагов</I_SanguophageImplants.label>
+    <I_SanguophageImplants.description>Создание и установка бионических органов, которые могут усилить неестественные черты гемофага.</I_SanguophageImplants.description>
+    <I_SanguophageImplants.generalRules.rulesStrings>
+        <li>subject->ускорение посмертного сна</li>
+        <li>subject->метаболизм гемогена</li>
+        <li>subject_story->был известен тем, что разрывал глотки всем, кто ему не нравился, своими клыками</li>
+        <li>subject_story->был похищен и принужден к работе в черной как смоль секретной лаборатории</li>
+        <li>subject_story->хотел помочь тем, кто страдает неизлечимыми заболеваниями крови</li>
+        <li>subject_gerund->метаболизм гемогена</li>
+        <li>subject_gerund->создание органов гемофагов</li>
+    </I_SanguophageImplants.generalRules.rulesStrings>
+
+    <I_ExtraArms.label>Дополнительные конечности</I_ExtraArms.label>
+    <I_ExtraArms.description>Использование нервно-гелевых разветвителей для установки дополнительной пары искусственных конечностей. архотек-руки всегда полностью контролируемы, но сделанные людьми конечности требуют некоторого времени на адаптацию.</I_ExtraArms.description>
+    <I_ExtraArms.generalRules.rulesStrings>
+        <li>subject->дополнительные конечности</li>
+        <li>subject_story->медитировал с четырехрукими монахами Лутуни</li>
+        <li>subject_story->едва спасся, когда деформированный суперсолдат с четырьмя силовыми клешнями разорвал персонал его лаборатории</li>
+        <li>subject_story->был спасен от верной смерти легендарным четырехруким хирургом, который мог оперировать быстрее любого неаугментированного врача</li>
+        <li>subject_gerund->использование нервно-гелевых разветвителей</li>
+        <li>subject_gerund->использование дополнительных рук</li>
+    </I_ExtraArms.generalRules.rulesStrings>
+
+    <I_ImplantedExplosives.label>Имплантированная взрывчатка</I_ImplantedExplosives.label>
+    <I_ImplantedExplosives.description>Имплантация взрывных зарядов, которые можно детонировать по желанию.</I_ImplantedExplosives.description>
+    <I_ImplantedExplosives.generalRules.rulesStrings>
+        <li>subject->имплантированная взрывчатка</li>
+        <li>subject_story->увидел освежеванные трупы своих товарищей, повешенные на деревьях, и решил, что дикари не получат его живым</li>
+        <li>subject_story->прошел курс по бионическому дизайну в престижном университете блестящего мира и провалился</li>
+        <li>subject_story->слушал ужасающие рассказы офицера спецназа урбанизированного мира о напичканных бомбами фанатиках культа смерти</li>
+        <li>subject_gerund->имплантация взрывчатки</li>
+        <li>subject_gerund->имплантация бомб-смертников</li>
+    </I_ImplantedExplosives.generalRules.rulesStrings>
+
+    <I_SubdermalArmour.label>Подкожная броня</I_SubdermalArmour.label>
+    <I_SubdermalArmour.description>Создание подкожной брони, сверхлегкого имплантированного силового доспеха, используемого дипломатами, нуждающимися в скрытой защите.</I_SubdermalArmour.description>
+    <I_SubdermalArmour.generalRules.rulesStrings>
+        <li>subject->подкожная броня</li>
+        <li>subject_story->искал решение проблемы участившихся убийств политиков в своем урбанизированном мире</li>
+        <li>subject_story->должен был доставить условия генералу, известному казнями гонцов</li>
+        <li>subject_story->потерял печень в результате случайного нападения с ножом</li>
+        <li>subject_gerund->подкожная броня</li>
+        <li>subject_gerund->имплантированная броня</li>
+        <li>subject_gerund->скрытая броня</li>
+    </I_SubdermalArmour.generalRules.rulesStrings>
+
+    <I_ShoulderTurrets.label>Наплечные турели</I_ShoulderTurrets.label>
+    <I_ShoulderTurrets.description>Создание миниатюрного имплантируемого бионического оружия.</I_ShoulderTurrets.description>
+    <I_ShoulderTurrets.generalRules.rulesStrings>
+        <li>subject->бионические турели</li>
+        <li>subject_story->был нанят космическим флотом для миниатюризации оружия</li>
+        <li>subject_story->нуждался в идеально скрываемом оружии для убийства генерального директора своего урбанизированного мира</li>
+        <li>subject_story->был вдохновлен гигантскими змеями Лутуни, которые могли стрелять ядом на расстояние до 70 футов</li>
+        <li>subject_gerund->создание бионических турелей</li>
+        <li>subject_gerund->имплантация бионических турелей</li>
+    </I_ShoulderTurrets.generalRules.rulesStrings>
+
+    <I_CranialInsulation.label>Черепная изоляция</I_CranialInsulation.label>
+    <I_CranialInsulation.description>Создание и установка черепной изоляции, которая с помощью комбинации специального экранирования и нитей рассеивания удара защищает другие мозговые импланты от ЭМИ-шока.</I_CranialInsulation.description>
+    <I_CranialInsulation.generalRules.rulesStrings>
+        <li>subject->черепная изоляция</li>
+        <li>subject_story->видел своими глазами одного из «полтергейстов», преследующих мертвый блестящий мир</li>
+        <li>subject_story->проводил свои исследования с целью улучшения обитаемости на мирах, подверженных бомбардировкам электромагнитными импульсами</li>
+        <li>subject_story->с ужасом наблюдал, как механоиды медленно научились использовать свое собственное ЭМИ-оружие против них</li>
+        <li>subject_gerund->защита от электромагнитных импульсов</li>
+    </I_CranialInsulation.generalRules.rulesStrings>
+
+    <I_BionicTails.label>Бионические хвосты</I_BionicTails.label>
+    <I_BionicTails.description>Использование биогелевых нервных удлинителей, сращенных с основанием позвоночного столба, для установки искусственного хвоста.</I_BionicTails.description>
+    <I_BionicTails.generalRules.rulesStrings>
+        <li>subject->дополнительные конечности</li>
+        <li>subject_story->провел много времени в сообществе хвостатых ксенолюдей и испытал много неудобств из-за отсутствия такового</li>
+        <li>subject_story->десятилетиями очищал бесконечные заражения генолинии сорне и истреблял ее постоянно эволюционирующих воинов</li>
+        <li>subject_story->оказался на животном мире, чей предназначенный для колонии корабль потерпел крушение столетия назад</li>
+        <li>subject_gerund->использование биогелевых нервных удлинителей</li>
+    </I_BionicTails.generalRules.rulesStrings>
+
+    <I_EltexAugmentation.label>Эльтекс-аугментация</I_EltexAugmentation.label>
+    <I_EltexAugmentation.description>Создание специальных, усиленных эльтексом имплантов для помощи в пси-кастинге.</I_EltexAugmentation.description>
+    <I_EltexAugmentation.generalRules.rulesStrings>
+        <li>subject->усиленные эльтексом</li>
+        <li>subject_story->часто посещал вечеринки, где богатые и знаменитые с гордостью демонстрировали свои вычурные и постчеловеческие модификации</li>
+        <li>subject_story->влюбился в начинающего жреца-псионика, который загадочно и внезапно покинул планету</li>
+        <li>subject_story->наблюдал за светящимся метеоритом, который упал в колодец возле его дома, и за странными эффектами, которые он оказал на окружающую среду</li>
+        <li>subject_gerund->использование эльтекса для усиления психических способностей</li>
+    </I_EltexAugmentation.generalRules.rulesStrings>
+
+    <I_CaptiveControl.label>Удаленное управление</I_CaptiveControl.label>
+    <I_CaptiveControl.description>Создание имплантов, которые могут быть активированы против воли пользователя.</I_CaptiveControl.description>
+    <I_CaptiveControl.generalRules.rulesStrings>
+        <li>subject->контроль над пленными</li>
+        <li>subject_story->подружился с надзирателем тюрьмы строгого режима, где содержались самые опасные преступники мира</li>
+        <li>subject_story->провел много лет в лунной исправительной колонии, расплачиваясь с долгами, добывая взрывчатые минералы</li>
+        <li>subject_story->нашел работу в гильдии убийц, базирующейся в орбитальном городе. Его работа заключалась в том, чтобы решать, когда оперативник находится под угрозой захвата, и удаленно детонировать его мозговые импланты</li>
+        <li>subject_gerund->установка устройств контроля</li>
+    </I_CaptiveControl.generalRules.rulesStrings>
+
+    <I_Biomimicry.label>Клеточное манипулирование</I_Biomimicry.label>
+    <I_Biomimicry.description>Создание имплантов, способных изменять человека на клеточном уровне.</I_Biomimicry.description>
+    <I_Biomimicry.generalRules.rulesStrings>
+        <li>subject->клеточное манипулирование</li>
+        <li>subject_story->был спасен от верной смерти, когда застрелил своего потенциального убийцу из его же пистолета</li>
+        <li>subject_story->получил задание выяснить, как мастеру-вору удавалось совершать, казалось бы, невозможные ограбления</li>
+        <li>subject_story->узнал, что его возлюбленный был заключен в тюрьму по явно сфабрикованным обвинениям</li>
+        <li>subject_gerund->изменение людей на клеточном уровне</li>
+    </I_Biomimicry.generalRules.rulesStrings>
+
+    <I_SkillChipPort.label>Порт для чипов навыков</I_SkillChipPort.label>
+    <I_SkillChipPort.description>Создание чипов навыков и портов для чипов навыков для гибкого улучшения навыков.</I_SkillChipPort.description>
+    <I_SkillChipPort.generalRules.rulesStrings>
+        <li>subject->чипы навыков</li>
+        <li>subject_gerund->оцифровка навыков</li>
+    </I_SkillChipPort.generalRules.rulesStrings>
+
+    <LTS_ModularBionics.label>Модульная бионика</LTS_ModularBionics.label>
+    <LTS_ModularBionics.description>Создание модулей для улучшения стандартных бионических и архотек-конечностей и глаз.</LTS_ModularBionics.description>
+    <LTS_ModularBionics.generalRules.rulesStrings>
+        <li>subject->бионические модули</li>
+        <li>subject_gerund->улучшение бионики</li>
+    </LTS_ModularBionics.generalRules.rulesStrings>
+
+    <LTS_ModularBionicWeaponryUltra.label>Ультратех-бионические модули вооружения</LTS_ModularBionicWeaponryUltra.label>
+    <LTS_ModularBionicWeaponryUltra.description>Создание ультратех-модулей вооружения для улучшения стандартных бионических и архотек-конечностей.</LTS_ModularBionicWeaponryUltra.description>
+    <LTS_ModularBionicWeaponryUltra.generalRules.rulesStrings>
+        <li>subject->модули бионического вооружения</li>
+        <li>subject_gerund->улучшение бионики ультратех-вооружением</li>
+    </LTS_ModularBionicWeaponryUltra.generalRules.rulesStrings>
+
+    <LTS_ModularBionicOptics.label>Модульное улучшение глаз</LTS_ModularBionicOptics.label>
+    <LTS_ModularBionicOptics.description>Создание бионической оптики для улучшения стандартных бионических и архотек-глаз.</LTS_ModularBionicOptics.description>
+    <LTS_ModularBionicOptics.generalRules.rulesStrings>
+        <li>subject->модули бионической оптики</li>
+        <li>subject_gerund->улучшение бионических глаз</li>
+    </LTS_ModularBionicOptics.generalRules.rulesStrings>
+
+    <LTS_ModularBionicArms.label>Модульное улучшение рук</LTS_ModularBionicArms.label>
+    <LTS_ModularBionicArms.description>Создание бионических модулей для улучшения стандартных бионических и архотек-рук.</LTS_ModularBionicArms.description>
+    <LTS_ModularBionicArms.generalRules.rulesStrings>
+        <li>subject->модули бионических рук</li>
+        <li>subject_gerund->улучшение бионических рук</li>
+    </LTS_ModularBionicArms.generalRules.rulesStrings>
+
+    <LTS_ModularBionicLegs.label>Модульное улучшение ног</LTS_ModularBionicLegs.label>
+    <LTS_ModularBionicLegs.description>Создание оптических модулей для улучшения стандартных бионических и архотек-ног.</LTS_ModularBionicLegs.description>
+    <LTS_ModularBionicLegs.generalRules.rulesStrings>
+        <li>subject->модули бионических ног</li>
+        <li>subject_gerund->улучшение бионических ног</li>
+    </LTS_ModularBionicLegs.generalRules.rulesStrings>
+
+    <LTS_BionicFaceplates.label>Бионические лицевые пластины</LTS_BionicFaceplates.label>
+    <LTS_BionicFaceplates.description>Использование передовых сенсорных и оптических вычислительных технологий, прикрепленных к зрительным нервам с помощью нервно-гелевых разветвителей, для использования бионических лицевых пластин.</LTS_BionicFaceplates.description>
+    <LTS_BionicFaceplates.generalRules.rulesStrings>
+        <li>subject->бионические лицевые пластины</li>
+        <li>subject_gerund->создание улучшенных бионических лиц</li>
+    </LTS_BionicFaceplates.generalRules.rulesStrings>
+
+    <LTS_NeuralHyperacceleration.label>Нейрогиперускорение</LTS_NeuralHyperacceleration.label>
+    <LTS_NeuralHyperacceleration.description>Создание имплантов, которые выводят нервную систему пользователя далеко за пределы ее естественных возможностей.</LTS_NeuralHyperacceleration.description>
+    <LTS_NeuralHyperacceleration.generalRules.rulesStrings>
+        <li>subject->нейрогиперускорение</li>
+        <li>subject_gerund->вывод нервной системы за пределы ее естественных возможностей</li>
+    </LTS_NeuralHyperacceleration.generalRules.rulesStrings>
+
+    <LTS_EmergencyImplants.label>Экстренные импланты</LTS_EmergencyImplants.label>
+    <LTS_EmergencyImplants.description>Создание имплантов, которые могут быть активированы в определенных чрезвычайных ситуациях для спасения жизни человека.</LTS_EmergencyImplants.description>
+    <LTS_EmergencyImplants.generalRules.rulesStrings>
+        <li>subject->экстренные импланты</li>
+        <li>subject_gerund->создание имплантов для чрезвычайных ситуаций</li>
+    </LTS_EmergencyImplants.generalRules.rulesStrings>
+</LanguageData>

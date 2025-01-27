@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <ScratchNerve.label>Нервный шок</ScratchNerve.label>
+    <ScratchNerve.deathMessage>{0} погиб от нервного шока.</ScratchNerve.deathMessage>
+
+    <ScratchDeadlife.label>Царапина мёртвой жизни</ScratchDeadlife.label>
+    <ScratchDeadlife.deathMessage>{0} был растерзан до смерти.</ScratchDeadlife.deathMessage>
+</LanguageData>

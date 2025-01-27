@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LTS_ModuleEye_LocalArmour.description>Модуль бронирования для глаз</LTS_ModuleEye_LocalArmour.description>
+  <LTS_ModuleEye_LocalArmour.label>Модуль бронирования для глаз</LTS_ModuleEye_LocalArmour.label>
+  
+  <LTS_ModuleArm_LocalArmour.description>Модуль бронирования для руки</LTS_ModuleArm_LocalArmour.description>
+  <LTS_ModuleArm_LocalArmour.label>Модуль бронирования для руки</LTS_ModuleArm_LocalArmour.label>
+  
+  <LTS_ModuleLeg_LocalArmour.description>Модуль бронирования для ноги</LTS_ModuleLeg_LocalArmour.description>
+  <LTS_ModuleLeg_LocalArmour.label>Модуль бронирования для ноги</LTS_ModuleLeg_LocalArmour.label>
+  
+  <LTS_ModuleEye_Telescopic.description>Модуль телескопического зрения</LTS_ModuleEye_Telescopic.description>
+  <LTS_ModuleEye_Telescopic.label>Модуль телескопического зрения</LTS_ModuleEye_Telescopic.label>
+  
+  <LTS_ModuleEye_Targeting.description>Модуль целеуказания</LTS_ModuleEye_Targeting.description>
+  <LTS_ModuleEye_Targeting.label>Модуль целеуказания</LTS_ModuleEye_Targeting.label>
+  
+  <LTS_ModuleEye_NightVision.description>Модуль ночного видения</LTS_ModuleEye_NightVision.description>
+  <LTS_ModuleEye_NightVision.label>Модуль ночного видения</LTS_ModuleEye_NightVision.label>
+  
+  <LTS_ModuleEye_EyeColour.description>Модуль изменения цвета глаз</LTS_ModuleEye_EyeColour.description>
+  <LTS_ModuleEye_EyeColour.label>Модуль изменения цвета глаз</LTS_ModuleEye_EyeColour.label>
+  
+  <LTS_ModuleArm_VibroModule.description>Вибро-модуль</LTS_ModuleArm_VibroModule.description>
+  <LTS_ModuleArm_VibroModule.label>Вибро-модуль</LTS_ModuleArm_VibroModule.label>
+  
+  <LTS_ModuleArm_DeathGrip.description>Модуль силовой хватки</LTS_ModuleArm_DeathGrip.description>
+  <LTS_ModuleArm_DeathGrip.label>Модуль силовой хватки</LTS_ModuleArm_DeathGrip.label>
+  
+  <LTS_ModuleArm_RecoilSuppression.description>Модуль подавления отдачи</LTS_ModuleArm_RecoilSuppression.description>
+  <LTS_ModuleArm_RecoilSuppression.label>Модуль подавления отдачи</LTS_ModuleArm_RecoilSuppression.label>
+  
+  <LTS_ModuleArm_ArmBlade.description>Встроенный модуль клинкового оружия</LTS_ModuleArm_ArmBlade.description>
+  <LTS_ModuleArm_ArmBlade.label>Модуль клинкового оружия</LTS_ModuleArm_ArmBlade.label>
+  <LTS_ModuleArm_ArmBlade.comps.0.tools.0.label>Клинок</LTS_ModuleArm_ArmBlade.comps.0.tools.0.label>
+
+  <LTS_ModuleArm_BionicClaw.description>Встроенный модуль бионического когтя</LTS_ModuleArm_BionicClaw.description>
+  <LTS_ModuleArm_BionicClaw.label>Модуль бионического когтя</LTS_ModuleArm_BionicClaw.label>
+  <LTS_ModuleArm_BionicClaw.comps.0.tools.0.label>Бионический коготь</LTS_ModuleArm_BionicClaw.comps.0.tools.0.label>
+
+  <LTS_ModuleArm_Monowire.description>Встроенный модуль мононити</LTS_ModuleArm_Monowire.description>
+  <LTS_ModuleArm_Monowire.label>Модуль мононити</LTS_ModuleArm_Monowire.label>
+  <LTS_ModuleArm_Monowire.comps.0.tools.0.label>Мононить</LTS_ModuleArm_Monowire.comps.0.tools.0.label>
+
+  <LTS_ModuleArm_ZeusKnuckles.description>Встроенный модуль электрокастетов</LTS_ModuleArm_ZeusKnuckles.description>
+  <LTS_ModuleArm_ZeusKnuckles.label>Модуль электрокастетов</LTS_ModuleArm_ZeusKnuckles.label>
+  <LTS_ModuleArm_ZeusKnuckles.comps.0.tools.0.label>Электрокастет</LTS_ModuleArm_ZeusKnuckles.comps.0.tools.0.label>
+
+  <LTS_ModuleArm_PlasmaClaw.description>Встроенный модуль плазменного когтя</LTS_ModuleArm_PlasmaClaw.description>
+  <LTS_ModuleArm_PlasmaClaw.label>Модуль плазменного когтя</LTS_ModuleArm_PlasmaClaw.label>
+  <LTS_ModuleArm_PlasmaClaw.comps.0.tools.0.label>Плазменный коготь</LTS_ModuleArm_PlasmaClaw.comps.0.tools.0.label>
+
+  <LTS_ModuleArm_LaserArmBlade.description>Встроенный модуль лазерного клинка</LTS_ModuleArm_LaserArmBlade.description>
+  <LTS_ModuleArm_LaserArmBlade.label>Модуль лазерного клинка</LTS_ModuleArm_LaserArmBlade.label>
+  <LTS_ModuleArm_LaserArmBlade.comps.0.tools.0.label>Лазерный клинок</LTS_ModuleArm_LaserArmBlade.comps.0.tools.0.label>
+
+  <LTS_ModuleArm_Shotgun.description>Встроенный модуль дробовика</LTS_ModuleArm_Shotgun.description>
+  <LTS_ModuleArm_Shotgun.label>Модуль встроенного дробовика</LTS_ModuleArm_Shotgun.label>
+
+  <LTS_ModuleArm_SMG.description>Встроенный модуль пистолета-пулемёта</LTS_ModuleArm_SMG.description>
+  <LTS_ModuleArm_SMG.label>Модуль встроенного пистолета-пулемёта</LTS_ModuleArm_SMG.label>
+
+  <LTS_ModuleArm_Gauss.description>Встроенный модуль гаусс-винтовки</LTS_ModuleArm_Gauss.description>
+  <LTS_ModuleArm_Gauss.label>Модуль встроенной гаусс-винтовки</LTS_ModuleArm_Gauss.label>
+
+  <LTS_ModuleArm_Incinerator.description>Встроенный модуль инсинератора</LTS_ModuleArm_Incinerator.description>
+  <LTS_ModuleArm_Incinerator.label>Модуль встроенного инсинератора</LTS_ModuleArm_Incinerator.label>
+
+  <LTS_ModuleArm_DartGun.description>Встроенный модуль дротикомёта</LTS_ModuleArm_DartGun.description>
+  <LTS_ModuleArm_DartGun.label>Модуль встроенного дротикомёта</LTS_ModuleArm_DartGun.label>
+
+  <LTS_ModuleLeg_Digitigrade.description>Встроенный модуль дигиградных конечностей</LTS_ModuleLeg_Digitigrade.description>
+  <LTS_ModuleLeg_Digitigrade.label>Модуль дигиградных конечностей</LTS_ModuleLeg_Digitigrade.label>
+
+  <LTS_ModuleLeg_Sprint.description>Встроенный модуль спринта</LTS_ModuleLeg_Sprint.description>
+  <LTS_ModuleLeg_Sprint.label>Модуль спринта</LTS_ModuleLeg_Sprint.label>
+  <LTS_ModuleLeg_SprintActive.label>Бионический спринт активен</LTS_ModuleLeg_SprintActive.label>
+  <LTS_ModuleLeg_SprintActive.description>Передвижение этого поселенца усилено бионическим модулем.</LTS_ModuleLeg_SprintActive.description>
+
+  <LTS_ModuleLeg_Leap.description>Встроенный модуль прыжка</LTS_ModuleLeg_Leap.description>
+  <LTS_ModuleLeg_Leap.label>Модуль прыжка</LTS_ModuleLeg_Leap.label>
+</LanguageData>

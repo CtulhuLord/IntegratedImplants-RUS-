@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <HemoFangs.label>Гемо-клыки</HemoFangs.label>
+    <HemoFangs.labelNoun>комплект гемо-клыков</HemoFangs.labelNoun>
+    <HemoFangs.description>Установленный комплект гемо-клыков.</HemoFangs.description>
+    <HemoFangs.comps.0.tools.0.label>Гемо-клыки</HemoFangs.comps.0.tools.0.label>
+	
+    <HemogenicMicrocompressor.label>Гемогенный микрокомпрессор</HemogenicMicrocompressor.label>
+    <HemogenicMicrocompressor.labelNoun>гемогенный микрокомпрессор</HemogenicMicrocompressor.labelNoun>
+    <HemogenicMicrocompressor.description>Установленный гемогенный микрокомпрессор.</HemogenicMicrocompressor.description>
+	
+    <HemogenicActivator.label>Гемогенный активатор</HemogenicActivator.label>
+    <HemogenicActivator.labelNoun>гемогенный активатор</HemogenicActivator.labelNoun>
+    <HemogenicActivator.description>Установленный гемогенный активатор.</HemogenicActivator.description>
+	
+    <DeathrestCapacitor.label>Конденсатор смертосна</DeathrestCapacitor.label>
+    <DeathrestCapacitor.labelNoun>конденсатор смертосна</DeathrestCapacitor.labelNoun>
+    <DeathrestCapacitor.description>Установленный конденсатор смертосна.</DeathrestCapacitor.description>
+	
+    <DeathrestApparatus.label>Аппарат смертосна</DeathrestApparatus.label>
+    <DeathrestApparatus.labelNoun>аппарат смертосна</DeathrestApparatus.labelNoun>
+    <DeathrestApparatus.description>Установленный аппарат смертосна.</DeathrestApparatus.description>
+</LanguageData>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_EmergencyShield.label>Экстренный щит</LTS_EmergencyShield.label>
+    <LTS_EmergencyShield.description>Развертывает временный, не перезаряжающийся щит, который блокирует весь входящий урон.</LTS_EmergencyShield.description>
+</LanguageData>

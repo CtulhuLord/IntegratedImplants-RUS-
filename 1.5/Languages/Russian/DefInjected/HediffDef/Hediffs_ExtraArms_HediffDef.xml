@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LeftExtraArchotechArm.label>Левая дополнительная архорука</LeftExtraArchotechArm.label>
+    <LeftExtraArchotechArm.labelNoun>Левая дополнительная архорука</LeftExtraArchotechArm.labelNoun>
+    <LeftExtraArchotechArm.description>Имплантированная дополнительная архорука. Она достаточно сильна, чтобы раздавить толстую ветку твердой древесины, и достаточно точна, чтобы написать сонет на зерне риса. Она выглядит и ощущается как естественная плоть, но её сложнее повредить, чем пласталь. Даже при повреждении она со временем восстанавливается. Её внутреннее устройство остаётся загадкой для человечества.</LeftExtraArchotechArm.description>
+    <LeftExtraArchotechArm.comps.0.tools.0.label>Кулак</LeftExtraArchotechArm.comps.0.tools.0.label>
+
+    <RightExtraArchotechArm.label>Правая дополнительная архорука</RightExtraArchotechArm.label>
+    <RightExtraArchotechArm.labelNoun>Правая дополнительная архорука</RightExtraArchotechArm.labelNoun>
+    <RightExtraArchotechArm.description>Имплантированная дополнительная архорука. Она достаточно сильна, чтобы раздавить толстую ветку твердой древесины, и достаточно точна, чтобы написать сонет на зерне риса. Она выглядит и ощущается как естественная плоть, но её сложнее повредить, чем пласталь. Даже при повреждении она со временем восстанавливается. Её внутреннее устройство остаётся загадкой для человечества.</RightExtraArchotechArm.description>
+    <RightExtraArchotechArm.comps.0.tools.0.label>Кулак</RightExtraArchotechArm.comps.0.tools.0.label>
+
+    <LeftExtraBionicArm.label>Левая дополнительная бионическая рука</LeftExtraBionicArm.label>
+    <LeftExtraBionicArm.labelNoun>Левая дополнительная бионическая рука</LeftExtraBionicArm.labelNoun>
+    <LeftExtraBionicArm.description>Имплантированная бионическая рука. Заглушенные мини-сервоприводы обеспечивают большую силу, а биогель для связи с нервами — исключительное управление. Система самовосстановления позволяет ей восстанавливаться после повреждений. Она почти во всём превосходит биологическую руку.\n\nПоскольку люди не привыкли к более чем двум рукам, поначалу она будет мешать. Со временем навык улучшится; полное освоение занимает до года.</LeftExtraBionicArm.description>
+    <LeftExtraBionicArm.stages.0.label>Мешает</LeftExtraBionicArm.stages.0.label>
+    <LeftExtraBionicArm.stages.1.label>Неудобно</LeftExtraBionicArm.stages.1.label>
+    <LeftExtraBionicArm.stages.2.label>Привычно</LeftExtraBionicArm.stages.2.label>
+    <LeftExtraBionicArm.stages.3.label>Как родная</LeftExtraBionicArm.stages.3.label>
+    <LeftExtraBionicArm.comps.1.tools.0.label>Кулак</LeftExtraBionicArm.comps.1.tools.0.label>
+
+    <RightExtraBionicArm.label>Правая дополнительная бионическая рука</RightExtraBionicArm.label>
+    <RightExtraBionicArm.labelNoun>Правая дополнительная бионическая рука</RightExtraBionicArm.labelNoun>
+    <RightExtraBionicArm.description>Имплантированная бионическая рука. Заглушенные мини-сервоприводы обеспечивают большую силу, а биогель для связи с нервами — исключительное управление. Система самовосстановления позволяет ей восстанавливаться после повреждений. Она почти во всём превосходит биологическую руку.\n\nПоскольку люди не привыкли к более чем двум рукам, поначалу она будет мешать. Со временем навык улучшится; полное освоение занимает до года.</RightExtraBionicArm.description>
+    <RightExtraBionicArm.stages.0.label>Мешает</RightExtraBionicArm.stages.0.label>
+    <RightExtraBionicArm.stages.1.label>Неудобно</RightExtraBionicArm.stages.1.label>
+    <RightExtraBionicArm.stages.2.label>Привычно</RightExtraBionicArm.stages.2.label>
+    <RightExtraBionicArm.stages.3.label>Как родная</RightExtraBionicArm.stages.3.label>
+    <RightExtraBionicArm.comps.1.tools.0.label>Кулак</RightExtraBionicArm.comps.1.tools.0.label>
+
+    <LeftExtraPowerClaw.label>Левый дополнительный силовой коготь</LeftExtraPowerClaw.label>
+    <LeftExtraPowerClaw.labelNoun>Левый дополнительный силовой коготь</LeftExtraPowerClaw.labelNoun>
+    <LeftExtraPowerClaw.description>Имплантированный силовой коготь — механическая рука с крючковатыми когтями на каждом пальце. Он наносит глубокие раны и достаточно силен, чтобы раздавить череп, как яйцо. Когти можно убрать, что делает его полезным и для небоевых задач, однако общая неуклюжесть немного замедляет передвижение.\n\nПоскольку люди не привыкли к более чем двум рукам, поначалу он будет мешать. Со временем навык улучшится; полное освоение занимает до года.</LeftExtraPowerClaw.description>
+    <LeftExtraPowerClaw.stages.0.label>Мешает</LeftExtraPowerClaw.stages.0.label>
+    <LeftExtraPowerClaw.stages.1.label>Неудобно</LeftExtraPowerClaw.stages.1.label>
+    <LeftExtraPowerClaw.stages.2.label>Привычно</LeftExtraPowerClaw.stages.2.label>
+    <LeftExtraPowerClaw.stages.3.label>Как родной</LeftExtraPowerClaw.stages.3.label>
+    <LeftExtraPowerClaw.comps.1.tools.0.label>Кулак</LeftExtraPowerClaw.comps.1.tools.0.label>
+
+    <RightExtraPowerClaw.label>Правый дополнительный силовой коготь</RightExtraPowerClaw.label>
+    <RightExtraPowerClaw.labelNoun>Правый дополнительный силовой коготь</RightExtraPowerClaw.labelNoun>
+    <RightExtraPowerClaw.description>Имплантированный силовой коготь — механическая рука с крючковатыми когтями на каждом пальце. Он наносит глубокие раны и достаточно силен, чтобы раздавить череп, как яйцо. Когти можно убрать, что делает его полезным и для небоевых задач, однако общая неуклюжесть немного замедляет передвижение.\n\nПоскольку люди не привыкли к более чем двум рукам, поначалу он будет мешать. Со временем навык улучшится; полное освоение занимает до года.</RightExtraPowerClaw.description>
+    <RightExtraPowerClaw.stages.0.label>Мешает</RightExtraPowerClaw.stages.0.label>
+    <RightExtraPowerClaw.stages.1.label>Неудобно</RightExtraPowerClaw.stages.1.label>
+    <RightExtraPowerClaw.stages.2.label>Привычно</RightExtraPowerClaw.stages.2.label>
+    <RightExtraPowerClaw.stages.3.label>Как родной</RightExtraPowerClaw.stages.3.label>
+    <RightExtraPowerClaw.comps.1.tools.0.label>Кулак</RightExtraPowerClaw.comps.1.tools.0.label>
+
+    <LeftExtraDrillArm.label>Левая дополнительная рука шахтёра</LeftExtraDrillArm.label>
+    <LeftExtraDrillArm.labelNoun>Левая дополнительная рука шахтёра</LeftExtraDrillArm.labelNoun>
+    <LeftExtraDrillArm.description>Имплантированная рука шахтёра позволяет быстро находить и разрабатывать слабые места в породе. Она также имеет универсальный манипулятор. Некоторая неуклюжесть незначительно снижает скорость передвижения.\n\nПоскольку люди не привыкли к более чем двум рукам, поначалу она будет мешать. Со временем навык улучшится; полное освоение занимает до года.</LeftExtraDrillArm.description>
+    <LeftExtraDrillArm.stages.0.label>Мешает</LeftExtraDrillArm.stages.0.label>
+    <LeftExtraDrillArm.stages.1.label>Неудобно</LeftExtraDrillArm.stages.1.label>
+    <LeftExtraDrillArm.stages.2.label>Привычно</LeftExtraDrillArm.stages.2.label>
+    <LeftExtraDrillArm.stages.3.label>Как родная</LeftExtraDrillArm.stages.3.label>
+    <LeftExtraDrillArm.comps.1.tools.0.label>Сверло</LeftExtraDrillArm.comps.1.tools.0.label>
+
+    <RightExtraDrillArm.label>Правая дополнительная рука шахтёра</RightExtraDrillArm.label>
+    <RightExtraDrillArm.labelNoun>Правая дополнительная рука шахтёра</RightExtraDrillArm.labelNoun>
+    <RightExtraDrillArm.description>Имплантированная рука шахтёра позволяет быстро находить и разрабатывать слабые места в породе. Она также имеет универсальный манипулятор. Некоторая неуклюжесть незначительно снижает скорость передвижения.\n\nПоскольку люди не привыкли к более чем двум рукам, поначалу она будет мешать. Со временем навык улучшится; полное освоение занимает до года.</RightExtraDrillArm.description>
+    <RightExtraDrillArm.stages.0.label>Мешает</RightExtraDrillArm.stages.0.label>
+    <RightExtraDrillArm.stages.1.label>Неудобно</RightExtraDrillArm.stages.1.label>
+    <RightExtraDrillArm.stages.2.label>Привычно</RightExtraDrillArm.stages.2.label>
+    <RightExtraDrillArm.stages.3.label>Как родная</RightExtraDrillArm.stages.3.label>
+    <RightExtraDrillArm.comps.1.tools.0.label>Сверло</RightExtraDrillArm.comps.1.tools.0.label>
+
+    <LeftExtraFieldHand.label>Левая дополнительная аграрная рука</LeftExtraFieldHand.label>
+    <LeftExtraFieldHand.labelNoun>Левая дополнительная аграрная рука</LeftExtraFieldHand.labelNoun>
+    <LeftExtraFieldHand.description>Имплантированная аграрная рука предназначена для ускорения посева и сбора урожая. Множество телескопических пальцевидных выступов могут одновременно собирать урожай с нескольких точек на одном растении или точно высевать несколько семян. Она также имеет универсальный манипулятор. Некоторая неуклюжесть незначительно снижает скорость передвижения.\n\nПоскольку люди не привыкли к более чем двум рукам, поначалу она будет мешать. Со временем навык улучшится; полное освоение занимает до года.</LeftExtraFieldHand.description>
+    <LeftExtraFieldHand.stages.0.label>Мешает</LeftExtraFieldHand.stages.0.label>
+    <LeftExtraFieldHand.stages.1.label>Неудобно</LeftExtraFieldHand.stages.1.label>
+    <LeftExtraFieldHand.stages.2.label>Привычно</LeftExtraFieldHand.stages.2.label>
+    <LeftExtraFieldHand.stages.3.label>Как родная</LeftExtraFieldHand.stages.3.label>
+    <LeftExtraFieldHand.comps.1.tools.0.label>Манипулятор</LeftExtraFieldHand.comps.1.tools.0.label>
+
+    <RightExtraFieldHand.label>Правая дополнительная аграрная рука</RightExtraFieldHand.label>
+    <RightExtraFieldHand.labelNoun>Правая дополнительная аграрная рука</RightExtraFieldHand.labelNoun>
+    <RightExtraFieldHand.description>Имплантированная аграрная рука предназначена для ускорения посева и сбора урожая. Множество телескопических пальцевидных выступов могут одновременно собирать урожай с нескольких точек на одном растении или точно высевать несколько семян. Она также имеет универсальный манипулятор. Некоторая неуклюжесть незначительно снижает скорость передвижения.\n\nПоскольку люди не привыкли к более чем двум рукам, поначалу она будет мешать. Со временем навык улучшится; полное освоение занимает до года.</RightExtraFieldHand.description>
+    <RightExtraFieldHand.stages.0.label>Мешает</RightExtraFieldHand.stages.0.label>
+    <RightExtraFieldHand.stages.1.label>Неудобно</RightExtraFieldHand.stages.1.label>
+    <RightExtraFieldHand.stages.2.label>Привычно</RightExtraFieldHand.stages.2.label>
+    <RightExtraFieldHand.stages.3.label>Как родная</RightExtraFieldHand.stages.3.label>
+    <RightExtraFieldHand.comps.1.tools.0.label>Манипулятор</RightExtraFieldHand.comps.1.tools.0.label>
+
+    <LeftExtraNerveShredderClaw.label>Левый дополнительный нервно-разрывающий коготь</LeftExtraNerveShredderClaw.label>
+    <LeftExtraNerveShredderClaw.labelNoun>Левый дополнительный нервно-разрывающий коготь</LeftExtraNerveShredderClaw.labelNoun>
+    <LeftExtraNerveShredderClaw.description>Гулю хирургически имплантирован биоферритовый силовой коготь. Его зазубренные биоферритовые пальцы покрыты паралитическим биотоксином.\n\nПоскольку гули не привыкли к более чем двум рукам, поначалу он будет мешать. Со временем навык улучшится; полное освоение занимает до года.</LeftExtraNerveShredderClaw.description>
+    <LeftExtraNerveShredderClaw.stages.0.label>Мешает</LeftExtraNerveShredderClaw.stages.0.label>
+    <LeftExtraNerveShredderClaw.stages.1.label>Неудобно</LeftExtraNerveShredderClaw.stages.1.label>
+    <LeftExtraNerveShredderClaw.stages.2.label>Привычно</LeftExtraNerveShredderClaw.stages.2.label>
+    <LeftExtraNerveShredderClaw.stages.3.label>Как родной</LeftExtraNerveShredderClaw.stages.3.label>
+    <LeftExtraNerveShredderClaw.comps.1.tools.0.label>Нервно-разрывающий коготь</LeftExtraNerveShredderClaw.comps.1.tools.0.label>
+
+    <RightExtraNerveShredderClaw.label>Правый дополнительный нервно-разрывающий коготь</RightExtraNerveShredderClaw.label>
+    <RightExtraNerveShredderClaw.labelNoun>Правый дополнительный нервно-разрывающий коготь</RightExtraNerveShredderClaw.labelNoun>
+    <RightExtraNerveShredderClaw.description>Гулю хирургически имплантирован биоферритовый силовой коготь. Его зазубренные биоферритовые пальцы покрыты паралитическим биотоксином.\n\nПоскольку гули не привыкли к более чем двум рукам, поначалу он будет мешать. Со временем навык улучшится; полное освоение занимает до года.</RightExtraNerveShredderClaw.description>
+    <RightExtraNerveShredderClaw.stages.0.label>Мешает</RightExtraNerveShredderClaw.stages.0.label>
+    <RightExtraNerveShredderClaw.stages.1.label>Неудобно</RightExtraNerveShredderClaw.stages.1.label>
+    <RightExtraNerveShredderClaw.stages.2.label>Привычно</RightExtraNerveShredderClaw.stages.2.label>
+    <RightExtraNerveShredderClaw.stages.3.label>Как родной</RightExtraNerveShredderClaw.stages.3.label>
+    <RightExtraNerveShredderClaw.comps.1.tools.0.label>Нервно-разрывающий коготь</RightExtraNerveShredderClaw.comps.1.tools.0.label>
+
+    <LeftExtraDeadlifeVenomClaw.label>Левый дополнительный коготь с ядом «Мёртвая жизнь»</LeftExtraDeadlifeVenomClaw.label>
+    <LeftExtraDeadlifeVenomClaw.labelNoun>Левый дополнительный коготь с ядом «Мёртвая жизнь»</LeftExtraDeadlifeVenomClaw.labelNoun>
+    <LeftExtraDeadlifeVenomClaw.description>Гулю хирургически имплантирован биоферритовый силовой коготь. Его зазубренные биоферритовые пальцы покрыты ядом «Мёртвая жизнь».\n\nПоскольку гули не привыкли к более чем двум рукам, поначалу он будет мешать. Со временем навык улучшится; полное освоение занимает до года.</LeftExtraDeadlifeVenomClaw.description>
+    <LeftExtraDeadlifeVenomClaw.stages.0.label>Мешает</LeftExtraDeadlifeVenomClaw.stages.0.label>
+    <LeftExtraDeadlifeVenomClaw.stages.1.label>Неудобно</LeftExtraDeadlifeVenomClaw.stages.1.label>
+    <LeftExtraDeadlifeVenomClaw.stages.2.label>Привычно</LeftExtraDeadlifeVenomClaw.stages.2.label>
+    <LeftExtraDeadlifeVenomClaw.stages.3.label>Как родной</LeftExtraDeadlifeVenomClaw.stages.3.label>
+    <LeftExtraDeadlifeVenomClaw.comps.1.tools.0.label>Коготь с ядом «Мёртвая жизнь»</LeftExtraDeadlifeVenomClaw.comps.1.tools.0.label>
+
+    <RightExtraDeadlifeVenomClaw.label>Правый дополнительный коготь с ядом «Мёртвая жизнь»</RightExtraDeadlifeVenomClaw.label>
+    <RightExtraDeadlifeVenomClaw.labelNoun>Правый дополнительный коготь с ядом «Мёртвая жизнь»</RightExtraDeadlifeVenomClaw.labelNoun>
+    <RightExtraDeadlifeVenomClaw.description>Гулю хирургически имплантирован биоферритовый силовой коготь. Его зазубренные биоферритовые пальцы покрыты ядом «Мёртвая жизнь».\n\nПоскольку гули не привыкли к более чем двум рукам, поначалу он будет мешать. Со временем навык улучшится; полное освоение занимает до года.</RightExtraDeadlifeVenomClaw.description>
+    <RightExtraDeadlifeVenomClaw.stages.0.label>Мешает</RightExtraDeadlifeVenomClaw.stages.0.label>
+    <RightExtraDeadlifeVenomClaw.stages.1.label>Неудобно</RightExtraDeadlifeVenomClaw.stages.1.label>
+    <RightExtraDeadlifeVenomClaw.stages.2.label>Привычно</RightExtraDeadlifeVenomClaw.stages.2.label>
+    <RightExtraDeadlifeVenomClaw.stages.3.label>Как родной</RightExtraDeadlifeVenomClaw.stages.3.label>
+    <RightExtraDeadlifeVenomClaw.comps.1.tools.0.label>Коготь с ядом «Мёртвая жизнь»</RightExtraDeadlifeVenomClaw.comps.1.tools.0.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_PrestigeSubdermalArmour.label>Элитная подкожная броня</LTS_PrestigeSubdermalArmour.label>
+    <LTS_PrestigeSubdermalArmour.labelNoun>Комплект элитной подкожной брони</LTS_PrestigeSubdermalArmour.labelNoun>
+    <LTS_PrestigeSubdermalArmour.description>Имплантированный комплект элитной подкожной брони, обеспечивающий превосходную защиту от большинства видов урона.</LTS_PrestigeSubdermalArmour.description>
+
+    <EltexAdornments.label>Украшения из эльтекса</EltexAdornments.label>
+    <EltexAdornments.labelNoun>Украшения из эльтекса</EltexAdornments.labelNoun>
+    <EltexAdornments.description>Имплантированные украшения из эльтекса, символизирующие высокий статус и оказывающие слабое психическое воздействие.</EltexAdornments.description>
+    <EltexAdornments.renderNodeProperties.0.debugLabel>Украшения из эльтекса</EltexAdornments.renderNodeProperties.0.debugLabel>
+
+    <NeuralHeatsink.label>Нейрорадиатор</NeuralHeatsink.label>
+    <NeuralHeatsink.labelNoun>Нейрорадиатор</NeuralHeatsink.labelNoun>
+    <NeuralHeatsink.description>Имплантированный нейрорадиатор, эффективно отводящий избыточное тепло от мозга и предотвращающий перегрев при интенсивной психической активности.</NeuralHeatsink.description>
+</LanguageData>

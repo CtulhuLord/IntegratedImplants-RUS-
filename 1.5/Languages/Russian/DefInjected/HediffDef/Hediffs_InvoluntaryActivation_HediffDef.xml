@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_NeuralStunner.label>Мозговой шокер</LTS_NeuralStunner.label>
+    <LTS_NeuralStunner.labelNoun>Мозговой шокер</LTS_NeuralStunner.labelNoun>
+    <LTS_NeuralStunner.description>Имплантированный мозговой шокер, на короткое время оглушающий цель мощным электрическим разрядом.</LTS_NeuralStunner.description>
+
+    <LTS_BrainDetonator.label>Мозговой детонатор</LTS_BrainDetonator.label>
+    <LTS_BrainDetonator.labelNoun>Мозговой детонатор</LTS_BrainDetonator.labelNoun>
+    <LTS_BrainDetonator.description>Имплантированный мозговой детонатор, вызывающий мгновенную смерть цели мощным взрывом в мозге.</LTS_BrainDetonator.description>
+
+    <LTS_Voicelock.label>Блокиратор голоса</LTS_Voicelock.label>
+    <LTS_Voicelock.labelNoun>Блокиратор голоса</LTS_Voicelock.labelNoun>
+    <LTS_Voicelock.description>Имплантированный блокиратор голоса, временно лишающий цель возможности говорить. Действует дистанционно.</LTS_Voicelock.description>
+</LanguageData>

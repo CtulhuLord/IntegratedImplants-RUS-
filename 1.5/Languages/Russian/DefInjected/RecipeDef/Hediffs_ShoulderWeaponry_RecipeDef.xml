@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_InstallShoulderTurret.label>Установить наплечную турель</LTS_InstallShoulderTurret.label>
+    <LTS_InstallShoulderTurret.description>Установить наплечную турель.</LTS_InstallShoulderTurret.description>
+    <LTS_InstallShoulderTurret.jobString>Устанавливает наплечную турель.</LTS_InstallShoulderTurret.jobString>
+
+    <LTS_RemoveShoulderTurret.label>Удалить наплечную турель</LTS_RemoveShoulderTurret.label>
+    <LTS_RemoveShoulderTurret.description>Удалить наплечную турель.</LTS_RemoveShoulderTurret.description>
+    <LTS_RemoveShoulderTurret.jobString>Удаляет наплечную турель.</LTS_RemoveShoulderTurret.jobString>
+
+    <LTS_InstallShoulderChargeTurret.label>Установить наплечную плазменную турель</LTS_InstallShoulderChargeTurret.label>
+    <LTS_InstallShoulderChargeTurret.description>Установить наплечную плазменную турель.</LTS_InstallShoulderChargeTurret.description>
+    <LTS_InstallShoulderChargeTurret.jobString>Устанавливает наплечную плазменную турель.</LTS_InstallShoulderChargeTurret.jobString>
+
+    <LTS_RemoveShoulderChargeTurret.label>Удалить наплечную плазменную турель</LTS_RemoveShoulderChargeTurret.label>
+    <LTS_RemoveShoulderChargeTurret.description>Удалить наплечную плазменную турель.</LTS_RemoveShoulderChargeTurret.description>
+    <LTS_RemoveShoulderChargeTurret.jobString>Удаляет наплечную плазменную турель.</LTS_RemoveShoulderChargeTurret.jobString>
+
+    <LTS_InstallShoulderRocketPod.label>Установить наплечный ракетный модуль</LTS_InstallShoulderRocketPod.label>
+    <LTS_InstallShoulderRocketPod.description>Установить наплечный ракетный модуль.</LTS_InstallShoulderRocketPod.description>
+    <LTS_InstallShoulderRocketPod.jobString>Устанавливает наплечный ракетный модуль.</LTS_InstallShoulderRocketPod.jobString>
+
+    <LTS_RemoveShoulderRocketPod.label>Удалить наплечный ракетный модуль</LTS_RemoveShoulderRocketPod.label>
+    <LTS_RemoveShoulderRocketPod.description>Удалить наплечный ракетный модуль.</LTS_RemoveShoulderRocketPod.description>
+    <LTS_RemoveShoulderRocketPod.jobString>Удаляет наплечный ракетный модуль.</LTS_RemoveShoulderRocketPod.jobString>
+
+    <LTS_InstallShoulderMortar.label>Установить наплечный миномет</LTS_InstallShoulderMortar.label>
+    <LTS_InstallShoulderMortar.description>Установить наплечный миномет.</LTS_InstallShoulderMortar.description>
+    <LTS_InstallShoulderMortar.jobString>Устанавливает наплечный миномет.</LTS_InstallShoulderMortar.jobString>
+
+    <LTS_RemoveShoulderMortar.label>Удалить наплечный миномет</LTS_RemoveShoulderMortar.label>
+    <LTS_RemoveShoulderMortar.description>Удалить наплечный миномет.</LTS_RemoveShoulderMortar.description>
+    <LTS_RemoveShoulderMortar.jobString>Удаляет наплечный миномет.</LTS_RemoveShoulderMortar.jobString>
+</LanguageData>

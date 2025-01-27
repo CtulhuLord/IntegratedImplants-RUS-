@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_AdvancedGhoulEnhancements.label>Продвинутые улучшения гулей</LTS_AdvancedGhoulEnhancements.label>
+    <LTS_AdvancedGhoulEnhancements.description>Создание биоферритовой бионики для усиления гулей.</LTS_AdvancedGhoulEnhancements.description>
+    <LTS_AdvancedGhoulEnhancements.generalRules.rulesStrings>
+        <li>subject->улучшения бионики гулей</li>
+        <li>subject_story->пытался создать армию мертвецов с помощью технологий</li>
+        <li>subject_story->за ним охотилось существо из плоти и стали</li>
+        <li>subject_story->сошел с ума, пытаясь спасти умирающих солдат с помощью бионики</li>
+        <li>subject_gerund->улучшение гуля с помощью биоферритовой бионики</li>
+    </LTS_AdvancedGhoulEnhancements.generalRules.rulesStrings>
+
+    <DreadheartRegeneration.label>Регенерация Страшного сердца</DreadheartRegeneration.label>
+    <DreadheartRegeneration.description>Модификация ядра Страшного сплава для имплантации в человека, позволяющая ему временно получить невероятную регенерацию.</DreadheartRegeneration.description>
+    <DreadheartRegeneration.generalRules.rulesStrings>
+        <li>subject->регенерация</li>
+        <li>subject->формирование плоти</li>
+        <li>subject_story->посетил племя, которое существовало за счет постоянно растущей массы плоти</li>
+        <li>subject_story->видел, как человек взорвался в бесконечную массу плоти</li>
+        <li>subject_story->во сне вырезал сердце бессмертного бога-царя</li>
+        <li>subject_gerund->адаптация ядра Страшного сплава</li>
+        <li>subject_gerund->имплантация ядра Страшного сплава в человека</li>
+    </DreadheartRegeneration.generalRules.rulesStrings>
+
+    <PsychicAgonizer.label>Психический агонизатор</PsychicAgonizer.label>
+    <PsychicAgonizer.description>Модификация излучателя ноциосферы для имплантации в человека, позволяющая ему проецировать волну мучительной боли.</PsychicAgonizer.description>
+    <PsychicAgonizer.generalRules.rulesStrings>
+        <li>subject->агония</li>
+        <li>subject_story->знал боль, какой никто никогда не испытывал</li>
+        <li>subject_story->оказался в ловушке в изменчивом устройстве темной археотехнологии</li>
+        <li>subject_story->совершенствовал искусство пыток под руководством темных шепотов</li>
+        <li>subject_gerund->адаптация излучателя ноциосферы</li>
+        <li>subject_gerund->имплантация излучателя ноциосферы в человека</li>
+    </PsychicAgonizer.generalRules.rulesStrings>
+
+    <BlacksightDevice.label>Устройство «Чёрное зрение»</BlacksightDevice.label>
+    <BlacksightDevice.description>Модификация ноктолитовых сенсоров для имплантации в человека, позволяющая ему частично входить в Пустоту.</BlacksightDevice.description>
+    <BlacksightDevice.generalRules.rulesStrings>
+        <li>subject->чёрное зрение</li>
+        <li>subject_story->бродил по аду из зубчатого металла и чувствовал себя как дома</li>
+        <li>subject_story->за одну ночь убил всю семью олигарха урбанизированного мира</li>
+        <li>subject_story->нашел странное, злое устройство и больше его никто не видел</li>
+        <li>subject_gerund->адаптация ноктолитовых сенсоров</li>
+        <li>subject_gerund->имплантация ноктолитовых сенсоров в человека</li>
+    </BlacksightDevice.generalRules.rulesStrings>
+
+    <MetalhorrorSymbiont.label>Симбиоз с Металлоужасом</MetalhorrorSymbiont.label>
+    <MetalhorrorSymbiont.description>Модификация семени Металлоужаса для имплантации в человека, улучшающая его боевые возможности.</MetalhorrorSymbiont.description>
+    <MetalhorrorSymbiont.generalRules.rulesStrings>
+        <li>subject->симбиоз</li>
+        <li>subject_story->вводил архиметаллических паразитов военнопленным, чтобы узнать, как улучшить своих солдат</li>
+        <li>subject_story->знал, что его друзья и семья были заменены монстрами</li>
+        <li>subject_story->с ужасом наблюдал, как существо вырезало себе путь из его тела</li>
+        <li>subject_gerund->адаптация семени Металлоужаса</li>
+        <li>subject_gerund->имплантация семени Металлоужаса в человека</li>
+    </MetalhorrorSymbiont.generalRules.rulesStrings>
+
+    <HyperalkalaicArchites.label>Гипералкалиновые архиты</HyperalkalaicArchites.label>
+    <HyperalkalaicArchites.description>Модификация гипералкалиновых архитов, выстилающих желудок пожирателя, для имплантации в человека, защищая его от кислоты.</HyperalkalaicArchites.description>
+    <HyperalkalaicArchites.generalRules.rulesStrings>
+        <li>subject->кислота</li>
+        <li>subject->архиты</li>
+        <li>subject_story->написал книгу об изобретателе, который думал, что стал невосприимчив к монстру, преследующему его город. Он только продлил свои страдания</li>
+        <li>subject_story->задокументировал странные эффекты на тех, кто решил сделать себе татуировки архитами</li>
+        <li>subject_story->получил приказ растворить сотни человеческих тел</li>
+        <li>subject_gerund->адаптация гипералкалиновых архитов</li>
+        <li>subject_gerund->имплантация гипералкалиновых архитов в человека</li>
+    </HyperalkalaicArchites.generalRules.rulesStrings>
+
+    <PsychicBeguiler.label>Психический обольститель</PsychicBeguiler.label>
+    <PsychicBeguiler.description>Модификация золотого куба для имплантации в человека, наделяющая его способностями к манипуляции.</PsychicBeguiler.description>
+    <PsychicBeguiler.generalRules.rulesStrings>
+        <li>subject->красота</li>
+        <li>subject->куб</li>
+        <li>subject_story->жил в постоянном страхе после того, как их праведный правитель был соблазнен прекрасным путешественником и убежден обезглавить сотни ради его удовольствия</li>
+        <li>subject_story->наткнулся на странный, поклоняющийся кубу культ в глубинах гиперструктуры своего урбанизированного мира</li>
+        <li>subject_story->добился больших политических успехов благодаря обольщению и соблазнению</li>
+        <li>subject_gerund->имплантация золотого куба</li>
+        <li>subject_gerund->имплантация золотого куба в человека</li>
+    </PsychicBeguiler.generalRules.rulesStrings>
+
+    <HulkificationSurgery.label>Хирургия халкификации</HulkificationSurgery.label>
+    <HulkificationSurgery.description>Выполнение операции, которая деформирует человека, делая его отвратительным и медленным, но невероятно сильным.</HulkificationSurgery.description>
+    <HulkificationSurgery.generalRules.rulesStrings>
+        <li>subject->деформация</li>
+        <li>subject->мутация</li>
+        <li>subject_story->деформировал свое тело, вводя всевозможные странные смеси и материалы, пытаясь стать лучшим спортсменом в своем мире</li>
+        <li>subject_story->стал свидетелем того, как нечеловечески большой, но деформированный солдат героически вынес своих раненых товарищей в безопасное место</li>
+        <li>subject_story->задавался вопросом, что на самом деле отделяет людей от горхолков</li>
+        <li>subject_gerund->выполнение операций</li>
+        <li>subject_gerund->улучшение тел</li>
+    </HulkificationSurgery.generalRules.rulesStrings>
+
+    <HyperAdrenalineGland.label>Гипер-адреналиновая железа</HyperAdrenalineGland.label>
+    <HyperAdrenalineGland.description>Модификация гипер-адреналиновой железы для имплантации в человека, наделяющая его невероятной скоростью и устойчивостью к боли при ранении.</HyperAdrenalineGland.description>
+    <HyperAdrenalineGland.generalRules.rulesStrings>
+        <li>subject->адреналин</li>
+        <li>subject_story->изуродовал себя, заменяя части своего тела животными эквивалентами, используя хирургические методы блестящего мира</li>
+        <li>subject_story->за ним охотилась стая странных, неестественных зверей в джунглях его родной планеты</li>
+        <li>subject_story->прочитал диссертацию по археобиологическим органам</li>
+        <li>subject_gerund->имплантация гипер-адреналиновой железы</li>
+        <li>subject_gerund->имплантация гипер-адреналиновой железы в человека</li>
+    </HyperAdrenalineGland.generalRules.rulesStrings>
+
+    <DefensiveImpaler.label>Карающий шипомёт</DefensiveImpaler.label>
+    <DefensiveImpaler.description>Модификация нервной системы горхолка для имплантации в человека, наделяющая его выдвижными бионическими иглами.</DefensiveImpaler.description>
+    <DefensiveImpaler.generalRules.rulesStrings>
+        <li>subject->возмездие</li>
+        <li>subject->пронзание</li>
+        <li>subject_story->любил своего домашнего ежа и задавался вопросом, могут ли люди достичь таких уровней совершенства</li>
+        <li>subject_story->обнаружил, что жители его родной деревни заменены странными, не совсем людьми</li>
+        <li>subject_story->хотел никогда больше не испытывать боли</li>
+        <li>subject_gerund->имплантация нервной системы горхолка</li>
+        <li>subject_gerund->имплантация нервной системы горхолка в человека</li>
+    </DefensiveImpaler.generalRules.rulesStrings>
+
+    <DeadlifeCoil.label>Катушка мёртвой жизни</DeadlifeCoil.label>
+    <DeadlifeCoil.description>Модификация пыли мёртвой жизни, присутствующей в человеке, наделяющая его гораздо более мощной формой шаркуна.</DeadlifeCoil.description>
+    <DeadlifeCoil.generalRules.rulesStrings>
+        <li>subject->возмездие</li>
+        <li>subject->пронзание</li>
+        <li>subject_story->открыл то, что, по его мнению, было секретом бессмертия, начертанным на странном монолите на мертвом мире</li>
+        <li>subject_story->желал арки, которая продолжала бы сражаться за него даже после смерти</li>
+        <li>subject_story->обнаружил коллекцию археотехнологических органов, не соответствующих ни одному известному ксенотипу, на глубоком черном рынке урбанизированного мира</li>
+        <li>subject_gerund->имплантация архео-ДНК горхолка</li>
+        <li>subject_gerund->имплантация архео-ДНК горхолка в человека</li>
+    </DeadlifeCoil.generalRules.rulesStrings>
+
+    <SlayersCollar.label>Ошейник убийцы</SlayersCollar.label>
+    <SlayersCollar.description>Модификация некротической археотехнологии для имплантации в человека, позволяющая ему обмануть смерть, вызывая её.</SlayersCollar.description>
+    <SlayersCollar.generalRules.rulesStrings>
+        <li>subject->смерть</li>
+        <li>subject->бессмертие</li>
+        <li>subject_story->прочитал историю о герое, которого развратила его собственная нескончаемая жажда крови</li>
+        <li>subject_story->выдержал суровые, смертельные и гротескные ритуалы посвящения, чтобы присоединиться к культу Хоракса</li>
+        <li>subject_story->выслеживал и снова и снова стрелял в серийного убийцу, только чтобы он снова появился позже</li>
+        <li>subject_gerund->имплантация некротической археотехнологии</li>
+        <li>subject_gerund->имплантация некротической археотехнологии в человека</li>
+    </SlayersCollar.generalRules.rulesStrings>
+
+    <StalkerizingSurgery.label>Хирургия иссушения</StalkerizingSurgery.label>
+    <StalkerizingSurgery.description>Выполнение операции, которая деформирует человека, делая его пугающе худым и хрупким, но нечеловечески быстрым.</StalkerizingSurgery.description>
+    <StalkerizingSurgery.generalRules.rulesStrings>
+        <li>subject->деформация</li>
+        <li>subject->мутация</li>
+        <li>subject_story->деформировал свое тело, вводя всевозможные странные смеси и материалы, пытаясь стать лучшим спортсменом в своем мире</li>
+        <li>subject_story->задавался вопросом, сколько на самом деле можно удалить из человеческого тела, не снижая его эффективности</li>
+        <li>subject_story->подверг себя хирургическим изменениям, чтобы замаскироваться среди племени мутировавших гуманоидов</li>
+        <li>subject_gerund->выполнение операций</li>
+        <li>subject_gerund->улучшение тел</li>
+    </StalkerizingSurgery.generalRules.rulesStrings>
+
+    <NullificationLobotomy.label>Лоботомия подавления</NullificationLobotomy.label>
+    <NullificationLobotomy.description>Выполнение операции, которая лоботомирует человека, делая его невосприимчивым к психическим явлениям.</NullificationLobotomy.description>
+    <NullificationLobotomy.generalRules.rulesStrings>
+        <li>subject->лоботомия</li>
+        <li>subject_story->деформировал свое тело, вводя всевозможные странные смеси и материалы, пытаясь стать лучшим спортсменом в своем мире</li>
+        <li>subject_story->стал свидетелем того, как нечеловечески большой, но деформированный солдат героически вынес своих раненых товарищей в безопасное место</li>
+        <li>subject_story->задавался вопросом, что на самом деле отделяет людей от горхолков</li>
+        <li>subject_gerund->выполнение лоботомий</li>
+        <li>subject_gerund->иссечение мозговой ткани</li>
+    </NullificationLobotomy.generalRules.rulesStrings>
+
+    <DroneLobotomy.label>Сангвиническая лоботомия</DroneLobotomy.label>
+    <DroneLobotomy.description>Выполнение операции, которая лоботомирует человека, лишая его способности чувствовать весь спектр человеческих эмоций, ослабляя при этом его волю к обучению.</DroneLobotomy.description>
+    <DroneLobotomy.generalRules.rulesStrings>
+        <li>subject->лоботомия</li>
+        <li>subject_story->заработал состояние, лоботомируя рабочую силу мегакорпорации урбанизированного мира</li>
+        <li>subject_story->решил создать мир, где никто никогда не будет грустить</li>
+        <li>subject_story->окончил курс нейробиологии, полный новых идей</li>
+        <li>subject_gerund->выполнение лоботомий</li>
+        <li>subject_gerund->иссечение мозговой ткани</li>
+    </DroneLobotomy.generalRules.rulesStrings>
+
+    <PsychicSustainer.label>Оккультные импланты</PsychicSustainer.label>
+    <PsychicSustainer.description>Модификация археотехнологии для имплантации в человека, усиливающая его неестественные силы.</PsychicSustainer.description>
+    <PsychicSustainer.generalRules.rulesStrings>
+        <li>subject->медитация</li>
+        <li>subject_story->обнаружил руины древнего культа глубоко в мире джунглей, населенные только статуями, стоящими на коленях в молитве</li>
+        <li>subject_story->погрузился в безумие, исследуя психические поля</li>
+        <li>subject_story->был захвачен ужасным культом крови, члены которого никогда не ели и не спали</li>
+        <li>subject_gerund->имплантация темной археотехнологии</li>
+        <li>subject_gerund->имплантация темной археотехнологии в человека</li>
+    </PsychicSustainer.generalRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_InstallPrestigeSubdermalArmour.label>Установить элитную подкожную броню</LTS_InstallPrestigeSubdermalArmour.label>
+    <LTS_InstallPrestigeSubdermalArmour.description>Установить комплект элитной подкожной брони.</LTS_InstallPrestigeSubdermalArmour.description>
+    <LTS_InstallPrestigeSubdermalArmour.jobString>Устанавливает элитную подкожную броню.</LTS_InstallPrestigeSubdermalArmour.jobString>
+
+    <LTS_RemovePrestigeSubdermalArmour.label>Удалить элитную подкожную броню</LTS_RemovePrestigeSubdermalArmour.label>
+    <LTS_RemovePrestigeSubdermalArmour.description>Удалить элитную подкожную броню.</LTS_RemovePrestigeSubdermalArmour.description>
+    <LTS_RemovePrestigeSubdermalArmour.jobString>Удаляет элитную подкожную броню.</LTS_RemovePrestigeSubdermalArmour.jobString>
+
+    <InstallEltexAdornments.label>Установить украшения из эльтекса</InstallEltexAdornments.label>
+    <InstallEltexAdornments.description>Установить украшения из эльтекса.</InstallEltexAdornments.description>
+    <InstallEltexAdornments.jobString>Устанавливает украшения из эльтекса.</InstallEltexAdornments.jobString>
+
+    <RemoveEltexAdornments.label>Удалить украшения из эльтекса</RemoveEltexAdornments.label>
+    <RemoveEltexAdornments.description>Удалить украшения из эльтекса.</RemoveEltexAdornments.description>
+    <RemoveEltexAdornments.jobString>Удаляет украшения из эльтекса.</RemoveEltexAdornments.jobString>
+
+    <InstallNeuralHeatsink.label>Установить нейрорадиатор</InstallNeuralHeatsink.label>
+    <InstallNeuralHeatsink.description>Установить нейрорадиатор.</InstallNeuralHeatsink.description>
+    <InstallNeuralHeatsink.jobString>Устанавливает нейрорадиатор.</InstallNeuralHeatsink.jobString>
+
+    <RemoveNeuralHeatsink.label>Удалить нейрорадиатор</RemoveNeuralHeatsink.label>
+    <RemoveNeuralHeatsink.description>Удалить нейрорадиатор.</RemoveNeuralHeatsink.description>
+    <RemoveNeuralHeatsink.jobString>Удаляет нейрорадиатор.</RemoveNeuralHeatsink.jobString>
+</LanguageData>

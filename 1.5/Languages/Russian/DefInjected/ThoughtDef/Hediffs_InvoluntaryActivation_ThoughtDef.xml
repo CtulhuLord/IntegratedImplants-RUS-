@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <BrainShocker.stages.0.label>Мозговой шокер</BrainShocker.stages.0.label>
+    <BrainShocker.stages.0.description>У меня в мозгу устройство контроля.</BrainShocker.stages.0.description>
+
+    <BrainDetonator.stages.0.label>Мозговой детонатор</BrainDetonator.stages.0.label>
+    <BrainDetonator.stages.0.description>У меня в мозгу бомба!</BrainDetonator.stages.0.description>
+</LanguageData>

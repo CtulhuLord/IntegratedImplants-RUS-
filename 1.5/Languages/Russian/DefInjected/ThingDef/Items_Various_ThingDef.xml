@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DreadmeldCore.label>Ядро ужасающей смеси</DreadmeldCore.label>
+    <DreadmeldCore.description>Кусок темной архотехнологии, добытый из останков ужасающей смеси. Из его решетки из черного металла медленно сочится зловонная плоть. В его присутствии мясо, кажется, извивается и покрывается волдырями.</DreadmeldCore.description>
+    <DreadmeldCore.comps.0.useLabel>Разбить {0_label}</DreadmeldCore.comps.0.useLabel>
+    <DreadmeldCore.comps.0.useMessage>{PAWN_nameDef} разбил ядро ужасающей смеси.</DreadmeldCore.comps.0.useMessage>
+    <DreadmeldCore.comps.CompRevenantSpine.activateLabelString>Разбить...</DreadmeldCore.comps.CompRevenantSpine.activateLabelString>
+    <DreadmeldCore.comps.CompRevenantSpine.activateDescString>Разбить ядро ужасающей смеси.</DreadmeldCore.comps.CompRevenantSpine.activateDescString>
+    <DreadmeldCore.comps.CompRevenantSpine.activatingStringPending>разбивает ядро ужасающей смеси</DreadmeldCore.comps.CompRevenantSpine.activatingStringPending>
+    <DreadmeldCore.comps.CompRevenantSpine.guiLabelString>Выберите, кто это сделает</DreadmeldCore.comps.CompRevenantSpine.guiLabelString>
+
+    <NociosphereEmitter.label>Излучатель ноциосферы</NociosphereEmitter.label>
+    <NociosphereEmitter.description>Кусок темной архотехнологии, добытый из обломков ноциосферы. Странные молнии мерцают и преломляются внутри его треснувшего кристаллического ядра, вызывая ощущение покалывания у находящихся поблизости.</NociosphereEmitter.description>
+    <NociosphereEmitter.comps.0.useLabel>Разбить {0_label}</NociosphereEmitter.comps.0.useLabel>
+    <NociosphereEmitter.comps.0.useMessage>{PAWN_nameDef} разбил излучатель ноциосферы.</NociosphereEmitter.comps.0.useMessage>
+    <NociosphereEmitter.comps.CompRevenantSpine.activateLabelString>Разбить...</NociosphereEmitter.comps.CompRevenantSpine.activateLabelString>
+    <NociosphereEmitter.comps.CompRevenantSpine.activateDescString>Разбить излучатель ноциосферы.</NociosphereEmitter.comps.CompRevenantSpine.activateDescString>
+    <NociosphereEmitter.comps.CompRevenantSpine.activatingStringPending>разбивает излучатель ноциосферы</NociosphereEmitter.comps.CompRevenantSpine.activatingStringPending>
+    <NociosphereEmitter.comps.CompRevenantSpine.guiLabelString>Выберите, кто это сделает</NociosphereEmitter.comps.CompRevenantSpine.guiLabelString>
+
+    <NoctolithSensor.label>Датчик ноктолита</NoctolithSensor.label>
+    <NoctolithSensor.description>Кусок темной архотехнологии, добытый из обломков ноктолита. Болезненно-желтая линза, установленная в его гладкую, маслянистую поверхность, кажется, отражает жестокую насмешку над миром, изображенную в зазубренном черном металле.</NoctolithSensor.description>
+    <NoctolithSensor.comps.0.useLabel>Разбить {0_label}</NoctolithSensor.comps.0.useLabel>
+    <NoctolithSensor.comps.0.useMessage>{PAWN_nameDef} разбил датчик ноктолита.</NoctolithSensor.comps.0.useMessage>
+    <NoctolithSensor.comps.CompRevenantSpine.activateLabelString>Разбить...</NoctolithSensor.comps.CompRevenantSpine.activateLabelString>
+    <NoctolithSensor.comps.CompRevenantSpine.activateDescString>Разбить датчик ноктолита.</NoctolithSensor.comps.CompRevenantSpine.activateDescString>
+    <NoctolithSensor.comps.CompRevenantSpine.activatingStringPending>разбивает датчик ноктолита</NoctolithSensor.comps.CompRevenantSpine.activatingStringPending>
+    <NoctolithSensor.comps.CompRevenantSpine.guiLabelString>Выберите, кто это сделает</NoctolithSensor.comps.CompRevenantSpine.guiLabelString>
+</LanguageData>

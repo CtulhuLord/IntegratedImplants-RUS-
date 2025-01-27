@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LeftExtraOEBionicArm.label>Левая дополнительная бионическая рука OE</LeftExtraOEBionicArm.label>
+    <LeftExtraOEBionicArm.labelNoun>Левая дополнительная бионическая рука OE</LeftExtraOEBionicArm.labelNoun>
+    <LeftExtraOEBionicArm.description>Установленная левая дополнительная бионическая рука OE. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraOEBionicArm.description>
+    <LeftExtraOEBionicArm.comps.1.tools.0.label>Кулак</LeftExtraOEBionicArm.comps.1.tools.0.label>
+    <LeftExtraOEBionicArm.stages.0.label>Неуклюжий</LeftExtraOEBionicArm.stages.0.label>
+    <LeftExtraOEBionicArm.stages.1.label>Неудобный</LeftExtraOEBionicArm.stages.1.label>
+    <LeftExtraOEBionicArm.stages.2.label>Привычный</LeftExtraOEBionicArm.stages.2.label>
+    <LeftExtraOEBionicArm.stages.3.label>Как родной</LeftExtraOEBionicArm.stages.3.label>
+    
+    <RightExtraOEBionicArm.label>Правая дополнительная бионическая рука OE</RightExtraOEBionicArm.label>
+    <RightExtraOEBionicArm.labelNoun>Правая дополнительная бионическая рука OE</RightExtraOEBionicArm.labelNoun>
+    <RightExtraOEBionicArm.description>Установленная правая дополнительная бионическая рука OE. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraOEBionicArm.description>
+    <RightExtraOEBionicArm.comps.1.tools.0.label>Кулак</RightExtraOEBionicArm.comps.1.tools.0.label>
+    <RightExtraOEBionicArm.stages.0.label>Неуклюжий</RightExtraOEBionicArm.stages.0.label>
+    <RightExtraOEBionicArm.stages.1.label>Неудобный</RightExtraOEBionicArm.stages.1.label>
+    <RightExtraOEBionicArm.stages.2.label>Привычный</RightExtraOEBionicArm.stages.2.label>
+    <RightExtraOEBionicArm.stages.3.label>Как родной</RightExtraOEBionicArm.stages.3.label>
+    
+    <LeftExtraOEBionicMArm.label>Левая дополнительная усовершенствованная бионическая рука OE</LeftExtraOEBionicMArm.label>
+    <LeftExtraOEBionicMArm.labelNoun>Левая дополнительная усовершенствованная бионическая рука OE</LeftExtraOEBionicMArm.labelNoun>
+    <LeftExtraOEBionicMArm.description>Установленная левая дополнительная усовершенствованная бионическая рука OE. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraOEBionicMArm.description>
+    <LeftExtraOEBionicMArm.comps.1.tools.0.label>Кулак</LeftExtraOEBionicMArm.comps.1.tools.0.label>
+    <LeftExtraOEBionicMArm.stages.0.label>Неуклюжий</LeftExtraOEBionicMArm.stages.0.label>
+    <LeftExtraOEBionicMArm.stages.1.label>Неудобный</LeftExtraOEBionicMArm.stages.1.label>
+    <LeftExtraOEBionicMArm.stages.2.label>Привычный</LeftExtraOEBionicMArm.stages.2.label>
+    <LeftExtraOEBionicMArm.stages.3.label>Как родной</LeftExtraOEBionicMArm.stages.3.label>
+    
+    <RightExtraOEBionicMArm.label>Правая дополнительная усовершенствованная бионическая рука OE</RightExtraOEBionicMArm.label>
+    <RightExtraOEBionicMArm.labelNoun>Правая дополнительная усовершенствованная бионическая рука OE</RightExtraOEBionicMArm.labelNoun>
+    <RightExtraOEBionicMArm.description>Установленная правая дополнительная усовершенствованная бионическая рука OE. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraOEBionicMArm.description>
+    <RightExtraOEBionicMArm.comps.1.tools.0.label>Кулак</RightExtraOEBionicMArm.comps.1.tools.0.label>
+    <RightExtraOEBionicMArm.stages.0.label>Неуклюжий</RightExtraOEBionicMArm.stages.0.label>
+    <RightExtraOEBionicMArm.stages.1.label>Неудобный</RightExtraOEBionicMArm.stages.1.label>
+    <RightExtraOEBionicMArm.stages.2.label>Привычный</RightExtraOEBionicMArm.stages.2.label>
+    <RightExtraOEBionicMArm.stages.3.label>Как родной</RightExtraOEBionicMArm.stages.3.label>
+    
+    <LeftExtraOEBionicCACArm.label>Левая дополнительная бионическая рука культиста</LeftExtraOEBionicCACArm.label>
+    <LeftExtraOEBionicCACArm.labelNoun>Левая дополнительная бионическая рука культиста</LeftExtraOEBionicCACArm.labelNoun>
+    <LeftExtraOEBionicCACArm.description>Установленная левая дополнительная бионическая рука культиста. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraOEBionicCACArm.description>
+    <LeftExtraOEBionicCACArm.comps.1.tools.0.label>Кулак</LeftExtraOEBionicCACArm.comps.1.tools.0.label>
+    <LeftExtraOEBionicCACArm.stages.0.label>Неуклюжий</LeftExtraOEBionicCACArm.stages.0.label>
+    <LeftExtraOEBionicCACArm.stages.1.label>Неудобный</LeftExtraOEBionicCACArm.stages.1.label>
+    <LeftExtraOEBionicCACArm.stages.2.label>Привычный</LeftExtraOEBionicCACArm.stages.2.label>
+    <LeftExtraOEBionicCACArm.stages.3.label>Как родной</LeftExtraOEBionicCACArm.stages.3.label>
+    
+    <RightExtraOEBionicCACArm.label>Правая дополнительная бионическая рука культиста</RightExtraOEBionicCACArm.label>
+    <RightExtraOEBionicCACArm.labelNoun>Правая дополнительная бионическая рука культиста</RightExtraOEBionicCACArm.labelNoun>
+    <RightExtraOEBionicCACArm.description>Установленная правая дополнительная бионическая рука культиста. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraOEBionicCACArm.description>
+    <RightExtraOEBionicCACArm.comps.1.tools.0.label>Кулак</RightExtraOEBionicCACArm.comps.1.tools.0.label>
+    <RightExtraOEBionicCACArm.stages.0.label>Неуклюжий</RightExtraOEBionicCACArm.stages.0.label>
+    <RightExtraOEBionicCACArm.stages.1.label>Неудобный</RightExtraOEBionicCACArm.stages.1.label>
+    <RightExtraOEBionicCACArm.stages.2.label>Привычный</RightExtraOEBionicCACArm.stages.2.label>
+    <RightExtraOEBionicCACArm.stages.3.label>Как родной</RightExtraOEBionicCACArm.stages.3.label>
+    
+    <LeftExtraOEImplantAcidArm.label>Левый дополнительный имплант - Жало</LeftExtraOEImplantAcidArm.label>
+    <LeftExtraOEImplantAcidArm.labelNoun>Левый дополнительный имплант - Жало</LeftExtraOEImplantAcidArm.labelNoun>
+    <LeftExtraOEImplantAcidArm.description>Установленный левый дополнительный имплант - Жало. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraOEImplantAcidArm.description>
+    <LeftExtraOEImplantAcidArm.comps.1.tools.0.label>Жало</LeftExtraOEImplantAcidArm.comps.1.tools.0.label>
+    <LeftExtraOEImplantAcidArm.stages.0.label>Неуклюжий</LeftExtraOEImplantAcidArm.stages.0.label>
+    <LeftExtraOEImplantAcidArm.stages.1.label>Неудобный</LeftExtraOEImplantAcidArm.stages.1.label>
+    <LeftExtraOEImplantAcidArm.stages.2.label>Привычный</LeftExtraOEImplantAcidArm.stages.2.label>
+    <LeftExtraOEImplantAcidArm.stages.3.label>Как родной</LeftExtraOEImplantAcidArm.stages.3.label>
+    
+    <RightExtraOEImplantAcidArm.label>Правый дополнительный имплант - Жало</RightExtraOEImplantAcidArm.label>
+    <RightExtraOEImplantAcidArm.labelNoun>Правый дополнительный имплант - Жало</RightExtraOEImplantAcidArm.labelNoun>
+    <RightExtraOEImplantAcidArm.description>Установленный правый дополнительный имплант - Жало. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraOEImplantAcidArm.description>
+    <RightExtraOEImplantAcidArm.comps.1.tools.0.label>Жало</RightExtraOEImplantAcidArm.comps.1.tools.0.label>
+    <RightExtraOEImplantAcidArm.stages.0.label>Неуклюжий</RightExtraOEImplantAcidArm.stages.0.label>
+    <RightExtraOEImplantAcidArm.stages.1.label>Неудобный</RightExtraOEImplantAcidArm.stages.1.label>
+    <RightExtraOEImplantAcidArm.stages.2.label>Привычный</RightExtraOEImplantAcidArm.stages.2.label>
+    <RightExtraOEImplantAcidArm.stages.3.label>Как родной</RightExtraOEImplantAcidArm.stages.3.label>
+    
+    <LeftExtraOEImplantCryoArm.label>Левый дополнительный имплант - Жало</LeftExtraOEImplantCryoArm.label>
+    <LeftExtraOEImplantCryoArm.labelNoun>Левый дополнительный имплант - Жало</LeftExtraOEImplantCryoArm.labelNoun>
+    <LeftExtraOEImplantCryoArm.description>Установленный левый дополнительный имплант - Жало. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraOEImplantCryoArm.description>
+    <LeftExtraOEImplantCryoArm.comps.1.tools.0.label>Жало</LeftExtraOEImplantCryoArm.comps.1.tools.0.label>
+    <LeftExtraOEImplantCryoArm.stages.0.label>Неуклюжий</LeftExtraOEImplantCryoArm.stages.0.label>
+    <LeftExtraOEImplantCryoArm.stages.1.label>Неудобный</LeftExtraOEImplantCryoArm.stages.1.label>
+    <LeftExtraOEImplantCryoArm.stages.2.label>Привычный</LeftExtraOEImplantCryoArm.stages.2.label>
+    <LeftExtraOEImplantCryoArm.stages.3.label>Как родной</LeftExtraOEImplantCryoArm.stages.3.label>
+    
+	<RightExtraOEImplantCryoArm.label>Правый дополнительный имплант - Жало</RightExtraOEImplantCryoArm.label>
+	<RightExtraOEImplantCryoArm.labelNoun>Правый дополнительный имплант - Жало</RightExtraOEImplantCryoArm.labelNoun>
+	<RightExtraOEImplantCryoArm.description>Установленный правый дополнительный имплант - Жало. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraOEImplantCryoArm.description>
+	<RightExtraOEImplantCryoArm.comps.1.tools.0.label>Жало</RightExtraOEImplantCryoArm.comps.1.tools.0.label>
+	<RightExtraOEImplantCryoArm.stages.0.label>Неуклюжий</RightExtraOEImplantCryoArm.stages.0.label>
+	<RightExtraOEImplantCryoArm.stages.1.label>Неудобный</RightExtraOEImplantCryoArm.stages.1.label>
+	<RightExtraOEImplantCryoArm.stages.2.label>Привычный</RightExtraOEImplantCryoArm.stages.2.label>
+	<RightExtraOEImplantCryoArm.stages.3.label>Как родной</RightExtraOEImplantCryoArm.stages.3.label>
+
+	<LeftExtraOEImplantFireArm.label>Левый дополнительный имплант - Жало</LeftExtraOEImplantFireArm.label>
+	<LeftExtraOEImplantFireArm.labelNoun>Левый дополнительный имплант - Жало</LeftExtraOEImplantFireArm.labelNoun>
+	<LeftExtraOEImplantFireArm.description>Установленный левый дополнительный имплант - Жало. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraOEImplantFireArm.description>
+	<LeftExtraOEImplantFireArm.comps.1.tools.0.label>Жало</LeftExtraOEImplantFireArm.comps.1.tools.0.label>
+	<LeftExtraOEImplantFireArm.stages.0.label>Неуклюжий</LeftExtraOEImplantFireArm.stages.0.label>
+	<LeftExtraOEImplantFireArm.stages.1.label>Неудобный</LeftExtraOEImplantFireArm.stages.1.label>
+	<LeftExtraOEImplantFireArm.stages.2.label>Привычный</LeftExtraOEImplantFireArm.stages.2.label>
+	<LeftExtraOEImplantFireArm.stages.3.label>Как родной</LeftExtraOEImplantFireArm.stages.3.label>
+
+	<RightExtraOEImplantFireArm.label>Правый дополнительный имплант - Жало</RightExtraOEImplantFireArm.label>
+	<RightExtraOEImplantFireArm.labelNoun>Правый дополнительный имплант - Жало</RightExtraOEImplantFireArm.labelNoun>
+	<RightExtraOEImplantFireArm.description>Установленный правый дополнительный имплант - Жало. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraOEImplantFireArm.description>
+	<RightExtraOEImplantFireArm.comps.1.tools.0.label>Жало</RightExtraOEImplantFireArm.comps.1.tools.0.label>
+	<RightExtraOEImplantFireArm.stages.0.label>Неуклюжий</RightExtraOEImplantFireArm.stages.0.label>
+	<RightExtraOEImplantFireArm.stages.1.label>Неудобный</RightExtraOEImplantFireArm.stages.1.label>
+	<RightExtraOEImplantFireArm.stages.2.label>Привычный</RightExtraOEImplantFireArm.stages.2.label>
+	<RightExtraOEImplantFireArm.stages.3.label>Как родной</RightExtraOEImplantFireArm.stages.3.label>
+
+	<LeftExtraOEImplantEMPArm.label>Левый дополнительный имплант - Жало</LeftExtraOEImplantEMPArm.label>
+	<LeftExtraOEImplantEMPArm.labelNoun>Левый дополнительный имплант - Жало</LeftExtraOEImplantEMPArm.labelNoun>
+	<LeftExtraOEImplantEMPArm.description>Установленный левый дополнительный имплант - Жало. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraOEImplantEMPArm.description>
+	<LeftExtraOEImplantEMPArm.comps.1.tools.0.label>Жало</LeftExtraOEImplantEMPArm.comps.1.tools.0.label>
+	<LeftExtraOEImplantEMPArm.stages.0.label>Неуклюжий</LeftExtraOEImplantEMPArm.stages.0.label>
+	<LeftExtraOEImplantEMPArm.stages.1.label>Неудобный</LeftExtraOEImplantEMPArm.stages.1.label>
+	<LeftExtraOEImplantEMPArm.stages.2.label>Привычный</LeftExtraOEImplantEMPArm.stages.2.label>
+	<LeftExtraOEImplantEMPArm.stages.3.label>Как родной</LeftExtraOEImplantEMPArm.stages.3.label>
+
+	<RightExtraOEImplantEMPArm.label>Правый дополнительный имплант - Жало</RightExtraOEImplantEMPArm.label>
+	<RightExtraOEImplantEMPArm.labelNoun>Правый дополнительный имплант - Жало</RightExtraOEImplantEMPArm.labelNoun>
+	<RightExtraOEImplantEMPArm.description>Установленный правый дополнительный имплант - Жало. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraOEImplantEMPArm.description>
+	<RightExtraOEImplantEMPArm.comps.1.tools.0.label>Жало</RightExtraOEImplantEMPArm.comps.1.tools.0.label>
+	<RightExtraOEImplantEMPArm.stages.0.label>Неуклюжий</RightExtraOEImplantEMPArm.stages.0.label>
+	<RightExtraOEImplantEMPArm.stages.1.label>Неудобный</RightExtraOEImplantEMPArm.stages.1.label>
+	<RightExtraOEImplantEMPArm.stages.2.label>Привычный</RightExtraOEImplantEMPArm.stages.2.label>
+	<RightExtraOEImplantEMPArm.stages.3.label>Как родной</RightExtraOEImplantEMPArm.stages.3.label>
+
+	<LeftExtraOEImplantDemolisherArm.label>Левый дополнительный имплант - Демолишер</LeftExtraOEImplantDemolisherArm.label>
+	<LeftExtraOEImplantDemolisherArm.labelNoun>Левый дополнительный имплант - Демолишер</LeftExtraOEImplantDemolisherArm.labelNoun>
+	<LeftExtraOEImplantDemolisherArm.description>Установленный левый дополнительный имплант - Демолишер. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraOEImplantDemolisherArm.description>
+	<LeftExtraOEImplantDemolisherArm.comps.1.tools.0.label>Сверло</LeftExtraOEImplantDemolisherArm.comps.1.tools.0.label>
+	<LeftExtraOEImplantDemolisherArm.stages.0.label>Неуклюжий</LeftExtraOEImplantDemolisherArm.stages.0.label>
+	<LeftExtraOEImplantDemolisherArm.stages.1.label>Неудобный</LeftExtraOEImplantDemolisherArm.stages.1.label>
+	<LeftExtraOEImplantDemolisherArm.stages.2.label>Привычный</LeftExtraOEImplantDemolisherArm.stages.2.label>
+	<LeftExtraOEImplantDemolisherArm.stages.3.label>Как родной</LeftExtraOEImplantDemolisherArm.stages.3.label>
+
+	<RightExtraOEImplantDemolisherArm.label>Правый дополнительный имплант - Демолишер</RightExtraOEImplantDemolisherArm.label>
+	<RightExtraOEImplantDemolisherArm.labelNoun>Правый дополнительный имплант - Демолишер</RightExtraOEImplantDemolisherArm.labelNoun>
+	<RightExtraOEImplantDemolisherArm.description>Установленный правый дополнительный имплант - Демолишер. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraOEImplantDemolisherArm.description>
+	<RightExtraOEImplantDemolisherArm.comps.1.tools.0.label>Сверло</RightExtraOEImplantDemolisherArm.comps.1.tools.0.label>
+	<RightExtraOEImplantDemolisherArm.stages.0.label>Неуклюжий</RightExtraOEImplantDemolisherArm.stages.0.label>
+	<RightExtraOEImplantDemolisherArm.stages.1.label>Неудобный</RightExtraOEImplantDemolisherArm.stages.1.label>
+	<RightExtraOEImplantDemolisherArm.stages.2.label>Привычный</RightExtraOEImplantDemolisherArm.stages.2.label>
+	<RightExtraOEImplantDemolisherArm.stages.3.label>Как родной</RightExtraOEImplantDemolisherArm.stages.3.label>
+
+	<LeftExtraOEImplantDuelistArm.label>Левый дополнительный имплант - Дуэлянт</LeftExtraOEImplantDuelistArm.label>
+	<LeftExtraOEImplantDuelistArm.labelNoun>Левый дополнительный имплант - Дуэлянт</LeftExtraOEImplantDuelistArm.labelNoun>
+	<LeftExtraOEImplantDuelistArm.description>Установленный левый дополнительный имплант - Дуэлянт. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraOEImplantDuelistArm.description>
+	<LeftExtraOEImplantDuelistArm.comps.1.tools.0.label>Кулак</LeftExtraOEImplantDuelistArm.comps.1.tools.0.label>
+	<LeftExtraOEImplantDuelistArm.stages.0.label>Неуклюжий</LeftExtraOEImplantDuelistArm.stages.0.label>
+	<LeftExtraOEImplantDuelistArm.stages.1.label>Неудобный</LeftExtraOEImplantDuelistArm.stages.1.label>
+	<LeftExtraOEImplantDuelistArm.stages.2.label>Привычный</LeftExtraOEImplantDuelistArm.stages.2.label>
+	<LeftExtraOEImplantDuelistArm.stages.3.label>Как родной</LeftExtraOEImplantDuelistArm.stages.3.label>
+
+	<RightExtraOEImplantDuelistArm.label>Правый дополнительный имплант - Дуэлянт</RightExtraOEImplantDuelistArm.label>
+	<RightExtraOEImplantDuelistArm.labelNoun>Правый дополнительный имплант - Дуэлянт</RightExtraOEImplantDuelistArm.labelNoun>
+	<RightExtraOEImplantDuelistArm.description>Установленный правый дополнительный имплант - Дуэлянт. \n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraOEImplantDuelistArm.description>
+	<RightExtraOEImplantDuelistArm.comps.1.tools.0.label>Кулак</RightExtraOEImplantDuelistArm.comps.1.tools.0.label>
+	<RightExtraOEImplantDuelistArm.stages.0.label>Неуклюжий</RightExtraOEImplantDuelistArm.stages.0.label>
+	<RightExtraOEImplantDuelistArm.stages.1.label>Неудобный</RightExtraOEImplantDuelistArm.stages.1.label>
+	<RightExtraOEImplantDuelistArm.stages.2.label>Привычный</RightExtraOEImplantDuelistArm.stages.2.label>
+	<RightExtraOEImplantDuelistArm.stages.3.label>Как родной</RightExtraOEImplantDuelistArm.stages.3.label>
+</LanguageData>

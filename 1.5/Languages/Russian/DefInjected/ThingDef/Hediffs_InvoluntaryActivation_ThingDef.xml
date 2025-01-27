@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_NeuralStunner.label>Мозговой шокер</LTS_NeuralStunner.label>
+    <LTS_NeuralStunner.description>Миниатюрный электрический излучатель, установленный в основании ствола мозга и предназначенный для излучения выводящей из строя серии электрических импульсов.</LTS_NeuralStunner.description>
+
+    <LTS_BrainDetonator.label>Мозговой детонатор</LTS_BrainDetonator.label>
+    <LTS_BrainDetonator.description>Миниатюрное взрывное устройство, установленное в основании ствола мозга и предназначенное для дистанционного уничтожения жертвы.</LTS_BrainDetonator.description>
+
+    <LTS_Voicelock.label>Блокиратор голоса</LTS_Voicelock.label>
+    <LTS_Voicelock.description>Миниатюрный блок шумоподавления, установленный над голосовым аппаратом и предназначенный для дистанционного отключения голоса жертвы.</LTS_Voicelock.description>
+</LanguageData>

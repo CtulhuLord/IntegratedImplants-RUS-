@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LeftExtraHellsawArm.label>Левый дополнительный адский пильщик</LeftExtraHellsawArm.label>
+  <LeftExtraHellsawArm.labelNoun>Левый дополнительный адский пильщик</LeftExtraHellsawArm.labelNoun>
+  <LeftExtraHellsawArm.description>Имплантированный левый дополнительный адский пильщик. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraHellsawArm.description>
+  <LeftExtraHellsawArm.comps.1.tools.0.label>Удар адским пильщиком</LeftExtraHellsawArm.comps.1.tools.0.label>
+  <LeftExtraHellsawArm.stages.0.label>Неуклюжий</LeftExtraHellsawArm.stages.0.label>
+  <LeftExtraHellsawArm.stages.1.label>Неудобный</LeftExtraHellsawArm.stages.1.label>
+  <LeftExtraHellsawArm.stages.2.label>Привычный</LeftExtraHellsawArm.stages.2.label>
+  <LeftExtraHellsawArm.stages.3.label>Как родной</LeftExtraHellsawArm.stages.3.label>
+
+  <RightExtraHellsawArm.label>Правый дополнительный адский пильщик</RightExtraHellsawArm.label>
+  <RightExtraHellsawArm.labelNoun>Правый дополнительный адский пильщик</RightExtraHellsawArm.labelNoun>
+  <RightExtraHellsawArm.description>Имплантированный правый дополнительный адский пильщик. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraHellsawArm.description>
+  <RightExtraHellsawArm.comps.1.tools.0.label>Удар адским пильщиком</RightExtraHellsawArm.comps.1.tools.0.label>
+  <RightExtraHellsawArm.stages.0.label>Неуклюжий</RightExtraHellsawArm.stages.0.label>
+  <RightExtraHellsawArm.stages.1.label>Неудобный</RightExtraHellsawArm.stages.1.label>
+  <RightExtraHellsawArm.stages.2.label>Привычный</RightExtraHellsawArm.stages.2.label>
+  <RightExtraHellsawArm.stages.3.label>Как родной</RightExtraHellsawArm.stages.3.label>
+
+  <LeftExtraHelldrillArm.label>Левый дополнительный адский бур</LeftExtraHelldrillArm.label>
+  <LeftExtraHelldrillArm.labelNoun>Левый дополнительный адский бур</LeftExtraHelldrillArm.labelNoun>
+  <LeftExtraHelldrillArm.description>Имплантированный левый дополнительный адский бур. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraHelldrillArm.description>
+  <LeftExtraHelldrillArm.comps.1.tools.0.label>Прокол адским буром</LeftExtraHelldrillArm.comps.1.tools.0.label>
+  <LeftExtraHelldrillArm.stages.0.label>Неуклюжий</LeftExtraHelldrillArm.stages.0.label>
+  <LeftExtraHelldrillArm.stages.1.label>Неудобный</LeftExtraHelldrillArm.stages.1.label>
+  <LeftExtraHelldrillArm.stages.2.label>Привычный</LeftExtraHelldrillArm.stages.2.label>
+  <LeftExtraHelldrillArm.stages.3.label>Как родной</LeftExtraHelldrillArm.stages.3.label>
+
+  <RightExtraHelldrillArm.label>Правый дополнительный адский бур</RightExtraHelldrillArm.label>
+  <RightExtraHelldrillArm.labelNoun>Правый дополнительный адский бур</RightExtraHelldrillArm.labelNoun>
+  <RightExtraHelldrillArm.description>Имплантированный правый дополнительный адский бур. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraHelldrillArm.description>
+  <RightExtraHelldrillArm.comps.1.tools.0.label>Прокол адским буром</RightExtraHelldrillArm.comps.1.tools.0.label>
+  <RightExtraHelldrillArm.stages.0.label>Неуклюжий</RightExtraHelldrillArm.stages.0.label>
+  <RightExtraHelldrillArm.stages.1.label>Неудобный</RightExtraHelldrillArm.stages.1.label>
+  <RightExtraHelldrillArm.stages.2.label>Привычный</RightExtraHelldrillArm.stages.2.label>
+  <RightExtraHelldrillArm.stages.3.label>Как родной</RightExtraHelldrillArm.stages.3.label>
+
+  <LeftExtraHellclawArm.label>Левый дополнительный адский коготь</LeftExtraHellclawArm.label>
+  <LeftExtraHellclawArm.labelNoun>Левый дополнительный адский коготь</LeftExtraHellclawArm.labelNoun>
+  <LeftExtraHellclawArm.description>Имплантированный левый дополнительный адский коготь. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraHellclawArm.description>
+  <LeftExtraHellclawArm.comps.1.tools.0.label>Удар адским когтем</LeftExtraHellclawArm.comps.1.tools.0.label>
+  <LeftExtraHellclawArm.stages.0.label>Неуклюжий</LeftExtraHellclawArm.stages.0.label>
+  <LeftExtraHellclawArm.stages.1.label>Неудобный</LeftExtraHellclawArm.stages.1.label>
+  <LeftExtraHellclawArm.stages.2.label>Привычный</LeftExtraHellclawArm.stages.2.label>
+  <LeftExtraHellclawArm.stages.3.label>Как родной</LeftExtraHellclawArm.stages.3.label>
+
+  <RightExtraHellclawArm.label>Правый дополнительный адский коготь</RightExtraHellclawArm.label>
+  <RightExtraHellclawArm.labelNoun>Правый дополнительный адский коготь</RightExtraHellclawArm.labelNoun>
+  <RightExtraHellclawArm.description>Имплантированный правый дополнительный адский коготь. \n\nПоскольку людям обычно не хватает опыта использования более чем двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraHellclawArm.description>
+  <RightExtraHellclawArm.comps.1.tools.0.label>Удар адским когтем</RightExtraHellclawArm.comps.1.tools.0.label>
+  <RightExtraHellclawArm.stages.0.label>Неуклюжий</RightExtraHellclawArm.stages.0.label>
+  <RightExtraHellclawArm.stages.1.label>Неудобный</RightExtraHellclawArm.stages.1.label>
+  <RightExtraHellclawArm.stages.2.label>Привычный</RightExtraHellclawArm.stages.2.label>
+  <RightExtraHellclawArm.stages.3.label>Как родной</RightExtraHellclawArm.stages.3.label>
+</LanguageData>

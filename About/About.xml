@@ -1,0 +1,19 @@
+<ModMetaData>
+	<name>Integrated Implants RUS</name>
+	<author>ctulhu.rus.</author>
+	<packageId>ctulhu.rus..lts.I</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>lts.I</packageId>
+			<displayName>Integrated Implants</displayName>
+			<steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=3223443793</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>lts.I</li>
+	</loadAfter>
+	<description>Полный перевод Integrated Implants для версии 1.5 на русский язык</description>
+</ModMetaData>

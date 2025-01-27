@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_ToggleShoulderTurret.label>Переключить наплечную турель</LTS_ToggleShoulderTurret.label>
+    <LTS_ToggleShoulderTurret.description>Активировать/деактивировать миниатюрную автоматическую наплечную турель.</LTS_ToggleShoulderTurret.description>
+
+    <LTS_ToggleShoulderChargeTurret.label>Переключить наплечную плазменную турель</LTS_ToggleShoulderChargeTurret.label>
+    <LTS_ToggleShoulderChargeTurret.description>Активировать/деактивировать миниатюрную автоматическую наплечную плазменную турель.</LTS_ToggleShoulderChargeTurret.description>
+
+    <LTS_ShoulderRocketPod.label>Запустить ракету</LTS_ShoulderRocketPod.label>
+    <LTS_ShoulderRocketPod.description>Запустить ракету из наплечного ракетного модуля.</LTS_ShoulderRocketPod.description>
+
+    <LTS_ShoulderMortar.label>Выстрелить из наплечного миномета</LTS_ShoulderMortar.label>
+    <LTS_ShoulderMortar.description>Произвести выстрел из наплечного миномета.</LTS_ShoulderMortar.description>
+</LanguageData>

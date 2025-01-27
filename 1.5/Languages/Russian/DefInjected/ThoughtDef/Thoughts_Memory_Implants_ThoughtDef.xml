@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <AteMealWithGourmandTongue.stages.0.label>{PAWN_gender ? ел : ела} с гурманским языком</AteMealWithGourmandTongue.stages.0.label>
+    <AteMealWithGourmandTongue.stages.0.description>Я {PAWN_gender ? ощутил : ощутила} все лучшие качества своей еды.</AteMealWithGourmandTongue.stages.0.description>
+</LanguageData>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LeftExtraAdvancedBionicArm.label>Левая дополнительная усовершенствованная бионическая рука</LeftExtraAdvancedBionicArm.label>
+    <LeftExtraAdvancedBionicArm.labelNoun>Левая дополнительная усовершенствованная бионическая рука</LeftExtraAdvancedBionicArm.labelNoun>
+    <LeftExtraAdvancedBionicArm.description>Имплантированная левая дополнительная усовершенствованная бионическая рука. Заглушенные мини-сервоприводы обеспечивают большую силу, а биогелевая нервная связь — исключительное управление. Система восстановления с использованием наночастиц позволяет ей залечивать повреждения. Она превосходит биологическую руку почти во всех отношениях.\n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraAdvancedBionicArm.description>
+    <LeftExtraAdvancedBionicArm.stages.0.label>Неуклюжий</LeftExtraAdvancedBionicArm.stages.0.label>
+    <LeftExtraAdvancedBionicArm.stages.1.label>Неудобный</LeftExtraAdvancedBionicArm.stages.1.label>
+    <LeftExtraAdvancedBionicArm.stages.2.label>Привычный</LeftExtraAdvancedBionicArm.stages.2.label>
+    <LeftExtraAdvancedBionicArm.stages.3.label>Как родной</LeftExtraAdvancedBionicArm.stages.3.label>
+    <LeftExtraAdvancedBionicArm.comps.1.tools.0.label>Кулак</LeftExtraAdvancedBionicArm.comps.1.tools.0.label>
+
+    <RightExtraAdvancedBionicArm.label>Правая дополнительная усовершенствованная бионическая рука</RightExtraAdvancedBionicArm.label>
+    <RightExtraAdvancedBionicArm.labelNoun>Правая дополнительная усовершенствованная бионическая рука</RightExtraAdvancedBionicArm.labelNoun>
+    <RightExtraAdvancedBionicArm.description>Имплантированная правая дополнительная усовершенствованная бионическая рука. Заглушенные мини-сервоприводы обеспечивают большую силу, а биогелевая нервная связь — исключительное управление. Система восстановления с использованием наночастиц позволяет ей залечивать повреждения. Она превосходит биологическую руку почти во всех отношениях.\n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraAdvancedBionicArm.description>
+    <RightExtraAdvancedBionicArm.stages.0.label>Неуклюжий</RightExtraAdvancedBionicArm.stages.0.label>
+    <RightExtraAdvancedBionicArm.stages.1.label>Неудобный</RightExtraAdvancedBionicArm.stages.1.label>
+    <RightExtraAdvancedBionicArm.stages.2.label>Привычный</RightExtraAdvancedBionicArm.stages.2.label>
+    <RightExtraAdvancedBionicArm.stages.3.label>Как родной</RightExtraAdvancedBionicArm.stages.3.label>
+    <RightExtraAdvancedBionicArm.comps.1.tools.0.label>Кулак</RightExtraAdvancedBionicArm.comps.1.tools.0.label>
+
+    <LeftExtraPowerArm.label>Левая дополнительная силовая рука</LeftExtraPowerArm.label>
+    <LeftExtraPowerArm.labelNoun>Левая дополнительная силовая рука</LeftExtraPowerArm.labelNoun>
+    <LeftExtraPowerArm.description>Имплантированная левая дополнительная силовая рука, состоящая из механической руки с крючковатым когтем на каждом пальце. Она наносит глубокие порезы и достаточно сильна, чтобы раздавить череп, как рука раздавливает яйцо. Когти могут быть убраны, делая её столь же полезной, как и обычная рука, для небоевых задач.\n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraPowerArm.description>
+    <LeftExtraPowerArm.stages.0.label>Неуклюжий</LeftExtraPowerArm.stages.0.label>
+    <LeftExtraPowerArm.stages.1.label>Неудобный</LeftExtraPowerArm.stages.1.label>
+    <LeftExtraPowerArm.stages.2.label>Привычный</LeftExtraPowerArm.stages.2.label>
+    <LeftExtraPowerArm.stages.3.label>Как родной</LeftExtraPowerArm.stages.3.label>
+    <LeftExtraPowerArm.comps.1.tools.0.label>Коготь</LeftExtraPowerArm.comps.1.tools.0.label>
+
+    <RightExtraPowerArm.label>Правая дополнительная силовая рука</RightExtraPowerArm.label>
+    <RightExtraPowerArm.labelNoun>Правая дополнительная силовая рука</RightExtraPowerArm.labelNoun>
+    <RightExtraPowerArm.description>Имплантированная правая дополнительная силовая рука, состоящая из механической руки с крючковатым когтем на каждом пальце. Она наносит глубокие порезы и достаточно сильна, чтобы раздавить череп, как рука раздавливает яйцо. Когти могут быть убраны, делая её столь же полезной, как и обычная рука, для небоевых задач.\n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraPowerArm.description>
+    <RightExtraPowerArm.stages.0.label>Неуклюжий</RightExtraPowerArm.stages.0.label>
+    <RightExtraPowerArm.stages.1.label>Неудобный</RightExtraPowerArm.stages.1.label>
+    <RightExtraPowerArm.stages.2.label>Привычный</RightExtraPowerArm.stages.2.label>
+    <RightExtraPowerArm.stages.3.label>Как родной</RightExtraPowerArm.stages.3.label>
+    <RightExtraPowerArm.comps.1.tools.0.label>Коготь</RightExtraPowerArm.comps.1.tools.0.label>
+
+    <LeftExtraAdvancedPowerArm.label>Левая дополнительная усовершенствованная силовая рука</LeftExtraAdvancedPowerArm.label>
+    <LeftExtraAdvancedPowerArm.labelNoun>Левая дополнительная усовершенствованная силовая рука</LeftExtraAdvancedPowerArm.labelNoun>
+    <LeftExtraAdvancedPowerArm.description>Имплантированная левая дополнительная ультра-усовершенствованная боевая рука, состоящая из механической руки с крючковатым когтем на каждом пальце. Она наносит глубокие порезы и достаточно сильна, чтобы раздавить череп, как рука раздавливает яйцо. Когти могут быть убраны, делая её столь же полезной, как и обычная рука, для небоевых задач.\n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraAdvancedPowerArm.description>
+    <LeftExtraAdvancedPowerArm.stages.0.label>Неуклюжий</LeftExtraAdvancedPowerArm.stages.0.label>
+    <LeftExtraAdvancedPowerArm.stages.1.label>Неудобный</LeftExtraAdvancedPowerArm.stages.1.label>
+    <LeftExtraAdvancedPowerArm.stages.2.label>Привычный</LeftExtraAdvancedPowerArm.stages.2.label>
+    <LeftExtraAdvancedPowerArm.stages.3.label>Как родной</LeftExtraAdvancedPowerArm.stages.3.label>
+    <LeftExtraAdvancedPowerArm.comps.1.tools.0.label>Коготь</LeftExtraAdvancedPowerArm.comps.1.tools.0.label>
+
+    <RightExtraAdvancedPowerArm.label>Правая дополнительная усовершенствованная силовая рука</RightExtraAdvancedPowerArm.label>
+    <RightExtraAdvancedPowerArm.labelNoun>Правая дополнительная усовершенствованная силовая рука</RightExtraAdvancedPowerArm.labelNoun>
+    <RightExtraAdvancedPowerArm.description>Имплантированная правая дополнительная ультра-усовершенствованная боевая рука, состоящая из механической руки с крючковатым когтем на каждом пальце. Она наносит глубокие порезы и достаточно сильна, чтобы раздавить череп, как рука раздавливает яйцо. Когти могут быть убраны, делая её столь же полезной, как и обычная рука, для небоевых задач.\n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraAdvancedPowerArm.description>
+    <RightExtraAdvancedPowerArm.stages.0.label>Неуклюжий</RightExtraAdvancedPowerArm.stages.0.label>
+    <RightExtraAdvancedPowerArm.stages.1.label>Неудобный</RightExtraAdvancedPowerArm.stages.1.label>
+    <RightExtraAdvancedPowerArm.stages.2.label>Привычный</RightExtraAdvancedPowerArm.stages.2.label>
+    <RightExtraAdvancedPowerArm.stages.3.label>Как родной</RightExtraAdvancedPowerArm.stages.3.label>
+    <RightExtraAdvancedPowerArm.comps.1.tools.0.label>Коготь</RightExtraAdvancedPowerArm.comps.1.tools.0.label>
+
+    <LeftExtraAdvancedDrillArm.label>Левая дополнительная усовершенствованная рука шахтёра</LeftExtraAdvancedDrillArm.label>
+    <LeftExtraAdvancedDrillArm.labelNoun>Левая дополнительная усовершенствованная рука шахтёра</LeftExtraAdvancedDrillArm.labelNoun>
+    <LeftExtraAdvancedDrillArm.description>Имплантированная левая дополнительная усовершенствованная рука шахтёра для ускорения добычи полезных ископаемых. Она оснащена встроенным змеевым сверлом, что позволяет шахтёру быстро находить и использовать слабые места в породе. Она также имеет универсальный манипулятор. Способна складываться в компактную форму, когда не используется для сверления, больше не такая неуклюжая и не замедляет движение, как её оригинальная модель.\n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraAdvancedDrillArm.description>
+    <LeftExtraAdvancedDrillArm.stages.0.label>Неуклюжий</LeftExtraAdvancedDrillArm.stages.0.label>
+    <LeftExtraAdvancedDrillArm.stages.1.label>Неудобный</LeftExtraAdvancedDrillArm.stages.1.label>
+    <LeftExtraAdvancedDrillArm.stages.2.label>Привычный</LeftExtraAdvancedDrillArm.stages.2.label>
+    <LeftExtraAdvancedDrillArm.stages.3.label>Как родной</LeftExtraAdvancedDrillArm.stages.3.label>
+    <LeftExtraAdvancedDrillArm.comps.1.tools.0.label>Сверло</LeftExtraAdvancedDrillArm.comps.1.tools.0.label>
+
+    <RightExtraAdvancedDrillArm.label>Правая дополнительная усовершенствованная рука шахтёра</RightExtraAdvancedDrillArm.label>
+    <RightExtraAdvancedDrillArm.labelNoun>Правая дополнительная усовершенствованная рука шахтёра</RightExtraAdvancedDrillArm.labelNoun>
+    <RightExtraAdvancedDrillArm.description>Имплантированная правая дополнительная усовершенствованная рука шахтёра для ускорения добычи полезных ископаемых. Она оснащена встроенным змеевым сверлом, что позволяет шахтёру быстро находить и использовать слабые места в породе. Она также имеет универсальный манипулятор. Способна складываться в компактную форму, когда не используется для сверления, больше не такая неуклюжая и не замедляет движение, как её оригинальная модель.\n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraAdvancedDrillArm.description>
+    <RightExtraAdvancedDrillArm.stages.0.label>Неуклюжий</RightExtraAdvancedDrillArm.stages.0.label>
+    <RightExtraAdvancedDrillArm.stages.1.label>Неудобный</RightExtraAdvancedDrillArm.stages.1.label>
+    <RightExtraAdvancedDrillArm.stages.2.label>Привычный</RightExtraAdvancedDrillArm.stages.2.label>
+    <RightExtraAdvancedDrillArm.stages.3.label>Как родной</RightExtraAdvancedDrillArm.stages.3.label>
+    <RightExtraAdvancedDrillArm.comps.1.tools.0.label>Сверло</RightExtraAdvancedDrillArm.comps.1.tools.0.label>
+
+    <LeftExtraAdvancedFieldHand.label>Левая дополнительная усовершенствованная аграрная рука</LeftExtraAdvancedFieldHand.label>
+    <LeftExtraAdvancedFieldHand.labelNoun>Левая дополнительная усовершенствованная аграрная рука</LeftExtraAdvancedFieldHand.labelNoun>
+    <LeftExtraAdvancedFieldHand.description>Имплантированная левая дополнительная усовершенствованная аграрная рука предназначена для ускорения посева и сбора урожая. Множество телескопических пальцеподобных выступов могут одновременно собирать урожай с нескольких точек на одном растении или точно сеять несколько отверстий сразу. Она также имеет универсальный манипулятор. Способна складываться в компактную форму, когда не используется для работы с растениями, больше не такая неуклюжая и не замедляет движение, как её оригинальная модель.\n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</LeftExtraAdvancedFieldHand.description>
+    <LeftExtraAdvancedFieldHand.stages.0.label>Неуклюжий</LeftExtraAdvancedFieldHand.stages.0.label>
+    <LeftExtraAdvancedFieldHand.stages.1.label>Неудобный</LeftExtraAdvancedFieldHand.stages.1.label>
+    <LeftExtraAdvancedFieldHand.stages.2.label>Привычный</LeftExtraAdvancedFieldHand.stages.2.label>
+    <LeftExtraAdvancedFieldHand.stages.3.label>Как родной</LeftExtraAdvancedFieldHand.stages.3.label>
+    <LeftExtraAdvancedFieldHand.comps.1.tools.0.label>Манипулятор</LeftExtraAdvancedFieldHand.comps.1.tools.0.label>
+
+   <RightExtraAdvancedFieldHand.label>Правая дополнительная усовершенствованная аграрная рука</RightExtraAdvancedFieldHand.label>
+    <RightExtraAdvancedFieldHand.labelNoun>Правая дополнительная усовершенствованная аграрная рука</RightExtraAdvancedFieldHand.labelNoun>
+    <RightExtraAdvancedFieldHand.description>Имплантированная правая дополнительная усовершенствованная аграрная рука предназначена для ускорения посева и сбора урожая. Множество телескопических пальцеподобных выступов могут одновременно собирать урожай с нескольких точек на одном растении или точно сеять несколько отверстий сразу. Она также имеет универсальный манипулятор. Способна складываться в компактную форму, когда не используется для работы с растениями, больше не такая неуклюжая и не замедляет движение, как её оригинальная модель.\n\nПоскольку людям обычно не хватает опыта использования более двух рук, дополнительные конечности поначалу скорее помеха, чем помощь. Со временем их функциональность будет постепенно улучшаться. Полное освоение занимает до года.</RightExtraAdvancedFieldHand.description>
+    <RightExtraAdvancedFieldHand.stages.0.label>Неуклюжий</RightExtraAdvancedFieldHand.stages.0.label>
+    <RightExtraAdvancedFieldHand.stages.1.label>Неудобный</RightExtraAdvancedFieldHand.stages.1.label>
+    <RightExtraAdvancedFieldHand.stages.2.label>Привычный</RightExtraAdvancedFieldHand.stages.2.label>
+    <RightExtraAdvancedFieldHand.stages.3.label>Как родной</RightExtraAdvancedFieldHand.stages.3.label>
+    <RightExtraAdvancedFieldHand.comps.1.tools.0.label>Манипулятор</RightExtraAdvancedFieldHand.comps.1.tools.0.label>
+</LanguageData>

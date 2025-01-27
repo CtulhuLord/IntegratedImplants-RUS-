@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <InstallLeftExtraAnimaGauranlenArm.label>Установить левую дополнительную руку гауранлен</InstallLeftExtraAnimaGauranlenArm.label>
+    <InstallLeftExtraAnimaGauranlenArm.description>Установить левую дополнительную руку гауранлен.</InstallLeftExtraAnimaGauranlenArm.description>
+    <InstallLeftExtraAnimaGauranlenArm.jobString>Устанавливает левую руку гауранлен.</InstallLeftExtraAnimaGauranlenArm.jobString>
+
+    <RemoveLeftExtraAnimaGauranlenArm.label>Удалить левую дополнительную руку гауранлен</RemoveLeftExtraAnimaGauranlenArm.label>
+    <RemoveLeftExtraAnimaGauranlenArm.description>Удалить левую дополнительную руку гауранлен.</RemoveLeftExtraAnimaGauranlenArm.description>
+    <RemoveLeftExtraAnimaGauranlenArm.jobString>Удаляет левую руку гауранлен.</RemoveLeftExtraAnimaGauranlenArm.jobString>
+
+    <InstallRightExtraAnimaGauranlenArm.label>Установить правую дополнительную руку гауранлен</InstallRightExtraAnimaGauranlenArm.label>
+    <InstallRightExtraAnimaGauranlenArm.description>Установить правую дополнительную руку гауранлен.</InstallRightExtraAnimaGauranlenArm.description>
+    <InstallRightExtraAnimaGauranlenArm.jobString>Устанавливает правую руку гауранлен.</InstallRightExtraAnimaGauranlenArm.jobString>
+
+    <RemoveRightExtraAnimaGauranlenArm.label>Удалить правую дополнительную руку гауранлен</RemoveRightExtraAnimaGauranlenArm.label>
+    <RemoveRightExtraAnimaGauranlenArm.description>Удалить правую дополнительную руку гауранлен.</RemoveRightExtraAnimaGauranlenArm.description>
+    <RemoveRightExtraAnimaGauranlenArm.jobString>Удаляет правую руку гауранлен.</RemoveRightExtraAnimaGauranlenArm.jobString>
+
+    <InstallLeftExtraAnimaClawerArm.label>Установить левый дополнительный коготь</InstallLeftExtraAnimaClawerArm.label>
+    <InstallLeftExtraAnimaClawerArm.description>Установить левый дополнительный коготь.</InstallLeftExtraAnimaClawerArm.description>
+    <InstallLeftExtraAnimaClawerArm.jobString>Устанавливает левый коготь.</InstallLeftExtraAnimaClawerArm.jobString>
+
+    <RemoveLeftExtraAnimaClawerArm.label>Удалить левый дополнительный коготь</RemoveLeftExtraAnimaClawerArm.label>
+    <RemoveLeftExtraAnimaClawerArm.description>Удалить левый дополнительный коготь.</RemoveLeftExtraAnimaClawerArm.description>
+    <RemoveLeftExtraAnimaClawerArm.jobString>Удаляет левый коготь.</RemoveLeftExtraAnimaClawerArm.jobString>
+
+    <InstallRightExtraAnimaClawerArm.label>Установить правый дополнительный коготь</InstallRightExtraAnimaClawerArm.label>
+    <InstallRightExtraAnimaClawerArm.description>Установить правый дополнительный коготь.</InstallRightExtraAnimaClawerArm.description>
+    <InstallRightExtraAnimaClawerArm.jobString>Устанавливает правый коготь.</InstallRightExtraAnimaClawerArm.jobString>
+
+    <RemoveRightExtraAnimaClawerArm.label>Удалить правый дополнительный коготь</RemoveRightExtraAnimaClawerArm.label>
+    <RemoveRightExtraAnimaClawerArm.description>Удалить правый дополнительный коготь.</RemoveRightExtraAnimaClawerArm.description>
+    <RemoveRightExtraAnimaClawerArm.jobString>Удаляет правый коготь.</RemoveRightExtraAnimaClawerArm.jobString>
+</LanguageData>

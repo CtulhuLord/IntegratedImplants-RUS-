@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NerveShredderClaw.label>Нерво-дробящий коготь</NerveShredderClaw.label>
+  <NerveShredderClaw.labelNoun>Нерво-дробящий коготь</NerveShredderClaw.labelNoun>
+  <NerveShredderClaw.description>К этому гулю хирургическим путем имплантирована биоферритовая силовая клешня. Ее зазубренные биоферритовые пальцы покрыты парализующим биоядром.</NerveShredderClaw.description>
+  <NerveShredderClaw.comps.0.tools.0.label>Нерво-дробящий коготь</NerveShredderClaw.comps.0.tools.0.label>
+
+  <DeadlifeVenomClaw.label>Коготь с ядом мертвой жизни</DeadlifeVenomClaw.label>
+  <DeadlifeVenomClaw.labelNoun>Коготь с ядом мертвой жизни</DeadlifeVenomClaw.labelNoun>
+  <DeadlifeVenomClaw.description>К этому гулю хирургическим путем имплантирована биоферритовая силовая клешня. Ее зазубренные биоферритовые пальцы покрыты ядом мертвой жизни.</DeadlifeVenomClaw.description>
+  <DeadlifeVenomClaw.comps.0.tools.0.label>Коготь с ядом мертвой жизни</DeadlifeVenomClaw.comps.0.tools.0.label>
+
+  <DeadlifeVenom.label>Яд мертвой жизни</DeadlifeVenom.label>
+  <DeadlifeVenom.description>В кровотоке этого существа находятся разлагающиеся архитекты. Хотя само по себе это не причиняет ему вреда, оно сразу же начнет подниматься как шатун после смерти.</DeadlifeVenom.description>
+
+  <GhoulMetabolicEngine.label>Метаболический двигатель</GhoulMetabolicEngine.label>
+  <GhoulMetabolicEngine.description>В этого гуля хирургическим путем установлен биоферритовый двигатель.</GhoulMetabolicEngine.description>
+
+  <StalkerSkull.label>Череп сталкера</StalkerSkull.label>
+  <StalkerSkull.description>К голове этого гуля хирургическим путем прикреплен биоферритовый шлем.</StalkerSkull.description>
+  <StalkerSkull.renderNodeProperties.0.debugLabel>Череп сталкера гуля</StalkerSkull.renderNodeProperties.0.debugLabel>
+
+  <GhoulBioferriteExtractor.label>Биоферритовый экстрактор</GhoulBioferriteExtractor.label>
+  <GhoulBioferriteExtractor.description>В этого гуля хирургическим путем установлен миниатюрный биоферритовый экстрактор.</GhoulBioferriteExtractor.description>
+
+  <GhoulPowerPlating.label>Бионический панцирь гуля</GhoulPowerPlating.label>
+  <GhoulPowerPlating.description>К этому гулю с помощью нейро-меметических ассистентов прикреплено несколько крупных биоферритовых пластин.</GhoulPowerPlating.description>
+
+    <GhoulPowerPlatingFemale.label>Бионический панцирь гуля</GhoulPowerPlatingFemale.label>
+    <GhoulPowerPlatingFemale.description>К этому гулю с помощью нейро-меметических ассистентов прикреплено несколько крупных биоферритовых пластин.</GhoulPowerPlatingFemale.description>
+
+    <GhoulPowerPlatingThin.label>Утонченный бионический панцирь гуля</GhoulPowerPlatingThin.label>
+    <GhoulPowerPlatingThin.description>К этому гулю с помощью нейро-меметических ассистентов прикреплено несколько крупных биоферритовых пластин.</GhoulPowerPlatingThin.description>
+
+    <GhoulPowerPlatingHulk.label>Укрепленный бионический панцирь гуля</GhoulPowerPlatingHulk.label>
+    <GhoulPowerPlatingHulk.description>К этому гулю с помощью нейро-меметических ассистентов прикреплено несколько крупных биоферритовых пластин.</GhoulPowerPlatingHulk.description>
+
+    <GhoulPowerPlatingFat.label>Утяжеленный бионический панцирь гуля</GhoulPowerPlatingFat.label>
+    <GhoulPowerPlatingFat.description>К этому гулю с помощью нейро-меметических ассистентов прикреплено несколько крупных биоферритовых пластин.</GhoulPowerPlatingFat.description>
+</LanguageData>

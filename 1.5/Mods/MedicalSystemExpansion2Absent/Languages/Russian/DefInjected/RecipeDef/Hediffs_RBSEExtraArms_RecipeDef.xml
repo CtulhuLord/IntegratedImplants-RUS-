@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <RBSE_InstallLeftExtraPowerArm.label>Установить левую силовую руку</RBSE_InstallLeftExtraPowerArm.label>
+    <RBSE_InstallLeftExtraPowerArm.description>Установить левую силовую руку.</RBSE_InstallLeftExtraPowerArm.description>
+    <RBSE_InstallLeftExtraPowerArm.jobString>Устанавливает левую силовую руку.</RBSE_InstallLeftExtraPowerArm.jobString>
+
+    <RBSE_RemoveLeftExtraPowerArm.label>Удалить левую силовую руку</RBSE_RemoveLeftExtraPowerArm.label>
+    <RBSE_RemoveLeftExtraPowerArm.description>Удалить левую силовую руку.</RBSE_RemoveLeftExtraPowerArm.description>
+    <RBSE_RemoveLeftExtraPowerArm.jobString>Удаляет левую силовую руку.</RBSE_RemoveLeftExtraPowerArm.jobString>
+
+    <RBSE_InstallRightExtraPowerArm.label>Установить правую силовую руку</RBSE_InstallRightExtraPowerArm.label>
+    <RBSE_InstallRightExtraPowerArm.description>Установить правую силовую руку.</RBSE_InstallRightExtraPowerArm.description>
+    <RBSE_InstallRightExtraPowerArm.jobString>Устанавливает правую силовую руку.</RBSE_InstallRightExtraPowerArm.jobString>
+
+    <RBSE_RemoveRightExtraPowerArm.label>Удалить правую силовую руку</RBSE_RemoveRightExtraPowerArm.label>
+    <RBSE_RemoveRightExtraPowerArm.description>Удалить правую силовую руку.</RBSE_RemoveRightExtraPowerArm.description>
+    <RBSE_RemoveRightExtraPowerArm.jobString>Удаляет правую силовую руку.</RBSE_RemoveRightExtraPowerArm.jobString>
+
+    <RBSE_InstallLeftExtraAdvancedPowerArm.label>Установить левую улучшенную силовую руку</RBSE_InstallLeftExtraAdvancedPowerArm.label>
+    <RBSE_InstallLeftExtraAdvancedPowerArm.description>Установить левую улучшенную силовую руку.</RBSE_InstallLeftExtraAdvancedPowerArm.description>
+    <RBSE_InstallLeftExtraAdvancedPowerArm.jobString>Устанавливает левую улучшенную силовую руку.</RBSE_InstallLeftExtraAdvancedPowerArm.jobString>
+
+    <RBSE_RemoveLeftExtraAdvancedPowerArm.label>Удалить левую улучшенную силовую руку</RBSE_RemoveLeftExtraAdvancedPowerArm.label>
+    <RBSE_RemoveLeftExtraAdvancedPowerArm.description>Удалить левую улучшенную силовую руку.</RBSE_RemoveLeftExtraAdvancedPowerArm.description>
+    <RBSE_RemoveLeftExtraAdvancedPowerArm.jobString>Удаляет левую улучшенную силовую руку.</RBSE_RemoveLeftExtraAdvancedPowerArm.jobString>
+
+    <RBSE_InstallRightExtraAdvancedPowerArm.label>Установить правую улучшенную силовую руку</RBSE_InstallRightExtraAdvancedPowerArm.label>
+    <RBSE_InstallRightExtraAdvancedPowerArm.description>Установить правую улучшенную силовую руку.</RBSE_InstallRightExtraAdvancedPowerArm.description>
+    <RBSE_InstallRightExtraAdvancedPowerArm.jobString>Устанавливает правую улучшенную силовую руку.</RBSE_InstallRightExtraAdvancedPowerArm.jobString>
+
+    <RBSE_RemoveRightExtraAdvancedPowerArm.label>Удалить правую улучшенную силовую руку</RBSE_RemoveRightExtraAdvancedPowerArm.label>
+    <RBSE_RemoveRightExtraAdvancedPowerArm.description>Удалить правую улучшенную силовую руку.</RBSE_RemoveRightExtraAdvancedPowerArm.description>
+    <RBSE_RemoveRightExtraAdvancedPowerArm.jobString>Удаляет правую улучшенную силовую руку.</RBSE_RemoveRightExtraAdvancedPowerArm.jobString>
+
+    <RBSE_InstallLeftExtraAdvancedBionicArm.label>Установить левую улучшенную бионическую руку</RBSE_InstallLeftExtraAdvancedBionicArm.label>
+    <RBSE_InstallLeftExtraAdvancedBionicArm.description>Установить левую улучшенную бионическую руку.</RBSE_InstallLeftExtraAdvancedBionicArm.description>
+    <RBSE_InstallLeftExtraAdvancedBionicArm.jobString>Устанавливает левую улучшенную бионическую руку.</RBSE_InstallLeftExtraAdvancedBionicArm.jobString>
+
+    <RBSE_RemoveLeftExtraAdvancedBionicArm.label>Удалить левую улучшенную бионическую руку</RBSE_RemoveLeftExtraAdvancedBionicArm.label>
+    <RBSE_RemoveLeftExtraAdvancedBionicArm.description>Удалить левую улучшенную бионическую руку.</RBSE_RemoveLeftExtraAdvancedBionicArm.description>
+    <RBSE_RemoveLeftExtraAdvancedBionicArm.jobString>Удаляет левую улучшенную бионическую руку.</RBSE_RemoveLeftExtraAdvancedBionicArm.jobString>
+
+    <RBSE_InstallRightExtraAdvancedBionicArm.label>Установить правую улучшенную бионическую руку</RBSE_InstallRightExtraAdvancedBionicArm.label>
+    <RBSE_InstallRightExtraAdvancedBionicArm.description>Установить правую улучшенную бионическую руку.</RBSE_InstallRightExtraAdvancedBionicArm.description>
+    <RBSE_InstallRightExtraAdvancedBionicArm.jobString>Устанавливает правую улучшенную бионическую руку.</RBSE_InstallRightExtraAdvancedBionicArm.jobString>
+
+    <RBSE_RemoveRightExtraAdvancedBionicArm.label>Удалить правую улучшенную бионическую руку</RBSE_RemoveRightExtraAdvancedBionicArm.label>
+    <RBSE_RemoveRightExtraAdvancedBionicArm.description>Удалить правую улучшенную бионическую руку.</RBSE_RemoveRightExtraAdvancedBionicArm.description>
+    <RBSE_RemoveRightExtraAdvancedBionicArm.jobString>Удаляет правую улучшенную бионическую руку.</RBSE_RemoveRightExtraAdvancedBionicArm.jobString>
+</LanguageData>

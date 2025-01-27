@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_SkillChipPort.label>Разъём для чипов навыков</LTS_SkillChipPort.label>
+    <LTS_SkillChipPort.labelNoun>Имплант разъёма для чипов навыков</LTS_SkillChipPort.labelNoun>
+    <LTS_SkillChipPort.description>Установленный разъём для чипов навыков.</LTS_SkillChipPort.description>
+    <LTS_SkillChipPort.comps.0.slots.0.slotName>Слот для чипа навыка</LTS_SkillChipPort.comps.0.slots.0.slotName>
+
+    <LTS_SpacerSkillChip_Melee.description>Установленный чип навыка</LTS_SpacerSkillChip_Melee.description>
+    <LTS_SpacerSkillChip_Melee.label>Чип навыка (ближний бой)</LTS_SpacerSkillChip_Melee.label>
+
+    <LTS_UltraSkillChip_Melee.description>Установленный чип навыка</LTS_UltraSkillChip_Melee.description>
+    <LTS_UltraSkillChip_Melee.label>Ультра чип навыка (ближний бой)</LTS_UltraSkillChip_Melee.label>
+
+    <LTS_SpacerSkillChip_Shooting.description>Установленный чип навыка</LTS_SpacerSkillChip_Shooting.description>
+    <LTS_SpacerSkillChip_Shooting.label>Чип навыка (стрельба)</LTS_SpacerSkillChip_Shooting.label>
+
+    <LTS_UltraSkillChip_Shooting.description>Установленный чип навыка</LTS_UltraSkillChip_Shooting.description>
+    <LTS_UltraSkillChip_Shooting.label>Ультра чип навыка (стрельба)</LTS_UltraSkillChip_Shooting.label>
+
+    <LTS_SpacerSkillChip_Construction.description>Установленный чип навыка</LTS_SpacerSkillChip_Construction.description>
+    <LTS_SpacerSkillChip_Construction.label>Чип навыка (строительство)</LTS_SpacerSkillChip_Construction.label>
+
+    <LTS_UltraSkillChip_Construction.description>Установленный чип навыка</LTS_UltraSkillChip_Construction.description>
+    <LTS_UltraSkillChip_Construction.label>Ультра чип навыка (строительство)</LTS_UltraSkillChip_Construction.label>
+
+    <LTS_SpacerSkillChip_Mining.description>Установленный чип навыка</LTS_SpacerSkillChip_Mining.description>
+    <LTS_SpacerSkillChip_Mining.label>Чип навыка (горное дело)</LTS_SpacerSkillChip_Mining.label>
+
+    <LTS_UltraSkillChip_Mining.description>Установленный чип навыка</LTS_UltraSkillChip_Mining.description>
+    <LTS_UltraSkillChip_Mining.label>Ультра чип навыка (горное дело)</LTS_UltraSkillChip_Mining.label>
+
+    <LTS_SpacerSkillChip_Cooking.description>Установленный чип навыка</LTS_SpacerSkillChip_Cooking.description>
+    <LTS_SpacerSkillChip_Cooking.label>Чип навыка (кулинария)</LTS_SpacerSkillChip_Cooking.label>
+
+    <LTS_UltraSkillChip_Cooking.description>Установленный чип навыка</LTS_UltraSkillChip_Cooking.description>
+    <LTS_UltraSkillChip_Cooking.label>Ультра чип навыка (кулинария)</LTS_UltraSkillChip_Cooking.label>
+
+    <LTS_SpacerSkillChip_Plants.description>Установленный чип навыка</LTS_SpacerSkillChip_Plants.description>
+    <LTS_SpacerSkillChip_Plants.label>Чип навыка (растениеводство)</LTS_SpacerSkillChip_Plants.label>
+
+    <LTS_UltraSkillChip_Plants.description>Установленный чип навыка</LTS_UltraSkillChip_Plants.description>
+    <LTS_UltraSkillChip_Plants.label>Ультра чип навыка (растениеводство)</LTS_UltraSkillChip_Plants.label>
+
+    <LTS_SpacerSkillChip_Animals.description>Установленный чип навыка</LTS_SpacerSkillChip_Animals.description>
+    <LTS_SpacerSkillChip_Animals.label>Чип навыка (животноводство)</LTS_SpacerSkillChip_Animals.label>
+
+    <LTS_UltraSkillChip_Animals.description>Установленный чип навыка</LTS_UltraSkillChip_Animals.description>
+    <LTS_UltraSkillChip_Animals.label>Ультра чип навыка (животноводство)</LTS_UltraSkillChip_Animals.label>
+
+    <LTS_SpacerSkillChip_Crafting.description>Установленный чип навыка</LTS_SpacerSkillChip_Crafting.description>
+    <LTS_SpacerSkillChip_Crafting.label>Чип навыка (создание)</LTS_SpacerSkillChip_Crafting.label>
+
+    <LTS_UltraSkillChip_Crafting.description>Установленный чип навыка</LTS_UltraSkillChip_Crafting.description>
+    <LTS_UltraSkillChip_Crafting.label>Ультра чип навыка (создание)</LTS_UltraSkillChip_Crafting.label>
+
+    <LTS_SpacerSkillChip_Artistic.description>Установленный чип навыка</LTS_SpacerSkillChip_Artistic.description>
+    <LTS_SpacerSkillChip_Artistic.label>Чип навыка (искусство)</LTS_SpacerSkillChip_Artistic.label>
+
+    <LTS_UltraSkillChip_Artistic.description>Установленный чип навыка</LTS_UltraSkillChip_Artistic.description>
+    <LTS_UltraSkillChip_Artistic.label>Ультра чип навыка (искусство)</LTS_UltraSkillChip_Artistic.label>
+
+    <LTS_SpacerSkillChip_Medicine.description>Установленный чип навыка</LTS_SpacerSkillChip_Medicine.description>
+    <LTS_SpacerSkillChip_Medicine.label>Чип навыка (медицина)</LTS_SpacerSkillChip_Medicine.label>
+
+    <LTS_UltraSkillChip_Medicine.description>Установленный чип навыка</LTS_UltraSkillChip_Medicine.description>
+    <LTS_UltraSkillChip_Medicine.label>Ультра чип навыка (медицина)</LTS_UltraSkillChip_Medicine.label>
+
+    <LTS_SpacerSkillChip_Social.description>Установленный чип навыка</LTS_SpacerSkillChip_Social.description>
+    <LTS_SpacerSkillChip_Social.label>Чип навыка (общение)</LTS_SpacerSkillChip_Social.label>
+
+    <LTS_UltraSkillChip_Social.description>Установленный чип навыка</LTS_UltraSkillChip_Social.description>
+    <LTS_UltraSkillChip_Social.label>Ультра чип навыка (общение)</LTS_UltraSkillChip_Social.label>
+
+    <LTS_SpacerSkillChip_Intellectual.description>Установленный чип навыка</LTS_SpacerSkillChip_Intellectual.description>
+    <LTS_SpacerSkillChip_Intellectual.label>Чип навыка (интеллект)</LTS_SpacerSkillChip_Intellectual.label>
+
+    <LTS_UltraSkillChip_Intellectual.description>Установленный чип навыка</LTS_UltraSkillChip_Intellectual.description>
+    <LTS_UltraSkillChip_Intellectual.label>Ультра чип навыка (интеллект)</LTS_UltraSkillChip_Intellectual.label>
+</LanguageData>

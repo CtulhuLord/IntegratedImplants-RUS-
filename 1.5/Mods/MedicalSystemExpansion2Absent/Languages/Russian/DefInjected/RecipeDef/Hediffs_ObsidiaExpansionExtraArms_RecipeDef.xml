@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <InstallLeftExtraOEBionicArm.label>Установить левую бионическую руку OE</InstallLeftExtraOEBionicArm.label>
+    <InstallLeftExtraOEBionicArm.description>Установить левую бионическую руку OE.</InstallLeftExtraOEBionicArm.description>
+    <InstallLeftExtraOEBionicArm.jobString>Устанавливает левую бионическую руку OE.</InstallLeftExtraOEBionicArm.jobString>
+
+    <RemoveLeftExtraOEBionicArm.label>Удалить левую бионическую руку OE</RemoveLeftExtraOEBionicArm.label>
+    <RemoveLeftExtraOEBionicArm.description>Удалить левую бионическую руку OE.</RemoveLeftExtraOEBionicArm.description>
+    <RemoveLeftExtraOEBionicArm.jobString>Удаляет левую бионическую руку OE.</RemoveLeftExtraOEBionicArm.jobString>
+
+    <InstallRightExtraOEBionicArm.label>Установить правую бионическую руку OE</InstallRightExtraOEBionicArm.label>
+    <InstallRightExtraOEBionicArm.description>Установить правую бионическую руку OE.</InstallRightExtraOEBionicArm.description>
+    <InstallRightExtraOEBionicArm.jobString>Устанавливает правую бионическую руку OE.</InstallRightExtraOEBionicArm.jobString>
+
+    <RemoveRightExtraOEBionicArm.label>Удалить правую бионическую руку OE</RemoveRightExtraOEBionicArm.label>
+    <RemoveRightExtraOEBionicArm.description>Удалить правую бионическую руку OE.</RemoveRightExtraOEBionicArm.description>
+    <RemoveRightExtraOEBionicArm.jobString>Удаляет правую бионическую руку OE.</RemoveRightExtraOEBionicArm.jobString>
+
+    <InstallLeftExtraOEBionicMArm.label>Установить левую улучшенную бионическую руку OE</InstallLeftExtraOEBionicMArm.label>
+    <InstallLeftExtraOEBionicMArm.description>Установить левую улучшенную бионическую руку OE.</InstallLeftExtraOEBionicMArm.description>
+    <InstallLeftExtraOEBionicMArm.jobString>Устанавливает левую улучшенную бионическую руку OE.</InstallLeftExtraOEBionicMArm.jobString>
+
+    <RemoveLeftExtraOEBionicMArm.label>Удалить левую улучшенную бионическую руку OE</RemoveLeftExtraOEBionicMArm.label>
+    <RemoveLeftExtraOEBionicMArm.description>Удалить левую улучшенную бионическую руку OE.</RemoveLeftExtraOEBionicMArm.description>
+    <RemoveLeftExtraOEBionicMArm.jobString>Удаляет левую улучшенную бионическую руку OE.</RemoveLeftExtraOEBionicMArm.jobString>
+
+    <InstallRightExtraOEBionicMArm.label>Установить правую улучшенную бионическую руку OE</InstallRightExtraOEBionicMArm.label>
+    <InstallRightExtraOEBionicMArm.description>Установить правую улучшенную бионическую руку OE.</InstallRightExtraOEBionicMArm.description>
+    <InstallRightExtraOEBionicMArm.jobString>Устанавливает правую улучшенную бионическую руку OE.</InstallRightExtraOEBionicMArm.jobString>
+
+    <RemoveRightExtraOEBionicMArm.label>Удалить правую улучшенную бионическую руку OE</RemoveRightExtraOEBionicMArm.label>
+    <RemoveRightExtraOEBionicMArm.description>Удалить правую улучшенную бионическую руку OE.</RemoveRightExtraOEBionicMArm.description>
+    <RemoveRightExtraOEBionicMArm.jobString>Удаляет правую улучшенную бионическую руку OE.</RemoveRightExtraOEBionicMArm.jobString>
+
+    <InstallLeftExtraOEBionicCACArm.label>Установить левую культистскую бионическую руку OE</InstallLeftExtraOEBionicCACArm.label>
+    <InstallLeftExtraOEBionicCACArm.description>Установить левую культистскую бионическую руку OE.</InstallLeftExtraOEBionicCACArm.description>
+    <InstallLeftExtraOEBionicCACArm.jobString>Устанавливает левую культистскую бионическую руку OE.</InstallLeftExtraOEBionicCACArm.jobString>
+
+    <RemoveLeftExtraOEBionicCACArm.label>Удалить левую культистскую бионическую руку OE</RemoveLeftExtraOEBionicCACArm.label>
+    <RemoveLeftExtraOEBionicCACArm.description>Удалить левую культистскую бионическую руку OE.</RemoveLeftExtraOEBionicCACArm.description>
+    <RemoveLeftExtraOEBionicCACArm.jobString>Удаляет левую культистскую бионическую руку OE.</RemoveLeftExtraOEBionicCACArm.jobString>
+
+    <InstallRightExtraOEBionicCACArm.label>Установить правую культистскую бионическую руку OE</InstallRightExtraOEBionicCACArm.label>
+    <InstallRightExtraOEBionicCACArm.description>Установить правую культистскую бионическую руку OE.</InstallRightExtraOEBionicCACArm.description>
+    <InstallRightExtraOEBionicCACArm.jobString>Устанавливает правую культистскую бионическую руку OE.</InstallRightExtraOEBionicCACArm.jobString>
+
+    <RemoveRightExtraOEBionicCACArm.label>Удалить правую культистскую бионическую руку OE</RemoveRightExtraOEBionicCACArm.label>
+    <RemoveRightExtraOEBionicCACArm.description>Удалить правую культистскую бионическую руку OE.</RemoveRightExtraOEBionicCACArm.description>
+    <RemoveRightExtraOEBionicCACArm.jobString>Удаляет правую культистскую бионическую руку OE.</RemoveRightExtraOEBionicCACArm.jobString>
+
+    <InstallLeftExtraOEImplantAcidArm.label>Установить левый имплант руки - Жало (кислотный) OE</InstallLeftExtraOEImplantAcidArm.label>
+    <InstallLeftExtraOEImplantAcidArm.description>Установить левый имплант руки - Жало (кислотный) OE.</InstallLeftExtraOEImplantAcidArm.description>
+    <InstallLeftExtraOEImplantAcidArm.jobString>Устанавливает левый имплант руки - Жало (кислотный) OE.</InstallLeftExtraOEImplantAcidArm.jobString>
+
+    <RemoveLeftExtraOEImplantAcidArm.label>Удалить левый имплант руки - Жало (кислотный) OE</RemoveLeftExtraOEImplantAcidArm.label>
+    <RemoveLeftExtraOEImplantAcidArm.description>Удалить левый имплант руки - Жало (кислотный) OE.</RemoveLeftExtraOEImplantAcidArm.description>
+    <RemoveLeftExtraOEImplantAcidArm.jobString>Удаляет левый имплант руки - Жало (кислотный) OE.</RemoveLeftExtraOEImplantAcidArm.jobString>
+
+    <InstallRightExtraOEImplantAcidArm.label>Установить правый имплант руки - Жало (кислотный) OE</InstallRightExtraOEImplantAcidArm.label>
+    <InstallRightExtraOEImplantAcidArm.description>Установить правый имплант руки - Жало (кислотный) OE.</InstallRightExtraOEImplantAcidArm.description>
+    <InstallRightExtraOEImplantAcidArm.jobString>Устанавливает правый имплант руки - Жало (кислотный) OE.</InstallRightExtraOEImplantAcidArm.jobString>
+
+    <RemoveRightExtraOEImplantAcidArm.label>Удалить правый имплант руки - Жало (кислотный) OE</RemoveRightExtraOEImplantAcidArm.label>
+    <RemoveRightExtraOEImplantAcidArm.description>Удалить правый имплант руки - Жало (кислотный) OE.</RemoveRightExtraOEImplantAcidArm.description>
+    <RemoveRightExtraOEImplantAcidArm.jobString>Удаляет правый имплант руки - Жало (кислотный) OE.</RemoveRightExtraOEImplantAcidArm.jobString>
+
+    <InstallLeftExtraOEImplantCryoArm.label>Установить левый имплант руки - Жало (крио) OE</InstallLeftExtraOEImplantCryoArm.label>
+    <InstallLeftExtraOEImplantCryoArm.label>Установить левый имплант руки - Жало (крио) OE</InstallLeftExtraOEImplantCryoArm.label>
+    <InstallLeftExtraOEImplantCryoArm.description>Установить левый имплант руки - Жало (крио) OE.</InstallLeftExtraOEImplantCryoArm.description>
+    <InstallLeftExtraOEImplantCryoArm.jobString>Устанавливает левый имплант руки - Жало (крио) OE.</InstallLeftExtraOEImplantCryoArm.jobString>
+
+    <RemoveLeftExtraOEImplantCryoArm.label>Удалить левый имплант руки - Жало (крио) OE</RemoveLeftExtraOEImplantCryoArm.label>
+    <RemoveLeftExtraOEImplantCryoArm.description>Удалить левый имплант руки - Жало (крио) OE.</RemoveLeftExtraOEImplantCryoArm.description>
+    <RemoveLeftExtraOEImplantCryoArm.jobString>Удаляет левый имплант руки - Жало (крио) OE.</RemoveLeftExtraOEImplantCryoArm.jobString>
+
+    <InstallRightExtraOEImplantCryoArm.label>Установить правый имплант руки - Жало (крио) OE</InstallRightExtraOEImplantCryoArm.label>
+    <InstallRightExtraOEImplantCryoArm.description>Установить правый имплант руки - Жало (крио) OE.</InstallRightExtraOEImplantCryoArm.description>
+    <InstallRightExtraOEImplantCryoArm.jobString>Устанавливает правый имплант руки - Жало (крио) OE.</InstallRightExtraOEImplantCryoArm.jobString>
+
+    <RemoveRightExtraOEImplantCryoArm.label>Удалить правый имплант руки - Жало (крио) OE</RemoveRightExtraOEImplantCryoArm.label>
+    <RemoveRightExtraOEImplantCryoArm.description>Удалить правый имплант руки - Жало (крио) OE.</RemoveRightExtraOEImplantCryoArm.description>
+    <RemoveRightExtraOEImplantCryoArm.jobString>Удаляет правый имплант руки - Жало (крио) OE.</RemoveRightExtraOEImplantCryoArm.jobString>
+
+    <InstallLeftExtraOEImplantFireArm.label>Установить левый имплант руки - Жало (огненный) OE</InstallLeftExtraOEImplantFireArm.label>
+    <InstallLeftExtraOEImplantFireArm.description>Установить левый имплант руки - Жало (огненный) OE.</InstallLeftExtraOEImplantFireArm.description>
+    <InstallLeftExtraOEImplantFireArm.jobString>Устанавливает левый имплант руки - Жало (огненный) OE.</InstallLeftExtraOEImplantFireArm.jobString>
+
+    <RemoveLeftExtraOEImplantFireArm.label>Удалить левый имплант руки - Жало (огненный) OE</RemoveLeftExtraOEImplantFireArm.label>
+    <RemoveLeftExtraOEImplantFireArm.description>Удалить левый имплант руки - Жало (огненный) OE.</RemoveLeftExtraOEImplantFireArm.description>
+    <RemoveLeftExtraOEImplantFireArm.jobString>Удаляет левый имплант руки - Жало (огненный) OE.</RemoveLeftExtraOEImplantFireArm.jobString>
+
+    <InstallRightExtraOEImplantFireArm.label>Установить правый имплант руки - Жало (огненный) OE</InstallRightExtraOEImplantFireArm.label>
+    <InstallRightExtraOEImplantFireArm.description>Установить правый имплант руки - Жало (огненный) OE.</InstallRightExtraOEImplantFireArm.description>
+    <InstallRightExtraOEImplantFireArm.jobString>Устанавливает правый имплант руки - Жало (огненный) OE.</InstallRightExtraOEImplantFireArm.jobString>
+
+    <RemoveRightExtraOEImplantFireArm.label>Удалить правый имплант руки - Жало (огненный) OE</RemoveRightExtraOEImplantFireArm.label>
+    <RemoveRightExtraOEImplantFireArm.description>Удалить правый имплант руки - Жало (огненный) OE.</RemoveRightExtraOEImplantFireArm.description>
+    <RemoveRightExtraOEImplantFireArm.jobString>Удаляет правый имплант руки - Жало (огненный) OE.</RemoveRightExtraOEImplantFireArm.jobString>
+
+    <InstallLeftExtraOEImplantEMPArm.label>Установить левый имплант руки - Жало (ЭМИ) OE</InstallLeftExtraOEImplantEMPArm.label>
+    <InstallLeftExtraOEImplantEMPArm.description>Установить левый имплант руки - Жало (ЭМИ) OE.</InstallLeftExtraOEImplantEMPArm.description>
+    <InstallLeftExtraOEImplantEMPArm.jobString>Устанавливает левый имплант руки - Жало (ЭМИ) OE.</InstallLeftExtraOEImplantEMPArm.jobString>
+
+    <RemoveLeftExtraOEImplantEMPArm.label>Удалить левый имплант руки - Жало (ЭМИ) OE</RemoveLeftExtraOEImplantEMPArm.label>
+    <RemoveLeftExtraOEImplantEMPArm.description>Удалить левый имплант руки - Жало (ЭМИ) OE.</RemoveLeftExtraOEImplantEMPArm.description>
+    <RemoveLeftExtraOEImplantEMPArm.jobString>Удаляет левый имплант руки - Жало (ЭМИ) OE.</RemoveLeftExtraOEImplantEMPArm.jobString>
+
+    <InstallRightExtraOEImplantEMPArm.label>Установить правый имплант руки - Жало (ЭМИ) OE</InstallRightExtraOEImplantEMPArm.label>
+    <InstallRightExtraOEImplantEMPArm.description>Установить правый имплант руки - Жало (ЭМИ) OE.</InstallRightExtraOEImplantEMPArm.description>
+    <InstallRightExtraOEImplantEMPArm.jobString>Устанавливает правый имплант руки - Жало (ЭМИ) OE.</InstallRightExtraOEImplantEMPArm.jobString>
+
+    <RemoveRightExtraOEImplantEMPArm.label>Удалить правый имплант руки - Жало (ЭМИ) OE</RemoveRightExtraOEImplantEMPArm.label>
+    <RemoveRightExtraOEImplantEMPArm.description>Удалить правый имплант руки - Жало (ЭМИ) OE.</RemoveRightExtraOEImplantEMPArm.description>
+    <RemoveRightExtraOEImplantEMPArm.jobString>Удаляет правый имплант руки - Жало (ЭМИ) OE.</RemoveRightExtraOEImplantEMPArm.jobString>
+
+    <InstallLeftExtraOEImplantDemolisherArm.label>Установить левый имплант руки - Разрушитель OE</InstallLeftExtraOEImplantDemolisherArm.label>
+    <InstallLeftExtraOEImplantDemolisherArm.description>Установить левый имплант руки - Разрушитель OE.</InstallLeftExtraOEImplantDemolisherArm.description>
+    <InstallLeftExtraOEImplantDemolisherArm.jobString>Устанавливает левый имплант руки - Разрушитель OE.</InstallLeftExtraOEImplantDemolisherArm.jobString>
+
+    <RemoveLeftExtraOEImplantDemolisherArm.label>Удалить левый имплант руки - Разрушитель OE</RemoveLeftExtraOEImplantDemolisherArm.label>
+    <RemoveLeftExtraOEImplantDemolisherArm.description>Удалить левый имплант руки - Разрушитель OE.</RemoveLeftExtraOEImplantDemolisherArm.description>
+    <RemoveLeftExtraOEImplantDemolisherArm.jobString>Удаляет левый имплант руки - Разрушитель OE.</RemoveLeftExtraOEImplantDemolisherArm.jobString>
+
+    <InstallRightExtraOEImplantDemolisherArm.label>Установить правый имплант руки - Разрушитель OE</InstallRightExtraOEImplantDemolisherArm.label>
+    <InstallRightExtraOEImplantDemolisherArm.description>Установить правый имплант руки - Разрушитель OE.</InstallRightExtraOEImplantDemolisherArm.description>
+    <InstallRightExtraOEImplantDemolisherArm.jobString>Устанавливает правый имплант руки - Разрушитель OE.</InstallRightExtraOEImplantDemolisherArm.jobString>
+
+    <RemoveRightExtraOEImplantDemolisherArm.label>Удалить правый имплант руки - Разрушитель OE</RemoveRightExtraOEImplantDemolisherArm.label>
+    <RemoveRightExtraOEImplantDemolisherArm.description>Удалить правый имплант руки - Разрушитель OE.</RemoveRightExtraOEImplantDemolisherArm.description>
+    <RemoveRightExtraOEImplantDemolisherArm.jobString>Удаляет правый имплант руки - Разрушитель OE.</RemoveRightExtraOEImplantDemolisherArm.jobString>
+
+    <InstallLeftExtraOEImplantDuelistArm.label>Установить левый имплант руки - Дуэлянт OE</InstallLeftExtraOEImplantDuelistArm.label>
+    <InstallLeftExtraOEImplantDuelistArm.description>Установить левый имплант руки - Дуэлянт OE.</InstallLeftExtraOEImplantDuelistArm.description>
+    <InstallLeftExtraOEImplantDuelistArm.jobString>Устанавливает левый имплант руки - Дуэлянт OE.</InstallLeftExtraOEImplantDuelistArm.jobString>
+
+    <RemoveLeftExtraOEImplantDuelistArm.label>Удалить левый имплант руки - Дуэлянт OE</RemoveLeftExtraOEImplantDuelistArm.label>
+    <RemoveLeftExtraOEImplantDuelistArm.description>Удалить левый имплант руки - Дуэлянт OE.</RemoveLeftExtraOEImplantDuelistArm.description>
+    <RemoveLeftExtraOEImplantDuelistArm.jobString>Удаляет левый имплант руки - Дуэлянт OE.</RemoveLeftExtraOEImplantDuelistArm.jobString>
+
+    <InstallRightExtraOEImplantDuelistArm.label>Установить правый имплант руки - Дуэлянт OE</InstallRightExtraOEImplantDuelistArm.label>
+    <InstallRightExtraOEImplantDuelistArm.description>Установить правый имплант руки - Дуэлянт OE.</InstallRightExtraOEImplantDuelistArm.description>
+    <InstallRightExtraOEImplantDuelistArm.jobString>Устанавливает правый имплант руки - Дуэлянт OE.</InstallRightExtraOEImplantDuelistArm.jobString>
+
+    <RemoveRightExtraOEImplantDuelistArm.label>Удалить правый имплант руки - Дуэлянт OE</RemoveRightExtraOEImplantDuelistArm.label>
+    <RemoveRightExtraOEImplantDuelistArm.description>Удалить правый имплант руки - Дуэлянт OE.</RemoveRightExtraOEImplantDuelistArm.description>
+    <RemoveRightExtraOEImplantDuelistArm.jobString>Удаляет правый имплант руки - Дуэлянт OE.</RemoveRightExtraOEImplantDuelistArm.jobString>
+</LanguageData>

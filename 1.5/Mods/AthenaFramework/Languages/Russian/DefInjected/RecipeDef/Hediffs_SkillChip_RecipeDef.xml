@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_InstallSkillChipPort.label>Установить разъём для чипов</LTS_InstallSkillChipPort.label>
+    <LTS_InstallSkillChipPort.description>Установить разъём для чипов.</LTS_InstallSkillChipPort.description>
+    <LTS_InstallSkillChipPort.jobString>Установка разъёма для чипов.</LTS_InstallSkillChipPort.jobString>
+
+    <LTS_RemoveSkillChipPort.label>Удалить разъём для чипов</LTS_RemoveSkillChipPort.label>
+    <LTS_RemoveSkillChipPort.description>Удалить разъём для чипов.</LTS_RemoveSkillChipPort.description>
+    <LTS_RemoveSkillChipPort.jobString>Удаление разъёма для чипов.</LTS_RemoveSkillChipPort.jobString>
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <ToggleFertility.label>Переключить контроль рождаемости</ToggleFertility.label>
+    <ToggleFertility.description>Выделять гормоны для подавления овуляции.</ToggleFertility.description>
+
+    <TogglePsychicNullifier.label>Переключить психический нейтрализатор</TogglePsychicNullifier.label>
+    <TogglePsychicNullifier.description>Проецировать личное психическое поле вокруг пользователя для защиты от психических воздействий.</TogglePsychicNullifier.description>
+
+    <ToggleLactation.label>Переключить лактацию</ToggleLactation.label>
+    <ToggleLactation.description>Выделять синтетические гормоны, стимулирующие молочные железы и вызывающие лактацию.</ToggleLactation.description>
+
+    <DreadheartRegeneration.label>Регенерация «Страшное сердце»</DreadheartRegeneration.label>
+    <DreadheartRegeneration.description>Использовать «Страшное сердце» для кратковременного получения невероятной регенерации. Имплант быстро выращивает массы плоти, которые принимают форму поврежденных частей и заменяют их.</DreadheartRegeneration.description>
+
+    <PsychicAgonyPulse.label>Импульс психической агонии</PsychicAgonyPulse.label>
+    <PsychicAgonyPulse.description>Использовать психический агонизатор для генерации импульса чистой психической боли, исходящего от пользователя.</PsychicAgonyPulse.description>
+
+    <Blacksight.label>Черное зрение</Blacksight.label>
+    <Blacksight.description>Использовать устройство «Черное зрение» для кратковременного получения тяги к тьме и отвращения к свету. Имплант психически смещает восприятие длины волны пользователя ближе к пустоте.</Blacksight.description>
+
+    <PsychicBeguile.label>Психическое обольщение</PsychicBeguile.label>
+    <PsychicBeguile.description>Использовать психическое обольщение, чтобы склонить человека к вступлению в свою фракцию. Имплант психически манипулирует жертвой, вызывая у нее одержимость пользователем. Это считается враждебным действием со стороны предыдущей фракции жертвы.</PsychicBeguile.description>
+
+    <LTS_ActivateBrainShocker.label>Активировать мозговой шокер</LTS_ActivateBrainShocker.label>
+    <LTS_ActivateBrainShocker.description>Активировать мозговой шокер для оглушения цели.</LTS_ActivateBrainShocker.description>
+
+    <LTS_ActivateBrainDetonator.label>Активировать мозговой детонатор</LTS_ActivateBrainDetonator.label>
+    <LTS_ActivateBrainDetonator.description>Активировать мозговой детонатор для убийства цели.</LTS_ActivateBrainDetonator.description>
+
+    <LTS_ToggleVoicelock.label>Переключить блокировку голоса</LTS_ToggleVoicelock.label>
+    <LTS_ToggleVoicelock.description>Активировать устройство шумоподавления для удаленного отключения голоса цели.</LTS_ToggleVoicelock.description>
+</LanguageData>

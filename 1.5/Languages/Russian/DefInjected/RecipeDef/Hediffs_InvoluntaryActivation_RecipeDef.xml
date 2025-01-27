@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_InstallNeuralStunner.label>установить мозговой шокер</LTS_InstallNeuralStunner.label>
+    <LTS_InstallNeuralStunner.description>Установить мозговой шокер.</LTS_InstallNeuralStunner.description>
+    <LTS_InstallNeuralStunner.jobString>Устанавливает мозговой шокер.</LTS_InstallNeuralStunner.jobString>
+
+    <LTS_RemoveNeuralStunner.label>удалить мозговой шокер</LTS_RemoveNeuralStunner.label>
+    <LTS_RemoveNeuralStunner.description>Удалить мозговой шокер.</LTS_RemoveNeuralStunner.description>
+    <LTS_RemoveNeuralStunner.jobString>Удаляет мозговой шокер.</LTS_RemoveNeuralStunner.jobString>
+
+    <LTS_InstallBrainDetonator.label>установить мозговой детонатор</LTS_InstallBrainDetonator.label>
+    <LTS_InstallBrainDetonator.description>Установить мозговой детонатор.</LTS_InstallBrainDetonator.description>
+    <LTS_InstallBrainDetonator.jobString>Устанавливает мозговой детонатор.</LTS_InstallBrainDetonator.jobString>
+
+    <LTS_RemoveBrainDetonator.label>удалить мозговой детонатор</LTS_RemoveBrainDetonator.label>
+    <LTS_RemoveBrainDetonator.description>Удалить мозговой детонатор.</LTS_RemoveBrainDetonator.description>
+    <LTS_RemoveBrainDetonator.jobString>Удаляет мозговой детонатор.</LTS_RemoveBrainDetonator.jobString>
+
+    <LTS_InstallVoicelock.label>установить блокиратор голоса</LTS_InstallVoicelock.label>
+    <LTS_InstallVoicelock.description>Установить блокиратор голоса.</LTS_InstallVoicelock.description>
+    <LTS_InstallVoicelock.jobString>Устанавливает блокиратор голоса.</LTS_InstallVoicelock.jobString>
+
+    <LTS_RemoveVoicelock.label>удалить блокиратор голоса</LTS_RemoveVoicelock.label>
+    <LTS_RemoveVoicelock.description>Удалить блокиратор голоса.</LTS_RemoveVoicelock.description>
+    <LTS_RemoveVoicelock.jobString>Удаляет блокиратор голоса.</LTS_RemoveVoicelock.jobString>
+</LanguageData>

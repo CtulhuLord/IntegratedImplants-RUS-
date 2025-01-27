@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DetonateImplantedHighExplosive.label>Детонировать имплантированную фугасную бомбу</DetonateImplantedHighExplosive.label>
+    <DetonateImplantedHighExplosive.description>Детонировать имплантированную фугасную бомбу.</DetonateImplantedHighExplosive.description>
+
+    <DetonateImplantedAntigrainWarhead.label>Детонировать имплантированную гранульную бомбу</DetonateImplantedAntigrainWarhead.label>
+    <DetonateImplantedAntigrainWarhead.description>Детонировать имплантированную гранульную бомбу.</DetonateImplantedAntigrainWarhead.description>
+
+    <DetonateImplantedIncendiary.label>Детонировать имплантированную зажигательную бомбу</DetonateImplantedIncendiary.label>
+    <DetonateImplantedIncendiary.description>Детонировать имплантированную зажигательную бомбу.</DetonateImplantedIncendiary.description>
+
+    <DetonateImplantedSmoke.label>Детонировать имплантированную дымовую бомбу</DetonateImplantedSmoke.label>
+    <DetonateImplantedSmoke.description>Детонировать имплантированную дымовую бомбу.</DetonateImplantedSmoke.description>
+
+    <DetonateImplantedFirefoam.label>Детонировать имплантированную бомбу с противопожарной пеной</DetonateImplantedFirefoam.label>
+    <DetonateImplantedFirefoam.description>Детонировать имплантированную бомбу с противопожарной пеной.</DetonateImplantedFirefoam.description>
+
+    <DetonateImplantedEMP.label>Детонировать имплантированную ЭМИ-бомбу</DetonateImplantedEMP.label>
+    <DetonateImplantedEMP.description>Детонировать имплантированную ЭМИ-бомбу.</DetonateImplantedEMP.description>
+
+    <DetonateImplantedToxic.label>Детонировать имплантированную токсичную бомбу</DetonateImplantedToxic.label>
+    <DetonateImplantedToxic.description>Детонировать имплантированную токсичную бомбу.</DetonateImplantedToxic.description>
+
+    <DetonateImplantedDeadlife.label>Детонировать имплантированную бомбу с «Мертвой жизнью»</DetonateImplantedDeadlife.label>
+    <DetonateImplantedDeadlife.description>Детонировать имплантированную бомбу с «Мертвой жизнью».</DetonateImplantedDeadlife.description>
+
+    <DetonateImplantedShrapnel.label>Детонировать имплантированную шрапнельную бомбу</DetonateImplantedShrapnel.label>
+    <DetonateImplantedShrapnel.description>Детонировать имплантированную шрапнельную бомбу.</DetonateImplantedShrapnel.description>
+
+    <DetonateImplantedArmorPiercing.label>Детонировать имплантированную бронебойную бомбу</DetonateImplantedArmorPiercing.label>
+    <DetonateImplantedArmorPiercing.description>Детонировать имплантированную бронебойную бомбу.</DetonateImplantedArmorPiercing.description>
+
+    <DetonateImplantedCluster.label>Детонировать имплантированную кассетную бомбу</DetonateImplantedCluster.label>
+    <DetonateImplantedCluster.description>Детонировать имплантированную кассетную бомбу.</DetonateImplantedCluster.description>
+</LanguageData>

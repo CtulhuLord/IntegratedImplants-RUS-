@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <InstallLeftExtraArchotechArm.label>Установить левую дополнительную архоруку</InstallLeftExtraArchotechArm.label>
+    <InstallLeftExtraArchotechArm.description>Установить левую дополнительную архоруку.</InstallLeftExtraArchotechArm.description>
+    <InstallLeftExtraArchotechArm.jobString>Устанавливает левую дополнительную архоруку.</InstallLeftExtraArchotechArm.jobString>
+
+    <RemoveLeftExtraArchotechArm.label>Удалить левую дополнительную архоруку</RemoveLeftExtraArchotechArm.label>
+    <RemoveLeftExtraArchotechArm.description>Удалить левую дополнительную архоруку.</RemoveLeftExtraArchotechArm.description>
+    <RemoveLeftExtraArchotechArm.jobString>Удаляет левую дополнительную архоруку.</RemoveLeftExtraArchotechArm.jobString>
+
+    <InstallRightExtraArchotechArm.label>Установить правую дополнительную архоруку</InstallRightExtraArchotechArm.label>
+    <InstallRightExtraArchotechArm.description>Установить правую дополнительную архоруку.</InstallRightExtraArchotechArm.description>
+    <InstallRightExtraArchotechArm.jobString>Устанавливает правую дополнительную архоруку.</InstallRightExtraArchotechArm.jobString>
+
+    <RemoveRightExtraArchotechArm.label>Удалить правую дополнительную архоруку</RemoveRightExtraArchotechArm.label>
+    <RemoveRightExtraArchotechArm.description>Удалить правую дополнительную архоруку.</RemoveRightExtraArchotechArm.description>
+    <RemoveRightExtraArchotechArm.jobString>Удаляет правую дополнительную архоруку.</RemoveRightExtraArchotechArm.jobString>
+
+    <InstallLeftExtraBionicArm.label>Установить левую дополнительную бионическую руку</InstallLeftExtraBionicArm.label>
+    <InstallLeftExtraBionicArm.description>Установить левую дополнительную бионическую руку.</InstallLeftExtraBionicArm.description>
+    <InstallLeftExtraBionicArm.jobString>Устанавливает левую дополнительную бионическую руку.</InstallLeftExtraBionicArm.jobString>
+
+    <RemoveLeftExtraBionicArm.label>Удалить левую дополнительную бионическую руку</RemoveLeftExtraBionicArm.label>
+    <RemoveLeftExtraBionicArm.description>Удалить левую дополнительную бионическую руку.</RemoveLeftExtraBionicArm.description>
+    <RemoveLeftExtraBionicArm.jobString>Удаляет левую дополнительную бионическую руку.</RemoveLeftExtraBionicArm.jobString>
+
+    <InstallRightExtraBionicArm.label>Установить правую дополнительную бионическую руку</InstallRightExtraBionicArm.label>
+    <InstallRightExtraBionicArm.description>Установить правую дополнительную бионическую руку.</InstallRightExtraBionicArm.description>
+    <InstallRightExtraBionicArm.jobString>Устанавливает правую дополнительную бионическую руку.</InstallRightExtraBionicArm.jobString>
+
+    <RemoveRightExtraBionicArm.label>Удалить правую дополнительную бионическую руку</RemoveRightExtraBionicArm.label>
+    <RemoveRightExtraBionicArm.description>Удалить правую дополнительную бионическую руку.</RemoveRightExtraBionicArm.description>
+    <RemoveRightExtraBionicArm.jobString>Удаляет правую дополнительную бионическую руку.</RemoveRightExtraBionicArm.jobString>
+
+    <InstallLeftExtraPowerClaw.label>Установить левый дополнительный силовой коготь</InstallLeftExtraPowerClaw.label>
+    <InstallLeftExtraPowerClaw.description>Установить левый дополнительный силовой коготь.</InstallLeftExtraPowerClaw.description>
+    <InstallLeftExtraPowerClaw.jobString>Устанавливает левый дополнительный силовой коготь.</InstallLeftExtraPowerClaw.jobString>
+
+    <RemoveLeftExtraPowerClaw.label>Удалить левый дополнительный силовой коготь</RemoveLeftExtraPowerClaw.label>
+    <RemoveLeftExtraPowerClaw.description>Удалить левый дополнительный силовой коготь.</RemoveLeftExtraPowerClaw.description>
+    <RemoveLeftExtraPowerClaw.jobString>Удаляет левый дополнительный силовой коготь.</RemoveLeftExtraPowerClaw.jobString>
+
+    <InstallRightExtraPowerClaw.label>Установить правый дополнительный силовой коготь</InstallRightExtraPowerClaw.label>
+    <InstallRightExtraPowerClaw.description>Установить правый дополнительный силовой коготь.</InstallRightExtraPowerClaw.description>
+    <InstallRightExtraPowerClaw.jobString>Устанавливает правый дополнительный силовой коготь.</InstallRightExtraPowerClaw.jobString>
+
+    <RemoveRightExtraPowerClaw.label>Удалить правый дополнительный силовой коготь</RemoveRightExtraPowerClaw.label>
+    <RemoveRightExtraPowerClaw.description>Удалить правый дополнительный силовой коготь.</RemoveRightExtraPowerClaw.description>
+    <RemoveRightExtraPowerClaw.jobString>Удаляет правый дополнительный силовой коготь.</RemoveRightExtraPowerClaw.jobString>
+
+    <InstallLeftExtraDrillArm.label>Установить левую дополнительную руку шахтёра</InstallLeftExtraDrillArm.label>
+    <InstallLeftExtraDrillArm.description>Установить левую дополнительную руку шахтёра.</InstallLeftExtraDrillArm.description>
+    <InstallLeftExtraDrillArm.jobString>Устанавливает левую дополнительную руку шахтёра.</InstallLeftExtraDrillArm.jobString>
+
+    <RemoveLeftExtraDrillArm.label>Удалить левую дополнительную руку шахтёра</RemoveLeftExtraDrillArm.label>
+    <RemoveLeftExtraDrillArm.description>Удалить левую дополнительную руку шахтёра.</RemoveLeftExtraDrillArm.description>
+    <RemoveLeftExtraDrillArm.jobString>Удаляет левую дополнительную руку шахтёра.</RemoveLeftExtraDrillArm.jobString>
+
+    <InstallRightExtraDrillArm.label>Установить правую дополнительную руку шахтёра</InstallRightExtraDrillArm.label>
+    <InstallRightExtraDrillArm.description>Установить правую дополнительную руку шахтёра.</InstallRightExtraDrillArm.description>
+    <InstallRightExtraDrillArm.jobString>Устанавливает правую дополнительную руку шахтёра.</InstallRightExtraDrillArm.jobString>
+
+    <RemoveRightExtraDrillArm.label>Удалить правую дополнительную руку шахтёра</RemoveRightExtraDrillArm.label>
+    <RemoveRightExtraDrillArm.description>Удалить правую дополнительную руку шахтёра.</RemoveRightExtraDrillArm.description>
+    <RemoveRightExtraDrillArm.jobString>Удаляет правую дополнительную руку шахтёра.</RemoveRightExtraDrillArm.jobString>
+
+    <InstallLeftExtraFieldHand.label>Установить левую дополнительную аграрную руку</InstallLeftExtraFieldHand.label>
+    <InstallLeftExtraFieldHand.description>Установить левую дополнительную аграрную руку.</InstallLeftExtraFieldHand.description>
+    <InstallLeftExtraFieldHand.jobString>Устанавливает левую дополнительную аграрную руку.</InstallLeftExtraFieldHand.jobString>
+
+    <RemoveLeftExtraFieldHand.label>Удалить левую дополнительную аграрную руку</RemoveLeftExtraFieldHand.label>
+    <RemoveLeftExtraFieldHand.description>Удалить левую дополнительную аграрную руку.</RemoveLeftExtraFieldHand.description>
+    <RemoveLeftExtraFieldHand.jobString>Удаляет левую дополнительную аграрную руку.</RemoveLeftExtraFieldHand.jobString>
+
+    <InstallRightExtraFieldHand.label>Установить правую дополнительную аграрную руку</InstallRightExtraFieldHand.label>
+    <InstallRightExtraFieldHand.description>Установить правую дополнительную аграрную руку.</InstallRightExtraFieldHand.description>
+    <InstallRightExtraFieldHand.jobString>Устанавливает правую дополнительную аграрную руку.</InstallRightExtraFieldHand.jobString>
+
+    <RemoveRightExtraFieldHand.label>Удалить правую дополнительную аграрную руку</RemoveRightExtraFieldHand.label>
+    <RemoveRightExtraFieldHand.description>Удалить правую дополнительную аграрную руку.</RemoveRightExtraFieldHand.description>
+    <RemoveRightExtraFieldHand.jobString>Удаляет правую дополнительную аграрную руку.</RemoveRightExtraFieldHand.jobString>
+
+    <InstallLeftExtraNerveShredderClaw.label>Установить левый дополнительный нервно-разрывающий коготь</InstallLeftExtraNerveShredderClaw.label>
+    <InstallLeftExtraNerveShredderClaw.description>Установить левый дополнительный нервно-разрывающий коготь.</InstallLeftExtraNerveShredderClaw.description>
+    <InstallLeftExtraNerveShredderClaw.jobString>Устанавливает левый дополнительный нервно-разрывающий коготь.</InstallLeftExtraNerveShredderClaw.jobString>
+
+    <ScrapLeftExtraNerveShredderClaw.label>Демонтировать левый нервно-разрывающий коготь</ScrapLeftExtraNerveShredderClaw.label>
+    <ScrapLeftExtraNerveShredderClaw.description>Демонтировать левый нервно-разрывающий коготь.</ScrapLeftExtraNerveShredderClaw.description>
+    <ScrapLeftExtraNerveShredderClaw.jobString>Демонтирует левый нервно-разрывающий коготь.</ScrapLeftExtraNerveShredderClaw.jobString>
+
+    <InstallRightExtraNerveShredderClaw.label>Установить правый дополнительный нервно-разрывающий коготь</InstallRightExtraNerveShredderClaw.label>
+    <InstallRightExtraNerveShredderClaw.description>Установить правый дополнительный нервно-разрывающий коготь.</InstallRightExtraNerveShredderClaw.description>
+    <InstallRightExtraNerveShredderClaw.jobString>Устанавливает правый дополнительный нервно-разрывающий коготь.</InstallRightExtraNerveShredderClaw.jobString>
+
+    <ScrapRightExtraNerveShredderClaw.label>Демонтировать правый нервно-разрывающий коготь</ScrapRightExtraNerveShredderClaw.label>
+    <ScrapRightExtraNerveShredderClaw.description>Демонтировать правый нервно-разрывающий коготь.</ScrapRightExtraNerveShredderClaw.description>
+    <ScrapRightExtraNerveShredderClaw.jobString>Демонтирует правый нервно-разрывающий коготь.</ScrapRightExtraNerveShredderClaw.jobString>
+
+    <InstallLeftExtraDeadlifeVenomClaw.label>Установить левый дополнительный коготь с ядом мёртвой жизни</InstallLeftExtraDeadlifeVenomClaw.label>
+    <InstallLeftExtraDeadlifeVenomClaw.description>Установить левый дополнительный коготь с ядом мёртвой жизни.</InstallLeftExtraDeadlifeVenomClaw.description>
+    <InstallLeftExtraDeadlifeVenomClaw.jobString>Устанавливает левый дополнительный коготь с ядом мёртвой жизни.</InstallLeftExtraDeadlifeVenomClaw.jobString>
+
+    <ScrapLeftExtraDeadlifeVenomClaw.label>Демонтировать левый коготь с ядом мёртвой жизни</ScrapLeftExtraDeadlifeVenomClaw.label>
+    <ScrapLeftExtraDeadlifeVenomClaw.description>Демонтировать левый коготь с ядом мёртвой жизни.</ScrapLeftExtraDeadlifeVenomClaw.description>
+    <ScrapLeftExtraDeadlifeVenomClaw.jobString>Демонтирует левый коготь с ядом мёртвой жизни.</ScrapLeftExtraDeadlifeVenomClaw.jobString>
+
+    <InstallRightExtraDeadlifeVenomClaw.label>Установить правый дополнительный коготь с ядом мёртвой жизни</InstallRightExtraDeadlifeVenomClaw.label>
+    <InstallRightExtraDeadlifeVenomClaw.description>Установить правый дополнительный коготь с ядом мёртвой жизни.</InstallRightExtraDeadlifeVenomClaw.description>
+    <InstallRightExtraDeadlifeVenomClaw.jobString>Устанавливает правый дополнительный коготь с ядом мёртвой жизни.</InstallRightExtraDeadlifeVenomClaw.jobString>
+
+    <ScrapRightExtraDeadlifeVenomClaw.label>Демонтировать правый коготь с ядом мёртвой жизни</ScrapRightExtraDeadlifeVenomClaw.label>
+    <ScrapRightExtraDeadlifeVenomClaw.description>Демонтировать правый коготь с ядом мёртвой жизни.</ScrapRightExtraDeadlifeVenomClaw.description>
+    <ScrapRightExtraDeadlifeVenomClaw.jobString>Демонтирует правый коготь с ядом мёртвой жизни.</ScrapRightExtraDeadlifeVenomClaw.jobString>
+</LanguageData>

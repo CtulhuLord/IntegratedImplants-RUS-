@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_PrestigeSubdermalArmour.label>Элитная подкожная броня</LTS_PrestigeSubdermalArmour.label>
+    <LTS_PrestigeSubdermalArmour.description>Комплект подкожно установленной, слегка усиленной брони, состоящей из тонких, полугибких пласталевых пластин и замененной гипертканью там, где необходима большая степень подвижности. Тонкие нейро-меметические ассистенты позволяют пользователю двигаться естественно.\n\nДорогая и подчеркивающая красоту, подобная элитная броня обычно изготавливается для высокопоставленных особ. Вплетенные эльтексовые нити также усиливают психическую чувствительность владельца.</LTS_PrestigeSubdermalArmour.description>
+
+    <EltexAdornments.label>Эльтексовые украшения</EltexAdornments.label>
+    <EltexAdornments.description>Набор имплантов, повышающих пси-концентрацию, с вплетенным эльтексовым волокном. Полвека назад они считались последним писком моды среди знати.</EltexAdornments.description>
+
+    <NeuralHeatsink.label>Нейрорадиатор</NeuralHeatsink.label>
+    <NeuralHeatsink.description>Устройство невероятно сложной и эзотерической конструкции, способное безопасно поглощать и нормализовать хаотические психические энергии.</NeuralHeatsink.description>
+</LanguageData>

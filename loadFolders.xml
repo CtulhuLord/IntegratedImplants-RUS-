@@ -1,0 +1,13 @@
+<loadFolders>
+	<v1.5>
+		<li>/</li>
+		<li>1.5</li>
+		<li IfModActive="ludeon.rimworld.anomaly">1.5/Mods/Anomaly</li>
+		<li IfModActive="ludeon.rimworld.biotech">1.5/Mods/Biotech</li>
+		<li IfModNotActive="MSE2.Core">1.5/Mods/MedicalSystemExpansion2Absent</li>
+		<li IfModActive="smartkar.athenaframework">1.5/Mods/AthenaFramework</li>
+		
+		<li IfModActive="ludeon.rimworld.anomaly">From_patches\ludeon_rimworld_anomaly</li>
+		<li IfModActive="ludeon.rimworld.biotech">From_patches\ludeon_rimworld_biotech</li>
+	</v1.5>
+</loadFolders>

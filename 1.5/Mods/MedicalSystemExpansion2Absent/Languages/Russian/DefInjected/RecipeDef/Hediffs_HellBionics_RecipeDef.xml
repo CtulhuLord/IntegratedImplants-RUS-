@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <InstallLeftExtraHellsawArm.label>Установить левую адскую пилу</InstallLeftExtraHellsawArm.label>
+    <InstallLeftExtraHellsawArm.description>Установить левую адскую пилу.</InstallLeftExtraHellsawArm.description>
+    <InstallLeftExtraHellsawArm.jobString>Устанавливает левую адскую пилу.</InstallLeftExtraHellsawArm.jobString>
+
+    <RemoveLeftExtraHellsawArm.label>Удалить левую адскую пилу</RemoveLeftExtraHellsawArm.label>
+    <RemoveLeftExtraHellsawArm.description>Удалить левую адскую пилу.</RemoveLeftExtraHellsawArm.description>
+    <RemoveLeftExtraHellsawArm.jobString>Удаляет левую адскую пилу.</RemoveLeftExtraHellsawArm.jobString>
+
+    <InstallRightExtraHellsawArm.label>Установить правую адскую пилу</InstallRightExtraHellsawArm.label>
+    <InstallRightExtraHellsawArm.description>Установить правую адскую пилу.</InstallRightExtraHellsawArm.description>
+    <InstallRightExtraHellsawArm.jobString>Устанавливает правую адскую пилу.</InstallRightExtraHellsawArm.jobString>
+
+    <RemoveRightExtraHellsawArm.label>Удалить правую адскую пилу</RemoveRightExtraHellsawArm.label>
+    <RemoveRightExtraHellsawArm.description>Удалить правую адскую пилу.</RemoveRightExtraHellsawArm.description>
+    <RemoveRightExtraHellsawArm.jobString>Удаляет правую адскую пилу.</RemoveRightExtraHellsawArm.jobString>
+
+    <InstallLeftExtraHelldrillArm.label>Установить левый адский бур</InstallLeftExtraHelldrillArm.label>
+    <InstallLeftExtraHelldrillArm.description>Установить левый адский бур.</InstallLeftExtraHelldrillArm.description>
+    <InstallLeftExtraHelldrillArm.jobString>Устанавливает левый адский бур.</InstallLeftExtraHelldrillArm.jobString>
+
+    <RemoveLeftExtraHelldrillArm.label>Удалить левый адский бур</RemoveLeftExtraHelldrillArm.label>
+    <RemoveLeftExtraHelldrillArm.description>Удалить левый адский бур.</RemoveLeftExtraHelldrillArm.description>
+    <RemoveLeftExtraHelldrillArm.jobString>Удаляет левый адский бур.</RemoveLeftExtraHelldrillArm.jobString>
+
+    <InstallRightExtraHelldrillArm.label>Установить правый адский бур</InstallRightExtraHelldrillArm.label>
+    <InstallRightExtraHelldrillArm.description>Установить правый адский бур.</InstallRightExtraHelldrillArm.description>
+    <InstallRightExtraHelldrillArm.jobString>Устанавливает правый адский бур.</InstallRightExtraHelldrillArm.jobString>
+
+    <RemoveRightExtraHelldrillArm.label>Удалить правый адский бур</RemoveRightExtraHelldrillArm.label>
+    <RemoveRightExtraHelldrillArm.description>Удалить правый адский бур.</RemoveRightExtraHelldrillArm.description>
+    <RemoveRightExtraHelldrillArm.jobString>Удаляет правый адский бур.</RemoveRightExtraHelldrillArm.jobString>
+
+    <InstallLeftExtraHellclawArm.label>Установить левый адский коготь</InstallLeftExtraHellclawArm.label>
+    <InstallLeftExtraHellclawArm.description>Установить левый адский коготь.</InstallLeftExtraHellclawArm.description>
+    <InstallLeftExtraHellclawArm.jobString>Устанавливает левый адский коготь.</InstallLeftExtraHellclawArm.jobString>
+
+    <RemoveLeftExtraHellclawArm.label>Удалить левый адский коготь</RemoveLeftExtraHellclawArm.label>
+    <RemoveLeftExtraHellclawArm.description>Удалить левый адский коготь.</RemoveLeftExtraHellclawArm.description>
+    <RemoveLeftExtraHellclawArm.jobString>Удаляет левый адский коготь.</RemoveLeftExtraHellclawArm.jobString>
+
+    <InstallRightExtraHellclawArm.label>Установить правый адский коготь</InstallRightExtraHellclawArm.label>
+    <InstallRightExtraHellclawArm.description>Установить правый адский коготь.</InstallRightExtraHellclawArm.description>
+    <InstallRightExtraHellclawArm.jobString>Устанавливает правый адский коготь.</InstallRightExtraHellclawArm.jobString>
+
+    <RemoveRightExtraHellclawArm.label>Удалить правый адский коготь</RemoveRightExtraHellclawArm.label>
+    <RemoveRightExtraHellclawArm.description>Удалить правый адский коготь.</RemoveRightExtraHellclawArm.description>
+    <RemoveRightExtraHellclawArm.jobString>Удаляет правый адский коготь.</RemoveRightExtraHellclawArm.jobString>
+</LanguageData>

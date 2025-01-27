@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <InstallDreadheart.label>Установить Страшное сердце</InstallDreadheart.label>
+    <InstallDreadheart.description>Установить Страшное сердце.</InstallDreadheart.description>
+    <InstallDreadheart.jobString>Установка Страшного сердца.</InstallDreadheart.jobString>
+
+    <RemoveDreadheart.label>Извлечь Страшное сердце</RemoveDreadheart.label>
+    <RemoveDreadheart.description>Извлечь Страшное сердце.</RemoveDreadheart.description>
+    <RemoveDreadheart.jobString>Извлечение Страшного сердца.</RemoveDreadheart.jobString>
+
+    <InstallPsychicAgonizer.label>Установить психический агонизатор</InstallPsychicAgonizer.label>
+    <InstallPsychicAgonizer.description>Установить психический агонизатор.</InstallPsychicAgonizer.description>
+    <InstallPsychicAgonizer.jobString>Установка психического агонизатора.</InstallPsychicAgonizer.jobString>
+
+    <RemovePsychicAgonizer.label>Извлечь психический агонизатор</RemovePsychicAgonizer.label>
+    <RemovePsychicAgonizer.description>Извлечь психический агонизатор.</RemovePsychicAgonizer.description>
+    <RemovePsychicAgonizer.jobString>Извлечение психического агонизатора.</RemovePsychicAgonizer.jobString>
+
+    <InstallBlacksightDevice.label>Установить устройство «Чёрное зрение»</InstallBlacksightDevice.label>
+    <InstallBlacksightDevice.description>Установить устройство «Чёрное зрение».</InstallBlacksightDevice.description>
+    <InstallBlacksightDevice.jobString>Установка устройства «Чёрное зрение».</InstallBlacksightDevice.jobString>
+
+    <RemoveBlacksightDevice.label>Извлечь устройство «Чёрное зрение»</RemoveBlacksightDevice.label>
+    <RemoveBlacksightDevice.description>Извлечь устройство «Чёрное зрение».</RemoveBlacksightDevice.description>
+    <RemoveBlacksightDevice.jobString>Извлечение устройства «Чёрное зрение».</RemoveBlacksightDevice.jobString>
+
+    <InstallPsychicBeguiler.label>Установить психический обольститель</InstallPsychicBeguiler.label>
+    <InstallPsychicBeguiler.description>Установить психический обольститель.</InstallPsychicBeguiler.description>
+    <InstallPsychicBeguiler.jobString>Установка психического обольстителя.</InstallPsychicBeguiler.jobString>
+
+    <RemovePsychicBeguiler.label>Извлечь психический обольститель</RemovePsychicBeguiler.label>
+    <RemovePsychicBeguiler.description>Извлечь психический обольститель.</RemovePsychicBeguiler.description>
+    <RemovePsychicBeguiler.jobString>Извлечение психического обольстителя.</RemovePsychicBeguiler.jobString>
+
+    <InstallMetalhorrorSymbiont.label>Установить симбионта «Металлоужас»</InstallMetalhorrorSymbiont.label>
+    <InstallMetalhorrorSymbiont.description>Установить симбионта «Металлоужас».</InstallMetalhorrorSymbiont.description>
+    <InstallMetalhorrorSymbiont.jobString>Установка симбионта «Металлоужас».</InstallMetalhorrorSymbiont.jobString>
+
+    <RemoveMetalhorrorSymbiont.label>Извлечь симбионта «Металлоужас»</RemoveMetalhorrorSymbiont.label>
+    <RemoveMetalhorrorSymbiont.description>Извлечь симбионта «Металлоужас».</RemoveMetalhorrorSymbiont.description>
+    <RemoveMetalhorrorSymbiont.jobString>Извлечение симбионта «Металлоужас».</RemoveMetalhorrorSymbiont.jobString>
+
+    <InstallDeacidifierMembrane.label>Установить мембрану-нейтрализатор кислоты</InstallDeacidifierMembrane.label>
+    <InstallDeacidifierMembrane.description>Установить мембрану-нейтрализатор кислоты.</InstallDeacidifierMembrane.description>
+    <InstallDeacidifierMembrane.jobString>Установка мембраны-нейтрализатора кислоты.</InstallDeacidifierMembrane.jobString>
+
+    <RemoveDeacidifierMembrane.label>Извлечь мембрану-нейтрализатор кислоты</RemoveDeacidifierMembrane.label>
+    <RemoveDeacidifierMembrane.description>Извлечь мембрану-нейтрализатор кислоты.</RemoveDeacidifierMembrane.description>
+    <RemoveDeacidifierMembrane.jobString>Извлечение мембраны-нейтрализатора кислоты.</RemoveDeacidifierMembrane.jobString>
+
+    <InstallDeadlifeCollar.label>Установить ошейник мёртвой жизни</InstallDeadlifeCollar.label>
+    <InstallDeadlifeCollar.description>Установить ошейник мёртвой жизни.</InstallDeadlifeCollar.description>
+    <InstallDeadlifeCollar.jobString>Установка ошейника мёртвой жизни.</InstallDeadlifeCollar.jobString>
+
+    <RemoveDeadlifeCollar.label>Извлечь ошейник мёртвой жизни</RemoveDeadlifeCollar.label>
+    <RemoveDeadlifeCollar.description>Извлечь ошейник мёртвой жизни.</RemoveDeadlifeCollar.description>
+    <RemoveDeadlifeCollar.jobString>Извлечение ошейника мёртвой жизни.</RemoveDeadlifeCollar.jobString>
+
+    <InstallDefensiveImpaler.label>Установить карающий шипомёт</InstallDefensiveImpaler.label>
+    <InstallDefensiveImpaler.description>Установить карающий шипомёт.</InstallDefensiveImpaler.description>
+    <InstallDefensiveImpaler.jobString>Установка карающего шипомёта.</InstallDefensiveImpaler.jobString>
+
+    <RemoveDefensiveImpaler.label>Извлечь карающий шипомёт</RemoveDefensiveImpaler.label>
+    <RemoveDefensiveImpaler.description>Извлечь карающий шипомёт.</RemoveDefensiveImpaler.description>
+    <RemoveDefensiveImpaler.jobString>Извлечение карающего шипомёта.</RemoveDefensiveImpaler.jobString>
+
+    <InstallHyperAdrenalineGland.label>Установить гипер-адреналиновую железу</InstallHyperAdrenalineGland.label>
+    <InstallHyperAdrenalineGland.description>Установить гипер-адреналиновую железу.</InstallHyperAdrenalineGland.description>
+    <InstallHyperAdrenalineGland.jobString>Установка гипер-адреналиновой железы.</InstallHyperAdrenalineGland.jobString>
+
+    <RemoveHyperAdrenalineGland.label>Извлечь гипер-адреналиновую железу</RemoveHyperAdrenalineGland.label>
+    <RemoveHyperAdrenalineGland.description>Извлечь гипер-адреналиновую железу.</RemoveHyperAdrenalineGland.description>
+    <RemoveHyperAdrenalineGland.jobString>Извлечение гипер-адреналиновой железы.</RemoveHyperAdrenalineGland.jobString>
+
+    <InstallSlayersCollar.label>Установить ошейник убийцы</InstallSlayersCollar.label>
+    <InstallSlayersCollar.description>Установить ошейник убийцы.</InstallSlayersCollar.description>
+    <InstallSlayersCollar.jobString>Установка ошейника убийцы.</InstallSlayersCollar.jobString>
+
+    <RemoveSlayersCollar.label>Извлечь ошейник убийцы</RemoveSlayersCollar.label>
+    <RemoveSlayersCollar.description>Извлечь ошейник убийцы.</RemoveSlayersCollar.description>
+    <RemoveSlayersCollar.jobString>Извлечение ошейника убийцы.</RemoveSlayersCollar.jobString>
+
+    <InstallPsychicSustainer.label>Установить психический жизнеобеспечитель</InstallPsychicSustainer.label>
+    <InstallPsychicSustainer.description>Установить психический жизнеобеспечитель.</InstallPsychicSustainer.description>
+    <InstallPsychicSustainer.jobString>Установка психического жизнеобеспечителя.</InstallPsychicSustainer.jobString>
+
+    <RemovePsychicSustainer.label>Извлечь психический жизнеобеспечитель</RemovePsychicSustainer.label>
+    <RemovePsychicSustainer.description>Извлечь психический жизнеобеспечитель.</RemovePsychicSustainer.description>
+    <RemovePsychicSustainer.jobString>Извлечение психического жизнеобеспечителя.</RemovePsychicSustainer.jobString>
+
+    <LTS_InstallVoidlink.label>Установить связь с Пустотой</LTS_InstallVoidlink.label>
+    <LTS_InstallVoidlink.description>Установить связь с Пустотой.</LTS_InstallVoidlink.description>
+    <LTS_InstallVoidlink.jobString>Установка связи с Пустотой.</LTS_InstallVoidlink.jobString>
+
+    <LTS_RemoveVoidlink.label>Извлечь связь с Пустотой</LTS_RemoveVoidlink.label>
+    <LTS_RemoveVoidlink.description>Извлечь связь с Пустотой.</LTS_RemoveVoidlink.description>
+    <LTS_RemoveVoidlink.jobString>Извлечение связи с Пустотой.</LTS_RemoveVoidlink.jobString>
+
+    <LTS_InstallPsychicReaper.label>Установить психического жнеца</LTS_InstallPsychicReaper.label>
+    <LTS_InstallPsychicReaper.description>Установить психического жнеца.</LTS_InstallPsychicReaper.description>
+    <LTS_InstallPsychicReaper.jobString>Установка психического жнеца.</LTS_InstallPsychicReaper.jobString>
+
+    <LTS_RemovePsychicReaper.label>Извлечь психического жнеца</LTS_RemovePsychicReaper.label>
+    <LTS_RemovePsychicReaper.description>Извлечь психического жнеца.</LTS_RemovePsychicReaper.description>
+    <LTS_RemovePsychicReaper.jobString>Извлечение психического жнеца.</LTS_RemovePsychicReaper.jobString>
+
+    <RemoveRevenantVertebrae.label>Извлечь позвонки ревенанта</RemoveRevenantVertebrae.label>
+    <RemoveRevenantVertebrae.description>Извлечь позвонки ревенанта.</RemoveRevenantVertebrae.description>
+    <RemoveRevenantVertebrae.jobString>Извлечение позвонков ревенанта.</RemoveRevenantVertebrae.jobString>
+
+    <HulkificationSurgery.label>Хирургия халкификации</HulkificationSurgery.label>
+    <HulkificationSurgery.description>Чудовищная мутация тела человека с помощью биоферрита. Выпирающая, опухолевидная мышечная масса и подавляющая, деформированная фигура наделяют жертву чудовищной силой ценой затрудненной, неровной походки и отвратительно ужасающего вида.</HulkificationSurgery.description>
+    <HulkificationSurgery.jobString>Проведение халкификации на TargetA.</HulkificationSurgery.jobString>
+
+    <StalkerizingSurgery.label>Хирургия иссушения</StalkerizingSurgery.label>
+    <StalkerizingSurgery.description>Чудовищная мутация тела человека с помощью биоферрита. Удлиненные кости, отсутствие жира и натянутая кожа наделяют жертву невероятной скоростью и делают ее смертоносной в безумной рукопашной схватке, но делают ее более уязвимой и придают ей вид иссохшего, огромного трупа.</StalkerizingSurgery.description>
+    <StalkerizingSurgery.jobString>Проведение иссушения на TargetA.</StalkerizingSurgery.jobString>
+
+    <NullificationLobotomy.label>Лоботомия подавления</NullificationLobotomy.label>
+    <NullificationLobotomy.description>Удаление части мозга человека, уничтожающее его психические рецепторы и делающее его невосприимчивым к воздействию психических явлений. Существует умеренный риск смерти в случае неудачи процедуры.</NullificationLobotomy.description>
+    <NullificationLobotomy.jobString>Проведение лоботомии подавления на TargetA.</NullificationLobotomy.jobString>
+
+    <DroneLobotomy.label>Сангвиническая лоботомия</DroneLobotomy.label>
+    <DroneLobotomy.description>Удаление части мозга человека, лишающее его способности чувствовать весь спектр человеческих эмоций. Он будет испытывать эмоции в гораздо более притупленном и отдаленном состоянии. Эта процедура ослабляет способность жертв к обучению и адаптации, и существует очень высокий риск смерти в случае неудачи процедуры.</DroneLobotomy.description>
+    <DroneLobotomy.jobString>Проведение сангвинической лоботомии на TargetA.</DroneLobotomy.jobString>
+</LanguageData>

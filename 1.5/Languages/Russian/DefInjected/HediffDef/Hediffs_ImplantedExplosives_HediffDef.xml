@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_ImplantedHighExplosive.label>Имплантированная фугасная бомба</LTS_ImplantedHighExplosive.label>
+    <LTS_ImplantedHighExplosive.labelNoun>Имплантированная фугасная бомба</LTS_ImplantedHighExplosive.labelNoun>
+    <LTS_ImplantedHighExplosive.description>Имплантированная фугасная бомба, предназначенная для нанесения значительного урона взрывной волной в небольшом радиусе.</LTS_ImplantedHighExplosive.description>
+
+    <LTS_ImplantedAntigrainWarhead.label>Имплантированная гранульная бомба</LTS_ImplantedAntigrainWarhead.label>
+    <LTS_ImplantedAntigrainWarhead.labelNoun>Имплантированная гранульная бомба</LTS_ImplantedAntigrainWarhead.labelNoun>
+    <LTS_ImplantedAntigrainWarhead.description>Имплантированная гранульная бомба, создающая мощный взрыв, способный пробить броню и нанести серьёзные повреждения внутренним органам.</LTS_ImplantedAntigrainWarhead.description>
+
+    <LTS_ImplantedIncendiary.label>Имплантированная зажигательная бомба</LTS_ImplantedIncendiary.label>
+    <LTS_ImplantedIncendiary.labelNoun>Имплантированная зажигательная бомба</LTS_ImplantedIncendiary.labelNoun>
+    <LTS_ImplantedIncendiary.description>Имплантированная зажигательная бомба, вызывающая сильный пожар в области взрыва.</LTS_ImplantedIncendiary.description>
+
+    <LTS_ImplantedSmoke.label>Имплантированная дымовая бомба</LTS_ImplantedSmoke.label>
+    <LTS_ImplantedSmoke.labelNoun>Имплантированная дымовая бомба</LTS_ImplantedSmoke.labelNoun>
+    <LTS_ImplantedSmoke.description>Имплантированная дымовая бомба, создающая густую дымовую завесу, затрудняющую обзор.</LTS_ImplantedSmoke.description>
+
+    <LTS_ImplantedFirefoam.label>Имплантированная бомба с противопожарной пеной</LTS_ImplantedFirefoam.label>
+    <LTS_ImplantedFirefoam.labelNoun>Имплантированная бомба с противопожарной пеной</LTS_ImplantedFirefoam.labelNoun>
+    <LTS_ImplantedFirefoam.description>Имплантированная бомба, распыляющая противопожарную пену для тушения огня в небольшом радиусе.</LTS_ImplantedFirefoam.description>
+
+    <LTS_ImplantedEMP.label>Имплантированная ЭМИ-бомба</LTS_ImplantedEMP.label>
+    <LTS_ImplantedEMP.labelNoun>Имплантированная ЭМИ-бомба</LTS_ImplantedEMP.labelNoun>
+    <LTS_ImplantedEMP.description>Имплантированная ЭМИ-бомба, генерирующая электромагнитный импульс, выводящий из строя электронику в определённом радиусе.</LTS_ImplantedEMP.description>
+
+    <LTS_ImplantedToxic.label>Имплантированная токсичная бомба</LTS_ImplantedToxic.label>
+    <LTS_ImplantedToxic.labelNoun>Имплантированная токсичная бомба</LTS_ImplantedToxic.labelNoun>
+    <LTS_ImplantedToxic.description>Имплантированная токсичная бомба, распыляющая облако ядовитых веществ, наносящих урон живым существам.</LTS_ImplantedToxic.description>
+
+    <LTS_ImplantedDeadlife.label>Имплантированная бомба с «Мёртвой жизнью»</LTS_ImplantedDeadlife.label>
+    <LTS_ImplantedDeadlife.labelNoun>Имплантированная бомба с «Мёртвой жизнью»</LTS_ImplantedDeadlife.labelNoun>
+    <LTS_ImplantedDeadlife.description>Имплантированная бомба с «Мёртвой жизнью», высвобождающая опасный биологический агент.</LTS_ImplantedDeadlife.description>
+
+    <LTS_ImplantedShrapnel.label>Имплантированная шрапнельная бомба</LTS_ImplantedShrapnel.label>
+    <LTS_ImplantedShrapnel.labelNoun>Имплантированная шрапнельная бомба</LTS_ImplantedShrapnel.labelNoun>
+    <LTS_ImplantedShrapnel.description>Имплантированная шрапнельная бомба, разбрасывающая осколки, наносящие урон множеству целей в области взрыва.</LTS_ImplantedShrapnel.description>
+
+    <LTS_ImplantedArmorPiercing.label>Имплантированная бронебойная бомба</LTS_ImplantedArmorPiercing.label>
+    <LTS_ImplantedArmorPiercing.labelNoun>Имплантированная бронебойная бомба</LTS_ImplantedArmorPiercing.labelNoun>
+    <LTS_ImplantedArmorPiercing.description>Имплантированная бронебойная бомба, предназначенная для пробития бронированных целей и нанесения урона внутренним структурам.</LTS_ImplantedArmorPiercing.description>
+
+    <LTS_ImplantedCluster.label>Имплантированная кассетная бомба</LTS_ImplantedCluster.label>
+    <LTS_ImplantedCluster.labelNoun>Имплантированная кассетная бомба</LTS_ImplantedCluster.labelNoun>
+    <LTS_ImplantedCluster.description>Имплантированная кассетная бомба, разбрасывающая множество мелких суббоеприпасов, поражающих большую площадь.</LTS_ImplantedCluster.description>
+</LanguageData>

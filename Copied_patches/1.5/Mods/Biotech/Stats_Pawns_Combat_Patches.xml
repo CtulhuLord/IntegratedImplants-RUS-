@@ -1,0 +1,44 @@
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd" MayRequire="ludeon.rimworld.biotech,Mlie.XNDTurretExtensions">
+                <xpath>/Defs/StatDef[defName="ShootingAccuracyPawn"]/parts</xpath>
+                <value>
+                    <li Class="StatPart_OverseerStatOffset">
+                        <stat>ShootingAccuracyPawnOffsetMech</stat>
+                        <label>Смещение от механитора</label>
+                    </li>
+                </value>
+            </li>
+            <li Class="PatchOperationAdd" MayRequire="ludeon.rimworld.biotech,Mlie.XNDTurretExtensions">
+                <xpath>/Defs/StatDef[defName="AimingDelayFactor"]/parts</xpath>
+                <value>
+                    <li Class="StatPart_OverseerStatOffset">
+                        <stat>AimingDelayFactorOffsetMech</stat>
+                        <label>Смещение от механитора</label>
+                    </li>
+                </value>
+            </li>
+            <li Class="PatchOperationAdd" MayRequire="ludeon.rimworld.biotech,Mlie.XNDTurretExtensions">
+                <xpath>/Defs/StatDef[defName="MeleeHitChance"]/parts</xpath>
+                <value>
+                    <li Class="StatPart_OverseerStatOffset">
+                        <stat>MeleeHitChanceOffsetMech</stat>
+                        <label>Смещение от механитора</label>
+                    </li>
+                </value>
+            </li>
+            <li Class="PatchOperationAdd" MayRequire="ludeon.rimworld.biotech,Mlie.XNDTurretExtensions">
+                <xpath>/Defs/StatDef[defName="MeleeDodgeChance"]</xpath>
+                <value>
+                    <parts>
+                        <li Class="StatPart_OverseerStatOffset">
+                            <stat>MeleeDodgeChanceOffsetMech</stat>
+                            <label>Смещение от механитора</label>
+                        </li>
+                    </parts>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

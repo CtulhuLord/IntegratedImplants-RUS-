@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LTS_Isopod.label>Механический изопод</LTS_Isopod.label>
+  <LTS_Isopod.corePart.parts.MechanicalHead.parts.sight_sensor.customLabel>Датчик зрения</LTS_Isopod.corePart.parts.MechanicalHead.parts.sight_sensor.customLabel>
+  <LTS_Isopod.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Левый слуховой датчик</LTS_Isopod.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <LTS_Isopod.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Правый слуховой датчик</LTS_Isopod.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+</LanguageData>

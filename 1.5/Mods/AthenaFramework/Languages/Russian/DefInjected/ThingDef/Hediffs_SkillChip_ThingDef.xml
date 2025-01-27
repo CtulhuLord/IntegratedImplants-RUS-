@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_SkillChipPort.label>Разъём для чипов навыков</LTS_SkillChipPort.label>
+    <LTS_SkillChipPort.description>Имплантированный нейронный интерфейс, способный предоставлять пользователю информацию, относящуюся к текущей ситуации. Такая информация хранится на чипах данных, которые можно свободно вставлять и извлекать. Этот разъём может вмещать по одному чипу навыка на каждый навык.</LTS_SkillChipPort.description>
+
+    <LTS_SpacerSkillChip_Melee.description>Усовершенствованный чип, содержащий большой объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +4 к соответствующему навыку.</LTS_SpacerSkillChip_Melee.description>
+    <LTS_SpacerSkillChip_Melee.label>Чип навыка (ближний бой)</LTS_SpacerSkillChip_Melee.label>
+
+    <LTS_UltraSkillChip_Melee.description>Ультратехнологичный чип, содержащий исчерпывающий объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +8 к соответствующему навыку.</LTS_UltraSkillChip_Melee.description>
+    <LTS_UltraSkillChip_Melee.label>Ультрачип навыка (ближний бой)</LTS_UltraSkillChip_Melee.label>
+
+    <LTS_SpacerSkillChip_Shooting.description>Усовершенствованный чип, содержащий большой объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +4 к соответствующему навыку.</LTS_SpacerSkillChip_Shooting.description>
+    <LTS_SpacerSkillChip_Shooting.label>Чип навыка (стрельба)</LTS_SpacerSkillChip_Shooting.label>
+
+    <LTS_UltraSkillChip_Shooting.description>Ультратехнологичный чип, содержащий исчерпывающий объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +8 к соответствующему навыку.</LTS_UltraSkillChip_Shooting.description>
+    <LTS_UltraSkillChip_Shooting.label>Ультрачип навыка (стрельба)</LTS_UltraSkillChip_Shooting.label>
+
+    <LTS_SpacerSkillChip_Construction.description>Усовершенствованный чип, содержащий большой объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +4 к соответствующему навыку.</LTS_SpacerSkillChip_Construction.description>
+    <LTS_SpacerSkillChip_Construction.label>Чип навыка (строительство)</LTS_SpacerSkillChip_Construction.label>
+
+    <LTS_UltraSkillChip_Construction.description>Ультратехнологичный чип, содержащий исчерпывающий объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +8 к соответствующему навыку.</LTS_UltraSkillChip_Construction.description>
+    <LTS_UltraSkillChip_Construction.label>Ультрачип навыка (строительство)</LTS_UltraSkillChip_Construction.label>
+
+    <LTS_SpacerSkillChip_Mining.description>Усовершенствованный чип, содержащий большой объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +4 к соответствующему навыку.</LTS_SpacerSkillChip_Mining.description>
+    <LTS_SpacerSkillChip_Mining.label>Чип навыка (горное дело)</LTS_SpacerSkillChip_Mining.label>
+
+    <LTS_UltraSkillChip_Mining.description>Ультратехнологичный чип, содержащий исчерпывающий объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +8 к соответствующему навыку.</LTS_UltraSkillChip_Mining.description>
+    <LTS_UltraSkillChip_Mining.label>Ультрачип навыка (горное дело)</LTS_UltraSkillChip_Mining.label>
+
+    <LTS_SpacerSkillChip_Cooking.description>Усовершенствованный чип, содержащий большой объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +4 к соответствующему навыку.</LTS_SpacerSkillChip_Cooking.description>
+    <LTS_SpacerSkillChip_Cooking.label>Чип навыка (кулинария)</LTS_SpacerSkillChip_Cooking.label>
+
+    <LTS_UltraSkillChip_Cooking.description>Ультратехнологичный чип, содержащий исчерпывающий объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +8 к соответствующему навыку.</LTS_UltraSkillChip_Cooking.description>
+    <LTS_UltraSkillChip_Cooking.label>Ультрачип навыка (кулинария)</LTS_UltraSkillChip_Cooking.label>
+
+    <LTS_SpacerSkillChip_Plants.description>Усовершенствованный чип, содержащий большой объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +4 к соответствующему навыку.</LTS_SpacerSkillChip_Plants.description>
+    <LTS_SpacerSkillChip_Plants.label>Чип навыка (растениеводство)</LTS_SpacerSkillChip_Plants.label>
+
+    <LTS_UltraSkillChip_Plants.description>Ультратехнологичный чип, содержащий исчерпывающий объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +8 к соответствующему навыку.</LTS_UltraSkillChip_Plants.description>
+    <LTS_UltraSkillChip_Plants.label>Ультрачип навыка (растениеводство)</LTS_UltraSkillChip_Plants.label>
+
+    <LTS_SpacerSkillChip_Animals.description>Усовершенствованный чип, содержащий большой объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +4 к соответствующему навыку.</LTS_SpacerSkillChip_Animals.description>
+    <LTS_SpacerSkillChip_Animals.label>Чип навыка (животноводство)</LTS_SpacerSkillChip_Animals.label>
+
+    <LTS_UltraSkillChip_Animals.description>Ультратехнологичный чип, содержащий исчерпывающий объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +8 к соответствующему навыку.</LTS_UltraSkillChip_Animals.description>
+    <LTS_UltraSkillChip_Animals.label>Ультрачип навыка (животноводство)</LTS_UltraSkillChip_Animals.label>
+
+    <LTS_SpacerSkillChip_Crafting.description>Усовершенствованный чип, содержащий большой объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +4 к соответствующему навыку.</LTS_SpacerSkillChip_Crafting.description>
+    <LTS_SpacerSkillChip_Crafting.label>Чип навыка (создание)</LTS_SpacerSkillChip_Crafting.label>
+
+    <LTS_UltraSkillChip_Crafting.description>Ультратехнологичный чип, содержащий исчерпывающий объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +8 к соответствующему навыку.</LTS_UltraSkillChip_Crafting.description>
+    <LTS_UltraSkillChip_Crafting.label>Ультрачип навыка (создание)</LTS_UltraSkillChip_Crafting.label>
+
+    <LTS_SpacerSkillChip_Artistic.description>Усовершенствованный чип, содержащий большой объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +4 к соответствующему навыку.</LTS_SpacerSkillChip_Artistic.description>
+    <LTS_SpacerSkillChip_Artistic.label>Чип навыка (искусство)</LTS_SpacerSkillChip_Artistic.label>
+
+    <LTS_UltraSkillChip_Artistic.description>Ультратехнологичный чип, содержащий исчерпывающий объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +8 к соответствующему навыку.</LTS_UltraSkillChip_Artistic.description>
+    <LTS_UltraSkillChip_Artistic.label>Ультрачип навыка (искусство)</LTS_UltraSkillChip_Artistic.label>
+
+    <LTS_SpacerSkillChip_Medicine.description>Усовершенствованный чип, содержащий большой объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +4 к соответствующему навыку.</LTS_SpacerSkillChip_Medicine.description>
+    <LTS_SpacerSkillChip_Medicine.label>Чип навыка (медицина)</LTS_SpacerSkillChip_Medicine.label>
+
+    <LTS_UltraSkillChip_Medicine.description>Ультратехнологичный чип, содержащий исчерпывающий объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +8 к соответствующему навыку.</LTS_UltraSkillChip_Medicine.description>
+    <LTS_UltraSkillChip_Medicine.label>Ультрачип навыка (медицина)</LTS_UltraSkillChip_Medicine.label>
+
+    <LTS_SpacerSkillChip_Social.description>Усовершенствованный чип, содержащий большой объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +4 к соответствующему навыку.</LTS_SpacerSkillChip_Social.description>
+    <LTS_SpacerSkillChip_Social.label>Чип навыка (общение)</LTS_SpacerSkillChip_Social.label>
+
+    <LTS_UltraSkillChip_Social.description>Ультратехнологичный чип, содержащий исчерпывающий объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +8 к соответствующему навыку.</LTS_UltraSkillChip_Social.description>
+    <LTS_UltraSkillChip_Social.label>Ультрачип навыка (общение)</LTS_UltraSkillChip_Social.label>
+
+    <LTS_SpacerSkillChip_Intellectual.description>Усовершенствованный чип, содержащий большой объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +4 к соответствующему навыку.</LTS_SpacerSkillChip_Intellectual.description>
+    <LTS_SpacerSkillChip_Intellectual.label>Чип навыка (интеллект)</LTS_SpacerSkillChip_Intellectual.label>
+
+    <LTS_UltraSkillChip_Intellectual.description>Ультратехнологичный чип, содержащий исчерпывающий объем технических данных, связанных с определенным навыком. Требует имплантации разъёма для чипов для установки и извлечения.\n\nЭтот уровень чипа дает +8 к соответствующему навыку.</LTS_UltraSkillChip_Intellectual.description>
+    <LTS_UltraSkillChip_Intellectual.label>Ультрачип навыка (интеллект)</LTS_UltraSkillChip_Intellectual.label>
+</LanguageData>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LeftExtraFSFAdvBionicArm.label>Левая дополнительная усовершенствованная бионическая рука</LeftExtraFSFAdvBionicArm.label>
+    <LeftExtraFSFAdvBionicArm.labelNoun>Левая дополнительная усовершенствованная бионическая рука</LeftExtraFSFAdvBionicArm.labelNoun>
+    <LeftExtraFSFAdvBionicArm.description>Дополнительная усовершенствованная бионическая рука, прикрепленная к торсу.</LeftExtraFSFAdvBionicArm.description>
+    <LeftExtraFSFAdvBionicArm.stages.0.label>Неуклюжий</LeftExtraFSFAdvBionicArm.stages.0.label>
+    <LeftExtraFSFAdvBionicArm.stages.1.label>Неудобный</LeftExtraFSFAdvBionicArm.stages.1.label>
+    <LeftExtraFSFAdvBionicArm.stages.2.label>Привычный</LeftExtraFSFAdvBionicArm.stages.2.label>
+    <LeftExtraFSFAdvBionicArm.stages.3.label>Как родной</LeftExtraFSFAdvBionicArm.stages.3.label>
+    <LeftExtraFSFAdvBionicArm.comps.1.tools.0.label>Кулак</LeftExtraFSFAdvBionicArm.comps.1.tools.0.label>
+    
+    <RightExtraFSFAdvBionicArm.label>Правая дополнительная усовершенствованная бионическая рука</RightExtraFSFAdvBionicArm.label>
+    <RightExtraFSFAdvBionicArm.labelNoun>Правая дополнительная усовершенствованная бионическая рука</RightExtraFSFAdvBionicArm.labelNoun>
+    <RightExtraFSFAdvBionicArm.description>Дополнительная усовершенствованная бионическая рука, прикрепленная к торсу.</RightExtraFSFAdvBionicArm.description>
+    <RightExtraFSFAdvBionicArm.stages.0.label>Неуклюжий</RightExtraFSFAdvBionicArm.stages.0.label>
+    <RightExtraFSFAdvBionicArm.stages.1.label>Неудобный</RightExtraFSFAdvBionicArm.stages.1.label>
+    <RightExtraFSFAdvBionicArm.stages.2.label>Привычный</RightExtraFSFAdvBionicArm.stages.2.label>
+    <RightExtraFSFAdvBionicArm.stages.3.label>Как родной</RightExtraFSFAdvBionicArm.stages.3.label>
+    <RightExtraFSFAdvBionicArm.comps.1.tools.0.label>Кулак</RightExtraFSFAdvBionicArm.comps.1.tools.0.label>
+    
+    <LeftExtraFSFAdvBionicPowerArm.label>Левая дополнительная усовершенствованная силовая рука</LeftExtraFSFAdvBionicPowerArm.label>
+    <LeftExtraFSFAdvBionicPowerArm.labelNoun>Левая дополнительная усовершенствованная силовая рука</LeftExtraFSFAdvBionicPowerArm.labelNoun>
+    <LeftExtraFSFAdvBionicPowerArm.description>Дополнительная усовершенствованная бионическая силовая рука, прикрепленная к торсу.</LeftExtraFSFAdvBionicPowerArm.description>
+    <LeftExtraFSFAdvBionicPowerArm.stages.0.label>Неуклюжий</LeftExtraFSFAdvBionicPowerArm.stages.0.label>
+    <LeftExtraFSFAdvBionicPowerArm.stages.1.label>Неудобный</LeftExtraFSFAdvBionicPowerArm.stages.1.label>
+    <LeftExtraFSFAdvBionicPowerArm.stages.2.label>Привычный</LeftExtraFSFAdvBionicPowerArm.stages.2.label>
+    <LeftExtraFSFAdvBionicPowerArm.stages.3.label>Как родной</LeftExtraFSFAdvBionicPowerArm.stages.3.label>
+    <LeftExtraFSFAdvBionicPowerArm.comps.1.tools.0.label>Кулак</LeftExtraFSFAdvBionicPowerArm.comps.1.tools.0.label>
+    <LeftExtraFSFAdvBionicPowerArm.comps.1.tools.1.label>Лезвие</LeftExtraFSFAdvBionicPowerArm.comps.1.tools.1.label>
+    <LeftExtraFSFAdvBionicPowerArm.comps.1.tools.2.label>Острие</LeftExtraFSFAdvBionicPowerArm.comps.1.tools.2.label>
+    
+    <RightExtraFSFAdvBionicPowerArm.label>Правая дополнительная усовершенствованная силовая рука</RightExtraFSFAdvBionicPowerArm.label>
+    <RightExtraFSFAdvBionicPowerArm.labelNoun>Правая дополнительная усовершенствованная силовая рука</RightExtraFSFAdvBionicPowerArm.labelNoun>
+    <RightExtraFSFAdvBionicPowerArm.description>Дополнительная усовершенствованная бионическая силовая рука, прикрепленная к торсу.</RightExtraFSFAdvBionicPowerArm.description>
+    <RightExtraFSFAdvBionicPowerArm.stages.0.label>Неуклюжий</RightExtraFSFAdvBionicPowerArm.stages.0.label>
+    <RightExtraFSFAdvBionicPowerArm.stages.1.label>Неудобный</RightExtraFSFAdvBionicPowerArm.stages.1.label>
+    <RightExtraFSFAdvBionicPowerArm.stages.2.label>Привычный</RightExtraFSFAdvBionicPowerArm.stages.2.label>
+    <RightExtraFSFAdvBionicPowerArm.stages.3.label>Как родной</RightExtraFSFAdvBionicPowerArm.stages.3.label>
+    <RightExtraFSFAdvBionicPowerArm.comps.1.tools.0.label>Кулак</RightExtraFSFAdvBionicPowerArm.comps.1.tools.0.label>
+    <RightExtraFSFAdvBionicPowerArm.comps.1.tools.1.label>Лезвие</RightExtraFSFAdvBionicPowerArm.comps.1.tools.1.label>
+    <RightExtraFSFAdvBionicPowerArm.comps.1.tools.2.label>Острие</RightExtraFSFAdvBionicPowerArm.comps.1.tools.2.label>
+    
+    <LeftExtraFSFAdvBionicBreachArm.label>Левая дополнительная усовершенствованная пробивная рука</LeftExtraFSFAdvBionicBreachArm.label>
+    <LeftExtraFSFAdvBionicBreachArm.labelNoun>Левая дополнительная усовершенствованная пробивная рука</LeftExtraFSFAdvBionicBreachArm.labelNoun>
+    <LeftExtraFSFAdvBionicBreachArm.description>Дополнительная усовершенствованная бионическая пробивная рука, прикрепленная к торсу.</LeftExtraFSFAdvBionicBreachArm.description>
+    <LeftExtraFSFAdvBionicBreachArm.stages.0.label>Неуклюжий</LeftExtraFSFAdvBionicBreachArm.stages.0.label>
+    <LeftExtraFSFAdvBionicBreachArm.stages.1.label>Неудобный</LeftExtraFSFAdvBionicBreachArm.stages.1.label>
+    <LeftExtraFSFAdvBionicBreachArm.stages.2.label>Привычный</LeftExtraFSFAdvBionicBreachArm.stages.2.label>
+    <LeftExtraFSFAdvBionicBreachArm.stages.3.label>Как родной</LeftExtraFSFAdvBionicBreachArm.stages.3.label>
+    <LeftExtraFSFAdvBionicBreachArm.comps.1.tools.0.label>Кулак</LeftExtraFSFAdvBionicBreachArm.comps.1.tools.0.label>
+    
+    <RightExtraFSFAdvBionicBreachArm.label>Правая дополнительная усовершенствованная пробивная рука</RightExtraFSFAdvBionicBreachArm.label>
+    <RightExtraFSFAdvBionicBreachArm.labelNoun>Правая дополнительная усовершенствованная пробивная рука</RightExtraFSFAdvBionicBreachArm.labelNoun>
+    <RightExtraFSFAdvBionicBreachArm.description>Дополнительная усовершенствованная бионическая пробивная рука, прикрепленная к торсу.</RightExtraFSFAdvBionicBreachArm.description>
+    <RightExtraFSFAdvBionicBreachArm.stages.0.label>Неуклюжий</RightExtraFSFAdvBionicBreachArm.stages.0.label>
+    <RightExtraFSFAdvBionicBreachArm.stages.1.label>Неудобный</RightExtraFSFAdvBionicBreachArm.stages.1.label>
+    <RightExtraFSFAdvBionicBreachArm.stages.2.label>Привычный</RightExtraFSFAdvBionicBreachArm.stages.2.label>
+    <RightExtraFSFAdvBionicBreachArm.stages.3.label>Как родной</RightExtraFSFAdvBionicBreachArm.stages.3.label>
+    <RightExtraFSFAdvBionicBreachArm.comps.1.tools.0.label>Кулак</RightExtraFSFAdvBionicBreachArm.comps.1.tools.0.label>
+    
+    <LeftExtraFSFAdvBionicTaserArm.label>Левая дополнительная усовершенствованная электрошоковая рука</LeftExtraFSFAdvBionicTaserArm.label>
+    <LeftExtraFSFAdvBionicTaserArm.labelNoun>Левая дополнительная усовершенствованная электрошоковая рука</LeftExtraFSFAdvBionicTaserArm.labelNoun>
+    <LeftExtraFSFAdvBionicTaserArm.description>Дополнительная усовершенствованная бионическая электрошоковая рука, прикрепленная к торсу.</LeftExtraFSFAdvBionicTaserArm.description>
+    <LeftExtraFSFAdvBionicTaserArm.stages.0.label>Неуклюжий</LeftExtraFSFAdvBionicTaserArm.stages.0.label>
+    <LeftExtraFSFAdvBionicTaserArm.stages.1.label>Неудобный</LeftExtraFSFAdvBionicTaserArm.stages.1.label>
+    <LeftExtraFSFAdvBionicTaserArm.stages.2.label>Привычный</LeftExtraFSFAdvBionicTaserArm.stages.2.label>
+    <LeftExtraFSFAdvBionicTaserArm.stages.3.label>Как родной</LeftExtraFSFAdvBionicTaserArm.stages.3.label>
+    <LeftExtraFSFAdvBionicTaserArm.comps.1.tools.0.label>Кулак</LeftExtraFSFAdvBionicTaserArm.comps.1.tools.0.label>
+    
+    <RightExtraFSFAdvBionicTaserArm.label>Правая дополнительная усовершенствованная электрошоковая рука</RightExtraFSFAdvBionicTaserArm.label>
+    <RightExtraFSFAdvBionicTaserArm.labelNoun>Правая дополнительная усовершенствованная электрошоковая рука</RightExtraFSFAdvBionicTaserArm.labelNoun>
+    <RightExtraFSFAdvBionicTaserArm.description>Дополнительная усовершенствованная бионическая электрошоковая рука, прикрепленная к торсу.</RightExtraFSFAdvBionicTaserArm.description>
+    <RightExtraFSFAdvBionicTaserArm.stages.0.label>Неуклюжий</RightExtraFSFAdvBionicTaserArm.stages.0.label>
+    <RightExtraFSFAdvBionicTaserArm.stages.1.label>Неудобный</RightExtraFSFAdvBionicTaserArm.stages.1.label>
+    <RightExtraFSFAdvBionicTaserArm.stages.2.label>Привычный</RightExtraFSFAdvBionicTaserArm.stages.2.label>
+    <RightExtraFSFAdvBionicTaserArm.stages.3.label>Как родной</RightExtraFSFAdvBionicTaserArm.stages.3.label>
+    <RightExtraFSFAdvBionicTaserArm.comps.1.tools.0.label>Кулак</RightExtraFSFAdvBionicTaserArm.comps.1.tools.0.label>
+    
+    <LeftExtraFSFAdvBionicConstructionArm.label>Левая дополнительная усовершенствованная строительная рука</LeftExtraFSFAdvBionicConstructionArm.label>
+    <LeftExtraFSFAdvBionicConstructionArm.labelNoun>Левая дополнительная усовершенствованная строительная рука</LeftExtraFSFAdvBionicConstructionArm.labelNoun>
+    <LeftExtraFSFAdvBionicConstructionArm.description>Дополнительная усовершенствованная бионическая строительная рука, прикрепленная к торсу.</LeftExtraFSFAdvBionicConstructionArm.description>
+    <LeftExtraFSFAdvBionicConstructionArm.stages.0.label>Неуклюжий</LeftExtraFSFAdvBionicConstructionArm.stages.0.label>
+    <LeftExtraFSFAdvBionicConstructionArm.stages.1.label>Неудобный</LeftExtraFSFAdvBionicConstructionArm.stages.1.label>
+    <LeftExtraFSFAdvBionicConstructionArm.stages.2.label>Привычный</LeftExtraFSFAdvBionicConstructionArm.stages.2.label>
+    <LeftExtraFSFAdvBionicConstructionArm.stages.3.label>Как родной</LeftExtraFSFAdvBionicConstructionArm.stages.3.label>
+    <LeftExtraFSFAdvBionicConstructionArm.comps.1.tools.0.label>Кулак</LeftExtraFSFAdvBionicConstructionArm.comps.1.tools.0.label>
+    
+	<RightExtraFSFAdvBionicConstructionArm.label>Правая дополнительная усовершенствованная строительная рука</RightExtraFSFAdvBionicConstructionArm.label>
+	<RightExtraFSFAdvBionicConstructionArm.labelNoun>Правая дополнительная усовершенствованная строительная рука</RightExtraFSFAdvBionicConstructionArm.labelNoun>
+	<RightExtraFSFAdvBionicConstructionArm.description>Дополнительная усовершенствованная бионическая строительная рука, прикрепленная к торсу.</RightExtraFSFAdvBionicConstructionArm.description>
+	<RightExtraFSFAdvBionicConstructionArm.stages.0.label>Неуклюжий</RightExtraFSFAdvBionicConstructionArm.stages.0.label>
+	<RightExtraFSFAdvBionicConstructionArm.stages.1.label>Неудобный</RightExtraFSFAdvBionicConstructionArm.stages.1.label>
+	<RightExtraFSFAdvBionicConstructionArm.stages.2.label>Привычный</RightExtraFSFAdvBionicConstructionArm.stages.2.label>
+	<RightExtraFSFAdvBionicConstructionArm.stages.3.label>Как родной</RightExtraFSFAdvBionicConstructionArm.stages.3.label>
+	<RightExtraFSFAdvBionicConstructionArm.comps.1.tools.0.label>Кулак</RightExtraFSFAdvBionicConstructionArm.comps.1.tools.0.label>
+
+	<LeftExtraFSFAdvBionicDrillArm.label>Левая дополнительная усовершенствованная рука шахтёра</LeftExtraFSFAdvBionicDrillArm.label>
+	<LeftExtraFSFAdvBionicDrillArm.labelNoun>Левая дополнительная усовершенствованная рука шахтёра</LeftExtraFSFAdvBionicDrillArm.labelNoun>
+	<LeftExtraFSFAdvBionicDrillArm.description>Дополнительная усовершенствованная бионическая рука шахтёра, прикрепленная к торсу.</LeftExtraFSFAdvBionicDrillArm.description>
+	<LeftExtraFSFAdvBionicDrillArm.stages.0.label>Неуклюжий</LeftExtraFSFAdvBionicDrillArm.stages.0.label>
+	<LeftExtraFSFAdvBionicDrillArm.stages.1.label>Неудобный</LeftExtraFSFAdvBionicDrillArm.stages.1.label>
+	<LeftExtraFSFAdvBionicDrillArm.stages.2.label>Привычный</LeftExtraFSFAdvBionicDrillArm.stages.2.label>
+	<LeftExtraFSFAdvBionicDrillArm.stages.3.label>Как родной</LeftExtraFSFAdvBionicDrillArm.stages.3.label>
+	<LeftExtraFSFAdvBionicDrillArm.comps.1.tools.0.label>Сверло</LeftExtraFSFAdvBionicDrillArm.comps.1.tools.0.label>
+
+	<RightExtraFSFAdvBionicDrillArm.label>Правая дополнительная усовершенствованная рука шахтёра</RightExtraFSFAdvBionicDrillArm.label>
+	<RightExtraFSFAdvBionicDrillArm.labelNoun>Правая дополнительная усовершенствованная рука шахтёра</RightExtraFSFAdvBionicDrillArm.labelNoun>
+	<RightExtraFSFAdvBionicDrillArm.description>Дополнительная усовершенствованная бионическая рука шахтёра, прикрепленная к торсу.</RightExtraFSFAdvBionicDrillArm.description>
+	<RightExtraFSFAdvBionicDrillArm.stages.0.label>Неуклюжий</RightExtraFSFAdvBionicDrillArm.stages.0.label>
+	<RightExtraFSFAdvBionicDrillArm.stages.1.label>Неудобный</RightExtraFSFAdvBionicDrillArm.stages.1.label>
+	<RightExtraFSFAdvBionicDrillArm.stages.2.label>Привычный</RightExtraFSFAdvBionicDrillArm.stages.2.label>
+	<RightExtraFSFAdvBionicDrillArm.stages.3.label>Как родной</RightExtraFSFAdvBionicDrillArm.stages.3.label>
+	<RightExtraFSFAdvBionicDrillArm.comps.1.tools.0.label>Сверло</RightExtraFSFAdvBionicDrillArm.comps.1.tools.0.label>
+
+	<LeftExtraFSFAdvBionicFieldArm.label>Левая дополнительная усовершенствованная аграрная рука</LeftExtraFSFAdvBionicFieldArm.label>
+	<LeftExtraFSFAdvBionicFieldArm.labelNoun>Левая дополнительная усовершенствованная аграрная рука</LeftExtraFSFAdvBionicFieldArm.labelNoun>
+	<LeftExtraFSFAdvBionicFieldArm.description>Дополнительная усовершенствованная бионическая аграрная рука, прикрепленная к торсу.</LeftExtraFSFAdvBionicFieldArm.description>
+	<LeftExtraFSFAdvBionicFieldArm.stages.0.label>Неуклюжий</LeftExtraFSFAdvBionicFieldArm.stages.0.label>
+	<LeftExtraFSFAdvBionicFieldArm.stages.1.label>Неудобный</LeftExtraFSFAdvBionicFieldArm.stages.1.label>
+	<LeftExtraFSFAdvBionicFieldArm.stages.2.label>Привычный</LeftExtraFSFAdvBionicFieldArm.stages.2.label>
+	<LeftExtraFSFAdvBionicFieldArm.stages.3.label>Как родной</LeftExtraFSFAdvBionicFieldArm.stages.3.label>
+	<LeftExtraFSFAdvBionicFieldArm.comps.1.tools.0.label>Манипулятор</LeftExtraFSFAdvBionicFieldArm.comps.1.tools.0.label>
+
+	<RightExtraFSFAdvBionicFieldArm.label>Правая дополнительная усовершенствованная аграрная рука</RightExtraFSFAdvBionicFieldArm.label>
+	<RightExtraFSFAdvBionicFieldArm.labelNoun>Правая дополнительная усовершенствованная аграрная рука</RightExtraFSFAdvBionicFieldArm.labelNoun>
+	<RightExtraFSFAdvBionicFieldArm.description>Дополнительная усовершенствованная бионическая аграрная рука, прикрепленная к торсу.</RightExtraFSFAdvBionicFieldArm.description>
+	<RightExtraFSFAdvBionicFieldArm.stages.0.label>Неуклюжий</RightExtraFSFAdvBionicFieldArm.stages.0.label>
+	<RightExtraFSFAdvBionicFieldArm.stages.1.label>Неудобный</RightExtraFSFAdvBionicFieldArm.stages.1.label>
+	<RightExtraFSFAdvBionicFieldArm.stages.2.label>Привычный</RightExtraFSFAdvBionicFieldArm.stages.2.label>
+	<RightExtraFSFAdvBionicFieldArm.stages.3.label>Как родной</RightExtraFSFAdvBionicFieldArm.stages.3.label>
+	<RightExtraFSFAdvBionicFieldArm.comps.1.tools.0.label>Манипулятор</RightExtraFSFAdvBionicFieldArm.comps.1.tools.0.label>
+
+	<LeftExtraFSFAdvBionicMedicArm.label>Левая дополнительная усовершенствованная медецинская рука</LeftExtraFSFAdvBionicMedicArm.label>
+	<LeftExtraFSFAdvBionicMedicArm.labelNoun>Левая дополнительная усовершенствованная медецинская рука</LeftExtraFSFAdvBionicMedicArm.labelNoun>
+	<LeftExtraFSFAdvBionicMedicArm.description>Дополнительная усовершенствованная бионическая медицинская рука, прикрепленная к торсу.</LeftExtraFSFAdvBionicMedicArm.description>
+	<LeftExtraFSFAdvBionicMedicArm.stages.0.label>Неуклюжий</LeftExtraFSFAdvBionicMedicArm.stages.0.label>
+	<LeftExtraFSFAdvBionicMedicArm.stages.1.label>Неудобный</LeftExtraFSFAdvBionicMedicArm.stages.1.label>
+	<LeftExtraFSFAdvBionicMedicArm.stages.2.label>Привычный</LeftExtraFSFAdvBionicMedicArm.stages.2.label>
+	<LeftExtraFSFAdvBionicMedicArm.stages.3.label>Как родной</LeftExtraFSFAdvBionicMedicArm.stages.3.label>
+	<LeftExtraFSFAdvBionicMedicArm.comps.1.tools.0.label>Кулак</LeftExtraFSFAdvBionicMedicArm.comps.1.tools.0.label>
+
+	<RightExtraFSFAdvBionicMedicArm.label>Правая дополнительная усовершенствованная медецинская рука</RightExtraFSFAdvBionicMedicArm.label>
+	<RightExtraFSFAdvBionicMedicArm.labelNoun>Правая дополнительная усовершенствованная медецинская рука</RightExtraFSFAdvBionicMedicArm.labelNoun>
+	<RightExtraFSFAdvBionicMedicArm.description>Дополнительная усовершенствованная бионическая медицинская рука, прикрепленная к торсу.</RightExtraFSFAdvBionicMedicArm.description>
+	<RightExtraFSFAdvBionicMedicArm.stages.0.label>Неуклюжий</RightExtraFSFAdvBionicMedicArm.stages.0.label>
+	<RightExtraFSFAdvBionicMedicArm.stages.1.label>Неудобный</RightExtraFSFAdvBionicMedicArm.stages.1.label>
+	<RightExtraFSFAdvBionicMedicArm.stages.2.label>Привычный</RightExtraFSFAdvBionicMedicArm.stages.2.label>
+	<RightExtraFSFAdvBionicMedicArm.stages.3.label>Как родной</RightExtraFSFAdvBionicMedicArm.stages.3.label>
+	<RightExtraFSFAdvBionicMedicArm.comps.1.tools.0.label>Кулак</RightExtraFSFAdvBionicMedicArm.comps.1.tools.0.label>
+
+	<LeftExtraFSFArchotechMedicArm.label>Левая дополнительная архотек медецинская рука</LeftExtraFSFArchotechMedicArm.label>
+	<LeftExtraFSFArchotechMedicArm.labelNoun>Левая дополнительная архотек медецинская рука</LeftExtraFSFArchotechMedicArm.labelNoun>
+	<LeftExtraFSFArchotechMedicArm.description>Дополнительная архотек медецинская рука, прикрепленная к торсу.</LeftExtraFSFArchotechMedicArm.description>
+	<LeftExtraFSFArchotechMedicArm.comps.0.tools.0.label>Кулак</LeftExtraFSFArchotechMedicArm.comps.0.tools.0.label>
+
+	<RightExtraFSFArchotechMedicArm.label>Правая дополнительная архотек медецинская рука</RightExtraFSFArchotechMedicArm.label>
+	<RightExtraFSFArchotechMedicArm.labelNoun>Правая дополнительная архотек медецинская рука</RightExtraFSFArchotechMedicArm.labelNoun>
+	<RightExtraFSFArchotechMedicArm.description>Дополнительная архотек медецинская рука, прикрепленная к торсу.</RightExtraFSFArchotechMedicArm.description>
+	<RightExtraFSFArchotechMedicArm.comps.0.tools.0.label>Кулак</RightExtraFSFArchotechMedicArm.comps.0.tools.0.label>
+
+	<LeftExtraFSFArchotechPowerArm.label>Левая дополнительная архотек силовая рука</LeftExtraFSFArchotechPowerArm.label>
+	<LeftExtraFSFArchotechPowerArm.labelNoun>Левая дополнительная архотек силовая рука</LeftExtraFSFArchotechPowerArm.labelNoun>
+	<LeftExtraFSFArchotechPowerArm.description>Дополнительная архотек силовая рука, прикрепленная к торсу.</LeftExtraFSFArchotechPowerArm.description>
+	<LeftExtraFSFArchotechPowerArm.comps.0.tools.0.label>Кулак</LeftExtraFSFArchotechPowerArm.comps.0.tools.0.label>
+	<LeftExtraFSFArchotechPowerArm.comps.0.tools.1.label>Лезвие</LeftExtraFSFArchotechPowerArm.comps.0.tools.1.label>
+	<LeftExtraFSFArchotechPowerArm.comps.0.tools.2.label>Острие</LeftExtraFSFArchotechPowerArm.comps.0.tools.2.label>
+
+	<RightExtraFSFArchotechPowerArm.label>Правая дополнительная архотек силовая рука</RightExtraFSFArchotechPowerArm.label>
+	<RightExtraFSFArchotechPowerArm.labelNoun>Правая дополнительная архотек силовая рука</RightExtraFSFArchotechPowerArm.labelNoun>
+	<RightExtraFSFArchotechPowerArm.description>Дополнительная архотек силовая рука, прикрепленная к торсу.</RightExtraFSFArchotechPowerArm.description>
+	<RightExtraFSFArchotechPowerArm.comps.0.tools.0.label>Кулак</RightExtraFSFArchotechPowerArm.comps.0.tools.0.label>
+	<RightExtraFSFArchotechPowerArm.comps.0.tools.1.label>Лезвие</RightExtraFSFArchotechPowerArm.comps.0.tools.1.label>
+	<RightExtraFSFArchotechPowerArm.comps.0.tools.2.label>Острие</RightExtraFSFArchotechPowerArm.comps.0.tools.2.label>
+</LanguageData>

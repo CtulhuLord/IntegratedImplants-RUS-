@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_InstallFaceplateArachnid.label>Установить бионическую лицевую пластину «Арахнид»</LTS_InstallFaceplateArachnid.label>
+    <LTS_InstallFaceplateArachnid.description>Установить бионическую лицевую пластину «Арахнид».</LTS_InstallFaceplateArachnid.description>
+    <LTS_InstallFaceplateArachnid.jobString>Устанавливает бионическую лицевую пластину «Арахнид».</LTS_InstallFaceplateArachnid.jobString>
+
+    <LTS_RemoveFaceplateArachnid.label>Удалить бионическую лицевую пластину «Арахнид»</LTS_RemoveFaceplateArachnid.label>
+    <LTS_RemoveFaceplateArachnid.description>Удалить бионическую лицевую пластину «Арахнид».</LTS_RemoveFaceplateArachnid.description>
+    <LTS_RemoveFaceplateArachnid.jobString>Удаляет бионическую лицевую пластину «Арахнид».</LTS_RemoveFaceplateArachnid.jobString>
+
+    <LTS_InstallVanguard.label>Установить ускоритель «Авангард»</LTS_InstallVanguard.label>
+    <LTS_InstallVanguard.description>Установить ускоритель «Авангард».</LTS_InstallVanguard.description>
+    <LTS_InstallVanguard.jobString>Устанавливает ускоритель «Авангард».</LTS_InstallVanguard.jobString>
+
+    <LTS_RemoveVanguard.label>Удалить ускоритель «Авангард»</LTS_RemoveVanguard.label>
+    <LTS_RemoveVanguard.description>Удалить ускоритель «Авангард».</LTS_RemoveVanguard.description>
+    <LTS_RemoveVanguard.jobString>Удаляет ускоритель «Авангард».</LTS_RemoveVanguard.jobString>
+</LanguageData>

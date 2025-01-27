@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <InstallHemoFangs.label>Установить гемо-клыки</InstallHemoFangs.label>
+    <InstallHemoFangs.description>Установить гемо-клыки.</InstallHemoFangs.description>
+    <InstallHemoFangs.jobString>Установка гемо-клыков.</InstallHemoFangs.jobString>
+
+    <RemoveHemoFangs.label>Удалить гемо-клыки</RemoveHemoFangs.label>
+    <RemoveHemoFangs.description>Удалить гемо-клыки.</RemoveHemoFangs.description>
+    <RemoveHemoFangs.jobString>Удаление гемо-клыков.</RemoveHemoFangs.jobString>
+
+    <InstallHemogenicMicrocompressor.label>Установить гемогенный микрокомпрессор</InstallHemogenicMicrocompressor.label>
+    <InstallHemogenicMicrocompressor.description>Установить гемогенный микрокомпрессор.</InstallHemogenicMicrocompressor.description>
+    <InstallHemogenicMicrocompressor.jobString>Установка гемогенного микрокомпрессора.</InstallHemogenicMicrocompressor.jobString>
+
+    <RemoveHemogenicMicrocompressor.label>Удалить гемогенный микрокомпрессор</RemoveHemogenicMicrocompressor.label>
+    <RemoveHemogenicMicrocompressor.description>Удалить гемогенный микрокомпрессор.</RemoveHemogenicMicrocompressor.description>
+    <RemoveHemogenicMicrocompressor.jobString>Удаление гемогенного микрокомпрессора.</RemoveHemogenicMicrocompressor.jobString>
+
+    <InstallHemogenicActivator.label>Установить гемогенный активатор</InstallHemogenicActivator.label>
+    <InstallHemogenicActivator.description>Установить гемогенный активатор.</InstallHemogenicActivator.description>
+    <InstallHemogenicActivator.jobString>Установка гемогенного активатора.</InstallHemogenicActivator.jobString>
+
+    <RemoveHemogenicActivator.label>Удалить гемогенный активатор</RemoveHemogenicActivator.label>
+    <RemoveHemogenicActivator.description>Удалить гемогенный активатор.</RemoveHemogenicActivator.description>
+    <RemoveHemogenicActivator.jobString>Удаление гемогенного активатора.</RemoveHemogenicActivator.jobString>
+
+    <InstallDeathrestCapacitor.label>Установить конденсатор смертосна</InstallDeathrestCapacitor.label>
+    <InstallDeathrestCapacitor.description>Установить конденсатор смертосна.</InstallDeathrestCapacitor.description>
+    <InstallDeathrestCapacitor.jobString>Установка конденсатора смертосна.</InstallDeathrestCapacitor.jobString>
+
+    <RemoveDeathrestCapacitor.label>Удалить конденсатор смертосна</RemoveDeathrestCapacitor.label>
+    <RemoveDeathrestCapacitor.description>Удалить конденсатор смертосна.</RemoveDeathrestCapacitor.description>
+    <RemoveDeathrestCapacitor.jobString>Удаление конденсатора смертосна.</RemoveDeathrestCapacitor.jobString>
+
+    <InstallDeathrestApparatus.label>Установить аппарат смертосна</InstallDeathrestApparatus.label>
+    <InstallDeathrestApparatus.description>Установить аппарат смертосна.</InstallDeathrestApparatus.description>
+    <InstallDeathrestApparatus.jobString>Установка аппарата смертосна.</InstallDeathrestApparatus.jobString>
+
+    <RemoveDeathrestApparatus.label>Удалить аппарат смертосна</RemoveDeathrestApparatus.label>
+    <RemoveDeathrestApparatus.description>Удалить аппарат смертосна.</RemoveDeathrestApparatus.description>
+    <RemoveDeathrestApparatus.jobString>Удаление аппарата смертосна.</RemoveDeathrestApparatus.jobString>
+</LanguageData>

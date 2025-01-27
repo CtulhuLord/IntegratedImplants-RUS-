@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <InstallLeftExtraFSFAdvBionicArm.label>Установить левую улучшенную бионическую руку FSF</InstallLeftExtraFSFAdvBionicArm.label>
+    <InstallLeftExtraFSFAdvBionicArm.description>Установить левую улучшенную бионическую руку FSF.</InstallLeftExtraFSFAdvBionicArm.description>
+    <InstallLeftExtraFSFAdvBionicArm.jobString>Устанавливает левую улучшенную бионическую руку FSF.</InstallLeftExtraFSFAdvBionicArm.jobString>
+
+    <RemoveLeftExtraFSFAdvBionicArm.label>Удалить левую улучшенную бионическую руку FSF</RemoveLeftExtraFSFAdvBionicArm.label>
+    <RemoveLeftExtraFSFAdvBionicArm.description>Удалить левую улучшенную бионическую руку FSF.</RemoveLeftExtraFSFAdvBionicArm.description>
+    <RemoveLeftExtraFSFAdvBionicArm.jobString>Удаляет левую улучшенную бионическую руку FSF.</RemoveLeftExtraFSFAdvBionicArm.jobString>
+
+    <InstallRightExtraFSFAdvBionicArm.label>Установить правую улучшенную бионическую руку FSF</InstallRightExtraFSFAdvBionicArm.label>
+    <InstallRightExtraFSFAdvBionicArm.description>Установить правую улучшенную бионическую руку FSF.</InstallRightExtraFSFAdvBionicArm.description>
+    <InstallRightExtraFSFAdvBionicArm.jobString>Устанавливает правую улучшенную бионическую руку FSF.</InstallRightExtraFSFAdvBionicArm.jobString>
+
+    <RemoveRightExtraFSFAdvBionicArm.label>Удалить правую улучшенную бионическую руку FSF</RemoveRightExtraFSFAdvBionicArm.label>
+    <RemoveRightExtraFSFAdvBionicArm.description>Удалить правую улучшенную бионическую руку FSF.</RemoveRightExtraFSFAdvBionicArm.description>
+    <RemoveRightExtraFSFAdvBionicArm.jobString>Удаляет правую улучшенную бионическую руку FSF.</RemoveRightExtraFSFAdvBionicArm.jobString>
+
+    <InstallLeftExtraFSFAdvBionicPowerArm.label>Установить левую улучшенную силовую руку FSF</InstallLeftExtraFSFAdvBionicPowerArm.label>
+    <InstallLeftExtraFSFAdvBionicPowerArm.description>Установить левую улучшенную силовую руку FSF.</InstallLeftExtraFSFAdvBionicPowerArm.description>
+    <InstallLeftExtraFSFAdvBionicPowerArm.jobString>Устанавливает левую улучшенную силовую руку FSF.</InstallLeftExtraFSFAdvBionicPowerArm.jobString>
+
+    <RemoveLeftExtraFSFAdvBionicPowerArm.label>Удалить левую улучшенную силовую руку FSF</RemoveLeftExtraFSFAdvBionicPowerArm.label>
+    <RemoveLeftExtraFSFAdvBionicPowerArm.description>Удалить левую улучшенную силовую руку FSF.</RemoveLeftExtraFSFAdvBionicPowerArm.description>
+    <RemoveLeftExtraFSFAdvBionicPowerArm.jobString>Удаляет левую улучшенную силовую руку FSF.</RemoveLeftExtraFSFAdvBionicPowerArm.jobString>
+
+    <InstallRightExtraFSFAdvBionicPowerArm.label>Установить правую улучшенную силовую руку FSF</InstallRightExtraFSFAdvBionicPowerArm.label>
+    <InstallRightExtraFSFAdvBionicPowerArm.description>Установить правую улучшенную силовую руку FSF.</InstallRightExtraFSFAdvBionicPowerArm.description>
+    <InstallRightExtraFSFAdvBionicPowerArm.jobString>Устанавливает правую улучшенную силовую руку FSF.</InstallRightExtraFSFAdvBionicPowerArm.jobString>
+
+    <RemoveRightExtraFSFAdvBionicPowerArm.label>Удалить правую улучшенную силовую руку FSF</RemoveRightExtraFSFAdvBionicPowerArm.label>
+    <RemoveRightExtraFSFAdvBionicPowerArm.description>Удалить правую улучшенную силовую руку FSF.</RemoveRightExtraFSFAdvBionicPowerArm.description>
+    <RemoveRightExtraFSFAdvBionicPowerArm.jobString>Удаляет правую улучшенную силовую руку FSF.</RemoveRightExtraFSFAdvBionicPowerArm.jobString>
+
+    <InstallLeftExtraFSFAdvBionicBreachArm.label>Установить левую улучшенную пробивную руку FSF</InstallLeftExtraFSFAdvBionicBreachArm.label>
+    <InstallLeftExtraFSFAdvBionicBreachArm.description>Установить левую улучшенную пробивную руку FSF.</InstallLeftExtraFSFAdvBionicBreachArm.description>
+    <InstallLeftExtraFSFAdvBionicBreachArm.jobString>Устанавливает левую улучшенную пробивную руку FSF.</InstallLeftExtraFSFAdvBionicBreachArm.jobString>
+
+    <RemoveLeftExtraFSFAdvBionicBreachArm.label>Удалить левую улучшенную пробивную руку FSF</RemoveLeftExtraFSFAdvBionicBreachArm.label>
+    <RemoveLeftExtraFSFAdvBionicBreachArm.description>Удалить левую улучшенную пробивную руку FSF.</RemoveLeftExtraFSFAdvBionicBreachArm.description>
+    <RemoveLeftExtraFSFAdvBionicBreachArm.jobString>Удаляет левую улучшенную пробивную руку FSF.</RemoveLeftExtraFSFAdvBionicBreachArm.jobString>
+
+    <InstallRightExtraFSFAdvBionicBreachArm.label>Установить правую улучшенную пробивную руку FSF</InstallRightExtraFSFAdvBionicBreachArm.label>
+    <InstallRightExtraFSFAdvBionicBreachArm.description>Установить правую улучшенную пробивную руку FSF.</InstallRightExtraFSFAdvBionicBreachArm.description>
+    <InstallRightExtraFSFAdvBionicBreachArm.jobString>Устанавливает правую улучшенную пробивную руку FSF.</InstallRightExtraFSFAdvBionicBreachArm.jobString>
+
+    <RemoveRightExtraFSFAdvBionicBreachArm.label>Удалить правую улучшенную пробивную руку FSF</RemoveRightExtraFSFAdvBionicBreachArm.label>
+    <RemoveRightExtraFSFAdvBionicBreachArm.description>Удалить правую улучшенную пробивную руку FSF.</RemoveRightExtraFSFAdvBionicBreachArm.description>
+    <RemoveRightExtraFSFAdvBionicBreachArm.jobString>Удаляет правую улучшенную пробивную руку FSF.</RemoveRightExtraFSFAdvBionicBreachArm.jobString>
+
+    <InstallLeftExtraFSFAdvBionicTaserArm.label>Установить левую улучшенную шоковую руку FSF</InstallLeftExtraFSFAdvBionicTaserArm.label>
+    <InstallLeftExtraFSFAdvBionicTaserArm.description>Установить левую улучшенную шоковую руку FSF.</InstallLeftExtraFSFAdvBionicTaserArm.description>
+    <InstallLeftExtraFSFAdvBionicTaserArm.jobString>Устанавливает левую улучшенную шоковую руку FSF.</InstallLeftExtraFSFAdvBionicTaserArm.jobString>
+
+    <RemoveLeftExtraFSFAdvBionicTaserArm.label>Удалить левую улучшенную шоковую руку FSF</RemoveLeftExtraFSFAdvBionicTaserArm.label>
+    <RemoveLeftExtraFSFAdvBionicTaserArm.description>Удалить левую улучшенную шоковую руку FSF.</RemoveLeftExtraFSFAdvBionicTaserArm.description>
+    <RemoveLeftExtraFSFAdvBionicTaserArm.jobString>Удаляет левую улучшенную шоковую руку FSF.</RemoveLeftExtraFSFAdvBionicTaserArm.jobString>
+
+    <InstallRightExtraFSFAdvBionicTaserArm.label>Установить правую улучшенную шоковую руку FSF</InstallRightExtraFSFAdvBionicTaserArm.label>
+    <InstallRightExtraFSFAdvBionicTaserArm.description>Установить правую улучшенную шоковую руку FSF.</InstallRightExtraFSFAdvBionicTaserArm.description>
+    <InstallRightExtraFSFAdvBionicTaserArm.jobString>Устанавливает правую улучшенную шоковую руку FSF.</InstallRightExtraFSFAdvBionicTaserArm.jobString>
+
+    <RemoveRightExtraFSFAdvBionicTaserArm.label>Удалить правую улучшенную шоковую руку FSF</RemoveRightExtraFSFAdvBionicTaserArm.label>
+    <RemoveRightExtraFSFAdvBionicTaserArm.description>Удалить правую улучшенную шоковую руку FSF.</RemoveRightExtraFSFAdvBionicTaserArm.description>
+    <RemoveRightExtraFSFAdvBionicTaserArm.jobString>Удаляет правую улучшенную шоковую руку FSF.</RemoveRightExtraFSFAdvBionicTaserArm.jobString>
+
+    <InstallLeftExtraFSFAdvBionicConstructionArm.label>Установить левую улучшенную строительную руку FSF</InstallLeftExtraFSFAdvBionicConstructionArm.label>
+    <InstallLeftExtraFSFAdvBionicConstructionArm.description>Установить левую улучшенную строительную руку FSF.</InstallLeftExtraFSFAdvBionicConstructionArm.description>
+    <InstallLeftExtraFSFAdvBionicConstructionArm.jobString>Устанавливает левую улучшенную строительную руку FSF.</InstallLeftExtraFSFAdvBionicConstructionArm.jobString>
+
+    <RemoveLeftExtraFSFAdvBionicConstructionArm.label>Удалить левую улучшенную строительную руку FSF</RemoveLeftExtraFSFAdvBionicConstructionArm.label>
+    <RemoveLeftExtraFSFAdvBionicConstructionArm.description>Удалить левую улучшенную строительную руку FSF.</RemoveLeftExtraFSFAdvBionicConstructionArm.description>
+    <RemoveLeftExtraFSFAdvBionicConstructionArm.jobString>Удаляет левую улучшенную строительную руку FSF.</RemoveLeftExtraFSFAdvBionicConstructionArm.jobString>
+
+    <InstallRightExtraFSFAdvBionicConstructionArm.label>Установить правую улучшенную строительную руку FSF</InstallRightExtraFSFAdvBionicConstructionArm.label>
+    <InstallRightExtraFSFAdvBionicConstructionArm.description>Установить правую улучшенную строительную руку FSF.</InstallRightExtraFSFAdvBionicConstructionArm.description>
+    <InstallRightExtraFSFAdvBionicConstructionArm.jobString>Устанавливает правую улучшенную строительную руку FSF.</InstallRightExtraFSFAdvBionicConstructionArm.jobString>
+
+    <RemoveRightExtraFSFAdvBionicConstructionArm.label>Удалить правую улучшенную строительную руку FSF</RemoveRightExtraFSFAdvBionicConstructionArm.label>
+    <RemoveRightExtraFSFAdvBionicConstructionArm.description>Удалить правую улучшенную строительную руку FSF.</RemoveRightExtraFSFAdvBionicConstructionArm.description>
+    <RemoveRightExtraFSFAdvBionicConstructionArm.jobString>Удаляет правую улучшенную строительную руку FSF.</RemoveRightExtraFSFAdvBionicConstructionArm.jobString>
+
+    <InstallLeftExtraFSFAdvBionicDrillArm.label>Установить левую улучшенную буровую руку FSF</InstallLeftExtraFSFAdvBionicDrillArm.label>
+    <InstallLeftExtraFSFAdvBionicDrillArm.description>Установить левую улучшенную буровую руку FSF.</InstallLeftExtraFSFAdvBionicDrillArm.description>
+    <InstallLeftExtraFSFAdvBionicDrillArm.jobString>Устанавливает левую улучшенную буровую руку FSF.</InstallLeftExtraFSFAdvBionicDrillArm.jobString>
+
+    <RemoveLeftExtraFSFAdvBionicDrillArm.label>Удалить левую улучшенную буровую руку FSF</RemoveLeftExtraFSFAdvBionicDrillArm.label>
+    <RemoveLeftExtraFSFAdvBionicDrillArm.description>Удалить левую улучшенную буровую руку FSF.</RemoveLeftExtraFSFAdvBionicDrillArm.description>
+    <RemoveLeftExtraFSFAdvBionicDrillArm.jobString>Удаляет левую улучшенную буровую руку FSF.</RemoveLeftExtraFSFAdvBionicDrillArm.jobString>
+
+    <InstallRightExtraFSFAdvBionicDrillArm.label>Установить правую улучшенную буровую руку FSF</InstallRightExtraFSFAdvBionicDrillArm.label>
+    <InstallRightExtraFSFAdvBionicDrillArm.description>Установить правую улучшенную буровую руку FSF.</InstallRightExtraFSFAdvBionicDrillArm.description>
+    <InstallRightExtraFSFAdvBionicDrillArm.jobString>Устанавливает правую улучшенную буровую руку FSF.</InstallRightExtraFSFAdvBionicDrillArm.jobString>
+
+    <RemoveRightExtraFSFAdvBionicDrillArm.label>Удалить правую улучшенную буровую руку FSF</RemoveRightExtraFSFAdvBionicDrillArm.label>
+    <RemoveRightExtraFSFAdvBionicDrillArm.description>Удалить правую улучшенную буровую руку FSF.</RemoveRightExtraFSFAdvBionicDrillArm.description>
+    <RemoveRightExtraFSFAdvBionicDrillArm.jobString>Удаляет правую улучшенную буровую руку FSF.</RemoveRightExtraFSFAdvBionicDrillArm.jobString>
+
+    <InstallLeftExtraFSFAdvBionicFieldArm.label>Установить левую улучшенную полевую руку FSF</InstallLeftExtraFSFAdvBionicFieldArm.label>
+    <InstallLeftExtraFSFAdvBionicFieldArm.description>Установить левую улучшенную полевую руку FSF.</InstallLeftExtraFSFAdvBionicFieldArm.description>
+    <InstallLeftExtraFSFAdvBionicFieldArm.jobString>Устанавливает левую улучшенную полевую руку FSF.</InstallLeftExtraFSFAdvBionicFieldArm.jobString>
+
+    <RemoveLeftExtraFSFAdvBionicFieldArm.label>Удалить левую улучшенную полевую руку FSF</RemoveLeftExtraFSFAdvBionicFieldArm.label>
+    <RemoveLeftExtraFSFAdvBionicFieldArm.description>Удалить левую улучшенную полевую руку FSF.</RemoveLeftExtraFSFAdvBionicFieldArm.description>
+    <RemoveLeftExtraFSFAdvBionicFieldArm.jobString>Удаляет левую улучшенную полевую руку FSF.</RemoveLeftExtraFSFAdvBionicFieldArm.jobString>
+
+    <InstallRightExtraFSFAdvBionicFieldArm.label>Установить правую улучшенную полевую руку FSF</InstallRightExtraFSFAdvBionicFieldArm.label>
+    <InstallRightExtraFSFAdvBionicFieldArm.description>Установить правую улучшенную полевую руку FSF.</InstallRightExtraFSFAdvBionicFieldArm.description>
+    <InstallRightExtraFSFAdvBionicFieldArm.jobString>Устанавливает правую улучшенную полевую руку FSF.</InstallRightExtraFSFAdvBionicFieldArm.jobString>
+
+    <RemoveRightExtraFSFAdvBionicFieldArm.label>Удалить правую улучшенную полевую руку FSF</RemoveRightExtraFSFAdvBionicFieldArm.label>
+    <RemoveRightExtraFSFAdvBionicFieldArm.description>Удалить правую улучшенную полевую руку FSF.</RemoveRightExtraFSFAdvBionicFieldArm.description>
+    <RemoveRightExtraFSFAdvBionicFieldArm.jobString>Удаляет правую улучшенную полевую руку FSF.</RemoveRightExtraFSFAdvBionicFieldArm.jobString>
+
+    <InstallLeftExtraFSFAdvBionicMedicArm.label>Установить левую улучшенную медицинскую руку FSF</InstallLeftExtraFSFAdvBionicMedicArm.label>
+    <InstallLeftExtraFSFAdvBionicMedicArm.description>Установить левую улучшенную медицинскую руку FSF.</InstallLeftExtraFSFAdvBionicMedicArm.description>
+    <InstallLeftExtraFSFAdvBionicMedicArm.jobString>Устанавливает левую улучшенную медицинскую руку FSF.</InstallLeftExtraFSFAdvBionicMedicArm.jobString>
+
+    <RemoveLeftExtraFSFAdvBionicMedicArm.label>Удалить левую улучшенную медицинскую руку FSF</RemoveLeftExtraFSFAdvBionicMedicArm.label>
+    <RemoveLeftExtraFSFAdvBionicMedicArm.description>Удалить левую улучшенную медицинскую руку FSF.</RemoveLeftExtraFSFAdvBionicMedicArm.description>
+    <RemoveLeftExtraFSFAdvBionicMedicArm.jobString>Удаляет левую улучшенную медицинскую руку FSF.</RemoveLeftExtraFSFAdvBionicMedicArm.jobString>
+
+    <InstallRightExtraFSFAdvBionicMedicArm.label>Установить правую улучшенную медицинскую руку FSF</InstallRightExtraFSFAdvBionicMedicArm.label>
+    <InstallRightExtraFSFAdvBionicMedicArm.description>Установить правую улучшенную медицинскую руку FSF.</InstallRightExtraFSFAdvBionicMedicArm.description>
+    <InstallRightExtraFSFAdvBionicMedicArm.jobString>Устанавливает правую улучшенную медицинскую руку FSF.</InstallRightExtraFSFAdvBionicMedicArm.jobString>
+
+    <RemoveRightExtraFSFAdvBionicMedicArm.label>Удалить правую улучшенную медицинскую руку FSF</RemoveRightExtraFSFAdvBionicMedicArm.label>
+    <RemoveRightExtraFSFAdvBionicMedicArm.description>Удалить правую улучшенную медицинскую руку FSF.</RemoveRightExtraFSFAdvBionicMedicArm.description>
+    <RemoveRightExtraFSFAdvBionicMedicArm.jobString>Удаляет правую улучшенную медицинскую руку FSF.</RemoveRightExtraFSFAdvBionicMedicArm.jobString>
+
+    <InstallLeftExtraFSFArchotechMedicArm.label>Установить левую архотек-медицинскую руку FSF</InstallLeftExtraFSFArchotechMedicArm.label>
+    <InstallLeftExtraFSFArchotechMedicArm.description>Установить левую архотек-медицинскую руку FSF.</InstallLeftExtraFSFArchotechMedicArm.description>
+    <InstallLeftExtraFSFArchotechMedicArm.jobString>Устанавливает левую архотек-медицинскую руку FSF.</InstallLeftExtraFSFArchotechMedicArm.jobString>
+
+    <RemoveLeftExtraFSFArchotechMedicArm.label>Удалить левую архотек-медицинскую руку FSF</RemoveLeftExtraFSFArchotechMedicArm.label>
+    <RemoveLeftExtraFSFArchotechMedicArm.description>Удалить левую архотек-медицинскую руку FSF.</RemoveLeftExtraFSFArchotechMedicArm.description>
+    <RemoveLeftExtraFSFArchotechMedicArm.jobString>Удаляет левую архотек-медицинскую руку FSF.</RemoveLeftExtraFSFArchotechMedicArm.jobString>
+
+    <InstallRightExtraFSFArchotechMedicArm.label>Установить правую архотек-медицинскую руку FSF</InstallRightExtraFSFArchotechMedicArm.label>
+    <InstallRightExtraFSFArchotechMedicArm.description>Установить правую архотек-медицинскую руку FSF.</InstallRightExtraFSFArchotechMedicArm.description>
+    <InstallRightExtraFSFArchotechMedicArm.jobString>Устанавливает правую архотек-медицинскую руку FSF.</InstallRightExtraFSFArchotechMedicArm.jobString>
+
+    <RemoveRightExtraFSFArchotechMedicArm.label>Удалить правую архотек-медицинскую руку FSF</RemoveRightExtraFSFArchotechMedicArm.label>
+    <RemoveRightExtraFSFArchotechMedicArm.description>Удалить правую архотек-медицинскую руку FSF.</RemoveRightExtraFSFArchotechMedicArm.description>
+    <RemoveRightExtraFSFArchotechMedicArm.jobString>Удаляет правую архотек-медицинскую руку FSF.</RemoveRightExtraFSFArchotechMedicArm.jobString>
+
+    <InstallLeftExtraFSFArchotechPowerArm.label>Установить левую архотек-силовую руку FSF</InstallLeftExtraFSFArchotechPowerArm.label>
+    <InstallLeftExtraFSFArchotechPowerArm.description>Установить левую архотек-силовую руку FSF.</InstallLeftExtraFSFArchotechPowerArm.description>
+    <InstallLeftExtraFSFArchotechPowerArm.jobString>Устанавливает левую архотек-силовую руку FSF.</InstallLeftExtraFSFArchotechPowerArm.jobString>
+
+    <RemoveLeftExtraFSFArchotechPowerArm.label>Удалить левую архотек-силовую руку FSF</RemoveLeftExtraFSFArchotechPowerArm.label>
+    <RemoveLeftExtraFSFArchotechPowerArm.description>Удалить левую архотек-силовую руку FSF.</RemoveLeftExtraFSFArchotechPowerArm.description>
+    <RemoveLeftExtraFSFArchotechPowerArm.jobString>Удаляет левую архотек-силовую руку FSF.</RemoveLeftExtraFSFArchotechPowerArm.jobString>
+
+    <InstallRightExtraFSFArchotechPowerArm.label>Установить правую архотек-силовую руку FSF</InstallRightExtraFSFArchotechPowerArm.label>
+    <InstallRightExtraFSFArchotechPowerArm.description>Установить правую архотек-силовую руку FSF.</InstallRightExtraFSFArchotechPowerArm.description>
+    <InstallRightExtraFSFArchotechPowerArm.jobString>Устанавливает правую архотек-силовую руку FSF.</InstallRightExtraFSFArchotechPowerArm.jobString>
+
+    <RemoveRightExtraFSFArchotechPowerArm.label>Удалить правую архотек-силовую руку FSF</RemoveRightExtraFSFArchotechPowerArm.label>
+    <RemoveRightExtraFSFArchotechPowerArm.description>Удалить правую архотек-силовую руку FSF.</RemoveRightExtraFSFArchotechPowerArm.description>
+    <RemoveRightExtraFSFArchotechPowerArm.jobString>Удаляет правую архотек-силовую руку FSF.</RemoveRightExtraFSFArchotechPowerArm.jobString>
+</LanguageData>

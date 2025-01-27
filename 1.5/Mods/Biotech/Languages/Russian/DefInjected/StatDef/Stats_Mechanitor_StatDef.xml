@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <ShootingAccuracyPawnOffsetMech.label>Смещение точности стрельбы механоидов</ShootingAccuracyPawnOffsetMech.label>
+    <ShootingAccuracyPawnOffsetMech.description>Смещение точности стрельбы, применяемое к механоидам механитора.</ShootingAccuracyPawnOffsetMech.description>
+
+    <AimingDelayFactorOffsetMech.label>Смещение времени прицеливания механоидов</AimingDelayFactorOffsetMech.label>
+    <AimingDelayFactorOffsetMech.description>Смещение времени прицеливания, применяемое к механоидам механитора.</AimingDelayFactorOffsetMech.description>
+
+    <MeleeHitChanceOffsetMech.label>Смещение шанса попадания в ближнем бою механоидов</MeleeHitChanceOffsetMech.label>
+    <MeleeHitChanceOffsetMech.description>Смещение шанса попадания в ближнем бою, применяемое к механоидам механитора.</MeleeHitChanceOffsetMech.description>
+
+    <MeleeDodgeChanceOffsetMech.label>Смещение шанса уклонения в ближнем бою механоидов</MeleeDodgeChanceOffsetMech.label>
+    <MeleeDodgeChanceOffsetMech.description>Смещение шанса уклонения в ближнем бою, применяемое к механоидам механитора.</MeleeDodgeChanceOffsetMech.description>
+
+    <MechRemoteControlDistanceOffset.label>Смещение дальности удаленного управления механоидами</MechRemoteControlDistanceOffset.label>
+    <MechRemoteControlDistanceOffset.description>Смещение максимальной дальности, на которой механитор может управлять механоидом.</MechRemoteControlDistanceOffset.description>
+
+    <MechRemoteResurrectDistance.label>Дальность удаленного воскрешения механоидов</MechRemoteResurrectDistance.label>
+    <MechRemoteResurrectDistance.description>Максимальная дальность, на которой механитор может воскресить механоида.</MechRemoteResurrectDistance.description>
+
+    <MechRemoteDominateDistance.label>Дальность удаленного подчинения механоидов</MechRemoteDominateDistance.label>
+    <MechRemoteDominateDistance.description>Максимальная дальность, на которой механитор может подчинить механоида.</MechRemoteDominateDistance.description>
+
+    <MechwombCapacity.label>Вместимость мехоматки</MechwombCapacity.label>
+    <MechwombCapacity.description>Максимальная вместимость материалов установленной мехоматки.</MechwombCapacity.description>
+
+    <MechhiveSatelliteUplinkCooldownFactor.label>Множитель времени восстановления вызова скопления механоидов</MechhiveSatelliteUplinkCooldownFactor.label>
+    <MechhiveSatelliteUplinkCooldownFactor.description>Множитель времени восстановления способности вызова скопления механоидов.</MechhiveSatelliteUplinkCooldownFactor.description>
+</LanguageData>

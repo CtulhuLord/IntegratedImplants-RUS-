@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <MechanicalBirthControl.label>Активный контроль рождаемости</MechanicalBirthControl.label>
+    <MechanicalBirthControl.description>У этого человека есть имплант, выделяющий гормоны для подавления овуляции.</MechanicalBirthControl.description>
+
+    <PsychicNullifierActive.label>Психическое подавление</PsychicNullifierActive.label>
+    <PsychicNullifierActive.description>Этот человек проецирует вокруг себя личное психическое поле. Это психическое поле несовместимо с другими психическими полями, например, полями находящихся поблизости архотеков, тем самым защищая пользователя от их воздействия.</PsychicNullifierActive.description>
+
+    <RampantRegenerationBuildup.label>Накопление безудержной регенерации</RampantRegenerationBuildup.label>
+    <RampantRegenerationBuildup.description>Невидимый модификатор для отслеживания накопления безудержной регенерации.</RampantRegenerationBuildup.description>
+
+    <RampantRegeneration.label>Шок от безудержной регенерации</RampantRegeneration.label>
+    <RampantRegeneration.description>Регенерация этого человека вышла из-под контроля. Огромные массы плоти вырастают из его тела, прежде чем отделиться и превратиться в плотоядных зверей. Этот человек недееспособен из-за шока.</RampantRegeneration.description>
+
+    <DreadheartRegeneration.label>Регенерация «Страшное сердце»</DreadheartRegeneration.label>
+    <DreadheartRegeneration.description>Это существо испытывает невероятно быструю регенерацию, поддерживаемую удаленным архотек двигателем. Оно излечит почти любую рану за короткое время.</DreadheartRegeneration.description>
+
+    <Blacksight.label>Чёрное зрение</Blacksight.label>
+    <Blacksight.description>Это существо видит мир как жестокое, изрезанное, металлическое подобие его прежнего облика. Тьма бодрит. Серый, бурлящий солнечный свет обжигает всё, что попадает на свет.</Blacksight.description>
+    <Blacksight.stages.0.label>Крайне яркий свет</Blacksight.stages.0.label>
+    <Blacksight.stages.1.label>Яркий свет</Blacksight.stages.1.label>
+    <Blacksight.stages.2.label>Умеренный свет</Blacksight.stages.2.label>
+    <Blacksight.stages.3.label>Слабый свет</Blacksight.stages.3.label>
+    <Blacksight.stages.4.label>Умеренная тьма</Blacksight.stages.4.label>
+    <Blacksight.stages.5.label>Сильная тьма</Blacksight.stages.5.label>
+    <Blacksight.stages.6.label>Полная тьма</Blacksight.stages.6.label>
+
+    <LTS_ActiveVoicelock.label>Активная блокировка голоса</LTS_ActiveVoicelock.label>
+    <LTS_ActiveVoicelock.description>У этого человека есть имплант, который мешает ему говорить.</LTS_ActiveVoicelock.description>
+</LanguageData>

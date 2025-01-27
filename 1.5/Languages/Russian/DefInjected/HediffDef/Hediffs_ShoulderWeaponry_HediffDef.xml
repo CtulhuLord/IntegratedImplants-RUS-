@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <LTS_ShoulderTurret.label>Наплечная турель</LTS_ShoulderTurret.label>
+    <LTS_ShoulderTurret.labelNoun>Наплечная турель</LTS_ShoulderTurret.labelNoun>
+    <LTS_ShoulderTurret.description>Имплантированная автоматическая турель, устанавливаемая на плечо и предназначенная для поражения целей на коротких дистанциях.</LTS_ShoulderTurret.description>
+
+    <LTS_ShoulderTurretActive.label>Активная наплечная турель</LTS_ShoulderTurretActive.label>
+    <LTS_ShoulderTurretActive.description>Модификатор, активирующий наплечную турель и позволяющий ей вести огонь.</LTS_ShoulderTurretActive.description>
+    <LTS_ShoulderTurretActive.comps.0.verbs.0.label>Огонь из наплечной турели</LTS_ShoulderTurretActive.comps.0.verbs.0.label>
+    <LTS_ShoulderTurretActive.comps.0.verbProps.0.label>Огонь из наплечной турели</LTS_ShoulderTurretActive.comps.0.verbProps.0.label>
+    <LTS_ShoulderTurretActive.comps.0.verbProps.0.visualLabel>Наплечная турель</LTS_ShoulderTurretActive.comps.0.verbProps.0.visualLabel>
+    <LTS_ShoulderTurretActive.comps.0.verbProps.0.description>Автономное орудие малого калибра, предназначенное для установки на плечо и ведения автоматического огня на коротких дистанциях.</LTS_ShoulderTurretActive.comps.0.verbProps.0.description>
+
+    <LTS_ShoulderChargeTurret.label>Наплечная плазменная турель</LTS_ShoulderChargeTurret.label>
+    <LTS_ShoulderChargeTurret.labelNoun>Наплечная плазменная турель</LTS_ShoulderChargeTurret.labelNoun>
+    <LTS_ShoulderChargeTurret.description>Имплантированная плазменная турель, устанавливаемая на плечо и поражающая цели сгустками плазмы.</LTS_ShoulderChargeTurret.description>
+
+    <LTS_ShoulderChargeTurretActive.label>Активная наплечная плазменная турель</LTS_ShoulderChargeTurretActive.label>
+    <LTS_ShoulderChargeTurretActive.description>Модификатор, активирующий наплечную плазменную турель и позволяющий ей вести огонь.</LTS_ShoulderChargeTurretActive.description>
+    <LTS_ShoulderChargeTurretActive.comps.0.verbs.0.label>Огонь из наплечной плазменной турели</LTS_ShoulderChargeTurretActive.comps.0.verbs.0.label>
+    <LTS_ShoulderChargeTurretActive.comps.0.verbProps.0.label>Огонь из наплечной плазменной турели</LTS_ShoulderChargeTurretActive.comps.0.verbProps.0.label>
+    <LTS_ShoulderChargeTurretActive.comps.0.verbProps.0.visualLabel>Наплечная плазменная турель</LTS_ShoulderChargeTurretActive.comps.0.verbProps.0.visualLabel>
+    <LTS_ShoulderChargeTurretActive.comps.0.verbProps.0.description>Автономное плазменное орудие малого калибра, предназначенное для установки на плечо и ведения автоматического огня сгустками плазмы на коротких дистанциях.</LTS_ShoulderChargeTurretActive.comps.0.verbProps.0.description>
+
+    <LTS_ShoulderRocketPod.label>Наплечный ракетный модуль</LTS_ShoulderRocketPod.label>
+    <LTS_ShoulderRocketPod.labelNoun>Наплечный ракетный модуль</LTS_ShoulderRocketPod.labelNoun>
+    <LTS_ShoulderRocketPod.description>Имплантированный наплечный ракетный модуль, запускающий неуправляемые ракеты по навесной траектории.</LTS_ShoulderRocketPod.description>
+
+    <LTS_ShoulderMortar.label>Наплечный миномет</LTS_ShoulderMortar.label>
+    <LTS_ShoulderMortar.labelNoun>Наплечный миномет</LTS_ShoulderMortar.labelNoun>
+    <LTS_ShoulderMortar.description>Имплантированный наплечный миномет, предназначенный для навесного огня по удаленным целям.</LTS_ShoulderMortar.description>
+</LanguageData>

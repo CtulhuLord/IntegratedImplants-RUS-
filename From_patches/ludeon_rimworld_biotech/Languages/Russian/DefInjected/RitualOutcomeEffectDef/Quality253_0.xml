@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <ChildBirth.comps.0.labelMet>Синтетическая матка</ChildBirth.comps.0.labelMet>
+    <ChildBirth.comps.0.labelNotMet>синтетическая матка отсутствует (это сообщение не должно отображаться)</ChildBirth.comps.0.labelNotMet>
+    <ChildBirth.comps.1.labelMet>Архо-матка</ChildBirth.comps.1.labelMet>
+    <ChildBirth.comps.1.labelNotMet>архо-матка отсутствует (это сообщение не должно отображаться)</ChildBirth.comps.1.labelNotMet>
+    <ChildBirth.comps.1.specialMessage>Обеспечивает здоровье</ChildBirth.comps.1.specialMessage>
+    <ChildBirth.comps.1.tipMessage>Ребенок родится здоровым, независимо от качества.</ChildBirth.comps.1.tipMessage>
+</LanguageData>

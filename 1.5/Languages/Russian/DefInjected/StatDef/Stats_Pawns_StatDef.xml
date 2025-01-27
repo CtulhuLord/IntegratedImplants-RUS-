@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <BaseHemogenOffset.label>Базовое смещение гемогена</BaseHemogenOffset.label>
+    <BaseHemogenOffset.description>Смещение вместимости гемогена.</BaseHemogenOffset.description>
+
+    <DeathrestIntervalFactor.label>Множитель интервала посмертного сна</DeathrestIntervalFactor.label>
+    <DeathrestIntervalFactor.description>Множитель времени между необходимостью в посмертном сне.</DeathrestIntervalFactor.description>
+
+    <DeathrestEffectivenessFactor.label>Множитель эффективности посмертного сна</DeathrestEffectivenessFactor.label>
+    <DeathrestEffectivenessFactor.description>Множитель скорости завершения посмертного сна.</DeathrestEffectivenessFactor.description>
+
+    <ChildBirthQualityOffset.label>Смещение качества родов</ChildBirthQualityOffset.label>
+    <ChildBirthQualityOffset.description>Смещение качества, применяемое к родам.</ChildBirthQualityOffset.description>
+
+    <PsychicShieldMaxHealth.label>Базовое здоровье психического щита</PsychicShieldMaxHealth.label>
+    <PsychicShieldMaxHealth.description>Базовое здоровье психического щита.</PsychicShieldMaxHealth.description>
+
+    <BloodRegenerationFactor.label>Множитель регенерации крови</BloodRegenerationFactor.label>
+    <BloodRegenerationFactor.description>Множитель, применяемый к скорости регенерации крови.</BloodRegenerationFactor.description>
+
+    <GestationSpeedFactorDummyStat.label>Множитель скорости беременности</GestationSpeedFactorDummyStat.label>
+    <GestationSpeedFactorDummyStat.description>Множитель скорости беременности у людей.</GestationSpeedFactorDummyStat.description>
+
+    <PsyfocusPerKill.label>Пси-концентрация за убийство</PsyfocusPerKill.label>
+    <PsyfocusPerKill.description>Количество пси-концентрации, которое этот человек восстанавливает после убийства гуманоида.</PsyfocusPerKill.description>
+
+    <I_BrainShockResistance.label>Сопротивляемость шоку мозга</I_BrainShockResistance.label>
+    <I_BrainShockResistance.description>Вероятность того, что человек сопротивляется шоку мозга.</I_BrainShockResistance.description>
+
+    <I_MoodFactor.label>Множитель настроения</I_MoodFactor.label>
+    <I_MoodFactor.description>Сила, с которой человек испытывает чувства.</I_MoodFactor.description>
+
+    <LTS_DarkVision.label>Ночное зрение</LTS_DarkVision.label>
+    <LTS_DarkVision.description>Насколько хорошо человек видит в темноте.</LTS_DarkVision.description>
+
+    <LTS_TerrainDificultyFactor.label>Множитель сложности местности</LTS_TerrainDificultyFactor.label>
+    <LTS_TerrainDificultyFactor.description>Множитель того, насколько сложная местность влияет на человека.</LTS_TerrainDificultyFactor.description>
+
+    <LTS_HediffAimOnTargetFactor.label>Множитель точности по цели</LTS_HediffAimOnTargetFactor.label>
+    <LTS_HediffAimOnTargetFactor.description>Множитель точности выстрелов по этому существу.</LTS_HediffAimOnTargetFactor.description>
+
+    <LTS_SkillDecayFactor.label>Множитель угасания навыков</LTS_SkillDecayFactor.label>
+    <LTS_SkillDecayFactor.description>Множитель того, насколько быстро человек забывает навык.</LTS_SkillDecayFactor.description>
+
+    <LTS_AgeFertilityImpactFactor.label>Множитель влияния возраста на фертильность</LTS_AgeFertilityImpactFactor.label>
+    <LTS_AgeFertilityImpactFactor.description>Множитель влияния возраста на фертильность.</LTS_AgeFertilityImpactFactor.description>
+
+    <LTS_HideGeneTailGraphic_Bool.label>Скрывать графику хвоста гена</LTS_HideGeneTailGraphic_Bool.label>
+    <LTS_HideGeneTailGraphic_Bool.description>Скрытая характеристика, используемая для определения того, следует ли скрывать графику хвоста от генов.</LTS_HideGeneTailGraphic_Bool.description>
+</LanguageData>
