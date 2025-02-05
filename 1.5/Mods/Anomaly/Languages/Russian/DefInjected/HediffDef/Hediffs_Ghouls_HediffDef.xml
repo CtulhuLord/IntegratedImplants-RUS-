@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <NerveShredderClaw.label>Нерво-дробящий коготь</NerveShredderClaw.label>
-  <NerveShredderClaw.labelNoun>Нерво-дробящий коготь</NerveShredderClaw.labelNoun>
+  <NerveShredderClaw.label>Биоферритовый разрывающий коготь</NerveShredderClaw.label>
+  <NerveShredderClaw.labelNoun>Биоферритовый разрывающий коготь</NerveShredderClaw.labelNoun>
   <NerveShredderClaw.description>К этому гулю хирургическим путем имплантирована биоферритовая силовая клешня. Ее зазубренные биоферритовые пальцы покрыты парализующим биоядром.</NerveShredderClaw.description>
-  <NerveShredderClaw.comps.0.tools.0.label>Нерво-дробящий коготь</NerveShredderClaw.comps.0.tools.0.label>
+  <NerveShredderClaw.comps.0.tools.0.label>Биоферритовый разрывающий коготь</NerveShredderClaw.comps.0.tools.0.label>
 
-  <DeadlifeVenomClaw.label>Коготь с ядом мертвой жизни</DeadlifeVenomClaw.label>
-  <DeadlifeVenomClaw.labelNoun>Коготь с ядом мертвой жизни</DeadlifeVenomClaw.labelNoun>
-  <DeadlifeVenomClaw.description>К этому гулю хирургическим путем имплантирована биоферритовая силовая клешня. Ее зазубренные биоферритовые пальцы покрыты ядом мертвой жизни.</DeadlifeVenomClaw.description>
-  <DeadlifeVenomClaw.comps.0.tools.0.label>Коготь с ядом мертвой жизни</DeadlifeVenomClaw.comps.0.tools.0.label>
+  <DeadlifeVenomClaw.label>Коготь с ядом Мертвой жизни</DeadlifeVenomClaw.label>
+  <DeadlifeVenomClaw.labelNoun>Коготь с ядом Мертвой жизни</DeadlifeVenomClaw.labelNoun>
+  <DeadlifeVenomClaw.description>К этому гулю хирургическим путем имплантирована биоферритовая силовая клешня. Ее зазубренные биоферритовые пальцы покрыты ядом Мертвой жизни.</DeadlifeVenomClaw.description>
+  <DeadlifeVenomClaw.comps.0.tools.0.label>Коготь с ядом Мертвой жизни</DeadlifeVenomClaw.comps.0.tools.0.label>
 
   <DeadlifeVenom.label>Яд мертвой жизни</DeadlifeVenom.label>
-  <DeadlifeVenom.description>В кровотоке этого существа находятся разлагающиеся архитекты. Хотя само по себе это не причиняет ему вреда, оно сразу же начнет подниматься как шатун после смерти.</DeadlifeVenom.description>
+  <DeadlifeVenom.description>В кровотоке этого существа находятся распадающиеся архиты. Хотя само по себе это не причиняет ему вреда, оно сразу же начнет подниматься как шамблер после смерти.</DeadlifeVenom.description>
 
   <GhoulMetabolicEngine.label>Метаболический двигатель</GhoulMetabolicEngine.label>
   <GhoulMetabolicEngine.description>В этого гуля хирургическим путем установлен биоферритовый двигатель.</GhoulMetabolicEngine.description>

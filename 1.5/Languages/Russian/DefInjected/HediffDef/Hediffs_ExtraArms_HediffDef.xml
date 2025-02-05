@@ -82,39 +82,39 @@
     <RightExtraFieldHand.stages.3.label>Как родная</RightExtraFieldHand.stages.3.label>
     <RightExtraFieldHand.comps.1.tools.0.label>Манипулятор</RightExtraFieldHand.comps.1.tools.0.label>
 
-    <LeftExtraNerveShredderClaw.label>Левый дополнительный нервно-разрывающий коготь</LeftExtraNerveShredderClaw.label>
-    <LeftExtraNerveShredderClaw.labelNoun>Левый дополнительный нервно-разрывающий коготь</LeftExtraNerveShredderClaw.labelNoun>
+    <LeftExtraNerveShredderClaw.label>Левый дополнительный биоферритовый разрывающий коготь</LeftExtraNerveShredderClaw.label>
+    <LeftExtraNerveShredderClaw.labelNoun>Левый дополнительный биоферритовый разрывающий коготь</LeftExtraNerveShredderClaw.labelNoun>
     <LeftExtraNerveShredderClaw.description>Гулю хирургически имплантирован биоферритовый силовой коготь. Его зазубренные биоферритовые пальцы покрыты паралитическим биотоксином.\n\nПоскольку гули не привыкли к более чем двум рукам, поначалу он будет мешать. Со временем навык улучшится; полное освоение занимает до года.</LeftExtraNerveShredderClaw.description>
     <LeftExtraNerveShredderClaw.stages.0.label>Мешает</LeftExtraNerveShredderClaw.stages.0.label>
     <LeftExtraNerveShredderClaw.stages.1.label>Неудобно</LeftExtraNerveShredderClaw.stages.1.label>
     <LeftExtraNerveShredderClaw.stages.2.label>Привычно</LeftExtraNerveShredderClaw.stages.2.label>
     <LeftExtraNerveShredderClaw.stages.3.label>Как родной</LeftExtraNerveShredderClaw.stages.3.label>
-    <LeftExtraNerveShredderClaw.comps.1.tools.0.label>Нервно-разрывающий коготь</LeftExtraNerveShredderClaw.comps.1.tools.0.label>
+    <LeftExtraNerveShredderClaw.comps.1.tools.0.label>Биоферритовый разрывающий коготь</LeftExtraNerveShredderClaw.comps.1.tools.0.label>
 
-    <RightExtraNerveShredderClaw.label>Правый дополнительный нервно-разрывающий коготь</RightExtraNerveShredderClaw.label>
-    <RightExtraNerveShredderClaw.labelNoun>Правый дополнительный нервно-разрывающий коготь</RightExtraNerveShredderClaw.labelNoun>
+    <RightExtraNerveShredderClaw.label>Правый дополнительный биоферритовый разрывающий коготь</RightExtraNerveShredderClaw.label>
+    <RightExtraNerveShredderClaw.labelNoun>Правый дополнительный биоферритовый разрывающий коготь </RightExtraNerveShredderClaw.labelNoun>
     <RightExtraNerveShredderClaw.description>Гулю хирургически имплантирован биоферритовый силовой коготь. Его зазубренные биоферритовые пальцы покрыты паралитическим биотоксином.\n\nПоскольку гули не привыкли к более чем двум рукам, поначалу он будет мешать. Со временем навык улучшится; полное освоение занимает до года.</RightExtraNerveShredderClaw.description>
     <RightExtraNerveShredderClaw.stages.0.label>Мешает</RightExtraNerveShredderClaw.stages.0.label>
     <RightExtraNerveShredderClaw.stages.1.label>Неудобно</RightExtraNerveShredderClaw.stages.1.label>
     <RightExtraNerveShredderClaw.stages.2.label>Привычно</RightExtraNerveShredderClaw.stages.2.label>
     <RightExtraNerveShredderClaw.stages.3.label>Как родной</RightExtraNerveShredderClaw.stages.3.label>
-    <RightExtraNerveShredderClaw.comps.1.tools.0.label>Нервно-разрывающий коготь</RightExtraNerveShredderClaw.comps.1.tools.0.label>
+    <RightExtraNerveShredderClaw.comps.1.tools.0.label>Биоферритовый разрывающий коготь</RightExtraNerveShredderClaw.comps.1.tools.0.label>
 
-    <LeftExtraDeadlifeVenomClaw.label>Левый дополнительный коготь с ядом «Мёртвая жизнь»</LeftExtraDeadlifeVenomClaw.label>
-    <LeftExtraDeadlifeVenomClaw.labelNoun>Левый дополнительный коготь с ядом «Мёртвая жизнь»</LeftExtraDeadlifeVenomClaw.labelNoun>
-    <LeftExtraDeadlifeVenomClaw.description>Гулю хирургически имплантирован биоферритовый силовой коготь. Его зазубренные биоферритовые пальцы покрыты ядом «Мёртвая жизнь».\n\nПоскольку гули не привыкли к более чем двум рукам, поначалу он будет мешать. Со временем навык улучшится; полное освоение занимает до года.</LeftExtraDeadlifeVenomClaw.description>
+    <LeftExtraDeadlifeVenomClaw.label>Левый дополнительный коготь с ядом Мертвой жизни</LeftExtraDeadlifeVenomClaw.label>
+    <LeftExtraDeadlifeVenomClaw.labelNoun>Левый дополнительный коготь с ядом Мертвой жизни</LeftExtraDeadlifeVenomClaw.labelNoun>
+    <LeftExtraDeadlifeVenomClaw.description>Гулю хирургически имплантирован биоферритовый силовой коготь. Его зазубренные биоферритовые пальцы покрыты ядом Мертвой жизни.\n\nПоскольку гули не привыкли к более чем двум рукам, поначалу он будет мешать. Со временем навык улучшится; полное освоение занимает до года.</LeftExtraDeadlifeVenomClaw.description>
     <LeftExtraDeadlifeVenomClaw.stages.0.label>Мешает</LeftExtraDeadlifeVenomClaw.stages.0.label>
     <LeftExtraDeadlifeVenomClaw.stages.1.label>Неудобно</LeftExtraDeadlifeVenomClaw.stages.1.label>
     <LeftExtraDeadlifeVenomClaw.stages.2.label>Привычно</LeftExtraDeadlifeVenomClaw.stages.2.label>
     <LeftExtraDeadlifeVenomClaw.stages.3.label>Как родной</LeftExtraDeadlifeVenomClaw.stages.3.label>
-    <LeftExtraDeadlifeVenomClaw.comps.1.tools.0.label>Коготь с ядом «Мёртвая жизнь»</LeftExtraDeadlifeVenomClaw.comps.1.tools.0.label>
+    <LeftExtraDeadlifeVenomClaw.comps.1.tools.0.label>Коготь с ядом Мертвой жизни</LeftExtraDeadlifeVenomClaw.comps.1.tools.0.label>
 
-    <RightExtraDeadlifeVenomClaw.label>Правый дополнительный коготь с ядом «Мёртвая жизнь»</RightExtraDeadlifeVenomClaw.label>
-    <RightExtraDeadlifeVenomClaw.labelNoun>Правый дополнительный коготь с ядом «Мёртвая жизнь»</RightExtraDeadlifeVenomClaw.labelNoun>
-    <RightExtraDeadlifeVenomClaw.description>Гулю хирургически имплантирован биоферритовый силовой коготь. Его зазубренные биоферритовые пальцы покрыты ядом «Мёртвая жизнь».\n\nПоскольку гули не привыкли к более чем двум рукам, поначалу он будет мешать. Со временем навык улучшится; полное освоение занимает до года.</RightExtraDeadlifeVenomClaw.description>
+    <RightExtraDeadlifeVenomClaw.label>Правый дополнительный коготь с ядом Мертвой жизни</RightExtraDeadlifeVenomClaw.label>
+    <RightExtraDeadlifeVenomClaw.labelNoun>Правый дополнительный коготь с ядом Мертвой жизни</RightExtraDeadlifeVenomClaw.labelNoun>
+    <RightExtraDeadlifeVenomClaw.description>Гулю хирургически имплантирован биоферритовый силовой коготь. Его зазубренные биоферритовые пальцы покрыты ядом Мертвой жизни.\n\nПоскольку гули не привыкли к более чем двум рукам, поначалу он будет мешать. Со временем навык улучшится; полное освоение занимает до года.</RightExtraDeadlifeVenomClaw.description>
     <RightExtraDeadlifeVenomClaw.stages.0.label>Мешает</RightExtraDeadlifeVenomClaw.stages.0.label>
     <RightExtraDeadlifeVenomClaw.stages.1.label>Неудобно</RightExtraDeadlifeVenomClaw.stages.1.label>
     <RightExtraDeadlifeVenomClaw.stages.2.label>Привычно</RightExtraDeadlifeVenomClaw.stages.2.label>
     <RightExtraDeadlifeVenomClaw.stages.3.label>Как родной</RightExtraDeadlifeVenomClaw.stages.3.label>
-    <RightExtraDeadlifeVenomClaw.comps.1.tools.0.label>Коготь с ядом «Мёртвая жизнь»</RightExtraDeadlifeVenomClaw.comps.1.tools.0.label>
+    <RightExtraDeadlifeVenomClaw.comps.1.tools.0.label>Коготь с ядом Мертвой жизни</RightExtraDeadlifeVenomClaw.comps.1.tools.0.label>
 </LanguageData>

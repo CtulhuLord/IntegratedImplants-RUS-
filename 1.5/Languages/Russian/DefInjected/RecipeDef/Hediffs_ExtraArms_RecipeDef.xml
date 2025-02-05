@@ -80,35 +80,35 @@
     <RemoveRightExtraFieldHand.description>Удалить правую дополнительную аграрную руку.</RemoveRightExtraFieldHand.description>
     <RemoveRightExtraFieldHand.jobString>Удаляет правую дополнительную аграрную руку.</RemoveRightExtraFieldHand.jobString>
 
-    <InstallLeftExtraNerveShredderClaw.label>Установить левый дополнительный нервно-разрывающий коготь</InstallLeftExtraNerveShredderClaw.label>
-    <InstallLeftExtraNerveShredderClaw.description>Установить левый дополнительный нервно-разрывающий коготь.</InstallLeftExtraNerveShredderClaw.description>
-    <InstallLeftExtraNerveShredderClaw.jobString>Устанавливает левый дополнительный нервно-разрывающий коготь.</InstallLeftExtraNerveShredderClaw.jobString>
+    <InstallLeftExtraNerveShredderClaw.label>Установить левый дополнительный биоферритовый разрывающий коготь</InstallLeftExtraNerveShredderClaw.label>
+    <InstallLeftExtraNerveShredderClaw.description>Установить левый дополнительный биоферритовый разрывающий коготь.</InstallLeftExtraNerveShredderClaw.description>
+    <InstallLeftExtraNerveShredderClaw.jobString>Устанавливает левый дополнительный биоферритовый разрывающий коготь.</InstallLeftExtraNerveShredderClaw.jobString>
 
-    <ScrapLeftExtraNerveShredderClaw.label>Демонтировать левый нервно-разрывающий коготь</ScrapLeftExtraNerveShredderClaw.label>
-    <ScrapLeftExtraNerveShredderClaw.description>Демонтировать левый нервно-разрывающий коготь.</ScrapLeftExtraNerveShredderClaw.description>
-    <ScrapLeftExtraNerveShredderClaw.jobString>Демонтирует левый нервно-разрывающий коготь.</ScrapLeftExtraNerveShredderClaw.jobString>
+    <ScrapLeftExtraNerveShredderClaw.label>Удалить левый биоферритовый разрывающий коготь</ScrapLeftExtraNerveShredderClaw.label>
+    <ScrapLeftExtraNerveShredderClaw.description>Удалить левый биоферритовый разрывающий коготь.</ScrapLeftExtraNerveShredderClaw.description>
+    <ScrapLeftExtraNerveShredderClaw.jobString>Удаляет левый биоферритовый разрывающий коготь.</ScrapLeftExtraNerveShredderClaw.jobString>
 
-    <InstallRightExtraNerveShredderClaw.label>Установить правый дополнительный нервно-разрывающий коготь</InstallRightExtraNerveShredderClaw.label>
-    <InstallRightExtraNerveShredderClaw.description>Установить правый дополнительный нервно-разрывающий коготь.</InstallRightExtraNerveShredderClaw.description>
-    <InstallRightExtraNerveShredderClaw.jobString>Устанавливает правый дополнительный нервно-разрывающий коготь.</InstallRightExtraNerveShredderClaw.jobString>
+    <InstallRightExtraNerveShredderClaw.label>Установить правый дополнительный биоферритовый разрывающий коготь</InstallRightExtraNerveShredderClaw.label>
+    <InstallRightExtraNerveShredderClaw.description>Установить правый дополнительный биоферритовый разрывающий коготь.</InstallRightExtraNerveShredderClaw.description>
+    <InstallRightExtraNerveShredderClaw.jobString>Устанавливает правый дополнительный биоферритовый разрывающий коготь.</InstallRightExtraNerveShredderClaw.jobString>
 
-    <ScrapRightExtraNerveShredderClaw.label>Демонтировать правый нервно-разрывающий коготь</ScrapRightExtraNerveShredderClaw.label>
-    <ScrapRightExtraNerveShredderClaw.description>Демонтировать правый нервно-разрывающий коготь.</ScrapRightExtraNerveShredderClaw.description>
-    <ScrapRightExtraNerveShredderClaw.jobString>Демонтирует правый нервно-разрывающий коготь.</ScrapRightExtraNerveShredderClaw.jobString>
+    <ScrapRightExtraNerveShredderClaw.label>Удалить правый биоферритовый разрывающий коготь</ScrapRightExtraNerveShredderClaw.label>
+    <ScrapRightExtraNerveShredderClaw.description>Удалить правый биоферритовый разрывающий коготь.</ScrapRightExtraNerveShredderClaw.description>
+    <ScrapRightExtraNerveShredderClaw.jobString>Удаляет правый биоферритовый разрывающий коготь.</ScrapRightExtraNerveShredderClaw.jobString>
 
-    <InstallLeftExtraDeadlifeVenomClaw.label>Установить левый дополнительный коготь с ядом мёртвой жизни</InstallLeftExtraDeadlifeVenomClaw.label>
-    <InstallLeftExtraDeadlifeVenomClaw.description>Установить левый дополнительный коготь с ядом мёртвой жизни.</InstallLeftExtraDeadlifeVenomClaw.description>
-    <InstallLeftExtraDeadlifeVenomClaw.jobString>Устанавливает левый дополнительный коготь с ядом мёртвой жизни.</InstallLeftExtraDeadlifeVenomClaw.jobString>
+    <InstallLeftExtraDeadlifeVenomClaw.label>Установить левый дополнительный коготь с ядом Мертвой жизни</InstallLeftExtraDeadlifeVenomClaw.label>
+    <InstallLeftExtraDeadlifeVenomClaw.description>Установить левый дополнительный коготь с ядом Мертвой жизни.</InstallLeftExtraDeadlifeVenomClaw.description>
+    <InstallLeftExtraDeadlifeVenomClaw.jobString>Устанавливает левый дополнительный коготь с ядом Мертвой жизни.</InstallLeftExtraDeadlifeVenomClaw.jobString>
 
-    <ScrapLeftExtraDeadlifeVenomClaw.label>Демонтировать левый коготь с ядом мёртвой жизни</ScrapLeftExtraDeadlifeVenomClaw.label>
-    <ScrapLeftExtraDeadlifeVenomClaw.description>Демонтировать левый коготь с ядом мёртвой жизни.</ScrapLeftExtraDeadlifeVenomClaw.description>
-    <ScrapLeftExtraDeadlifeVenomClaw.jobString>Демонтирует левый коготь с ядом мёртвой жизни.</ScrapLeftExtraDeadlifeVenomClaw.jobString>
+    <ScrapLeftExtraDeadlifeVenomClaw.label>Удалить левый коготь с ядом Мертвой жизни</ScrapLeftExtraDeadlifeVenomClaw.label>
+    <ScrapLeftExtraDeadlifeVenomClaw.description>Удалить левый коготь с ядом Мертвой жизни.</ScrapLeftExtraDeadlifeVenomClaw.description>
+    <ScrapLeftExtraDeadlifeVenomClaw.jobString>Удаляет левый коготь с ядом Мертвой жизни.</ScrapLeftExtraDeadlifeVenomClaw.jobString>
 
-    <InstallRightExtraDeadlifeVenomClaw.label>Установить правый дополнительный коготь с ядом мёртвой жизни</InstallRightExtraDeadlifeVenomClaw.label>
-    <InstallRightExtraDeadlifeVenomClaw.description>Установить правый дополнительный коготь с ядом мёртвой жизни.</InstallRightExtraDeadlifeVenomClaw.description>
-    <InstallRightExtraDeadlifeVenomClaw.jobString>Устанавливает правый дополнительный коготь с ядом мёртвой жизни.</InstallRightExtraDeadlifeVenomClaw.jobString>
+    <InstallRightExtraDeadlifeVenomClaw.label>Установить правый дополнительный коготь с ядом Мертвой жизни</InstallRightExtraDeadlifeVenomClaw.label>
+    <InstallRightExtraDeadlifeVenomClaw.description>Установить правый дополнительный коготь с ядом Мертвой жизни.</InstallRightExtraDeadlifeVenomClaw.description>
+    <InstallRightExtraDeadlifeVenomClaw.jobString>Устанавливает правый дополнительный коготь с ядом Мертвой жизни.</InstallRightExtraDeadlifeVenomClaw.jobString>
 
-    <ScrapRightExtraDeadlifeVenomClaw.label>Демонтировать правый коготь с ядом мёртвой жизни</ScrapRightExtraDeadlifeVenomClaw.label>
-    <ScrapRightExtraDeadlifeVenomClaw.description>Демонтировать правый коготь с ядом мёртвой жизни.</ScrapRightExtraDeadlifeVenomClaw.description>
-    <ScrapRightExtraDeadlifeVenomClaw.jobString>Демонтирует правый коготь с ядом мёртвой жизни.</ScrapRightExtraDeadlifeVenomClaw.jobString>
+    <ScrapRightExtraDeadlifeVenomClaw.label>Удалить правый коготь с ядом Мертвой жизни</ScrapRightExtraDeadlifeVenomClaw.label>
+    <ScrapRightExtraDeadlifeVenomClaw.description>Удалить правый коготь с ядом Мертвой жизни.</ScrapRightExtraDeadlifeVenomClaw.description>
+    <ScrapRightExtraDeadlifeVenomClaw.jobString>Удаляет правый коготь с ядом Мертвой жизни.</ScrapRightExtraDeadlifeVenomClaw.jobString>
 </LanguageData>
